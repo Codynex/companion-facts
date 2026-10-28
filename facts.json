@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "removed": [],
  "facts": [
   {
@@ -25,7 +25,14 @@
     "en": "Luke 10:29-37",
     "ta": "லூக்கா 10:29-37"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014673"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 73",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 73"
+   }
   },
   {
    "id": "prodigal_son",
@@ -38,8 +45,8 @@
     "ta": "வீடு திரும்பிய மகன்"
    },
    "text": {
-    "en": "A younger son wasted his inheritance and came home ashamed. His father saw him while he was still far away, ran to him and welcomed him back.",
-    "ta": "இளைய மகன் தன் சொத்தை வீணாக்கிவிட்டு வெட்கத்தோடு வீடு திரும்பினான். அவன் தூரத்தில் வரும்போதே அப்பா அவனைப் பார்த்து, ஓடிப்போய் அவனை வரவேற்றார்."
+    "en": "A younger son wasted his inheritance far from home. When he came to his senses he went back, and his father, seeing him while he was still far off, ran to him, hugged him and welcomed him back.",
+    "ta": "இளைய மகன் வீட்டைவிட்டுத் தூரமாகப் போய்த் தன் சொத்தை வீணாக்கினான். புத்தி தெளிந்ததும் திரும்பி வந்தான்; அவன் தூரத்தில் வரும்போதே அப்பா அவனைப் பார்த்து, ஓடிப்போய்க் கட்டியணைத்து வரவேற்றார்."
    },
    "lesson": {
     "en": "Jehovah is eager to forgive those who sincerely come back to him.",
@@ -49,7 +56,14 @@
     "en": "Luke 15:11-32",
     "ta": "லூக்கா 15:11-32"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-east-of-the-jordan/parable-prodigal-son/"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 86",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 86"
+   }
   },
   {
    "id": "lost_sheep",
@@ -62,8 +76,8 @@
     "ta": "காணாமல்போன ஒரு ஆடு"
    },
    "text": {
-    "en": "A shepherd leaves 99 sheep to look for one that is lost, and rejoices when he finds it.",
-    "ta": "ஒரு மேய்ப்பன் 99 ஆடுகளை விட்டுவிட்டு, காணாமல்போன ஒரு ஆட்டைத் தேடிப்போகிறான்; அதைக் கண்டுபிடித்ததும் சந்தோஷப்படுகிறான்."
+    "en": "A shepherd leaves 99 sheep to search for one that is lost. When he finds it, he carries it home on his shoulders and asks his friends to rejoice with him. In the same way, there is joy in heaven over one sinner who repents.",
+    "ta": "ஒரு மேய்ப்பன் 99 ஆடுகளை விட்டுவிட்டு, காணாமல்போன ஒரு ஆட்டைத் தேடிப்போகிறான். அதைக் கண்டுபிடித்ததும் தோளில் சுமந்து வீட்டுக்குக் கொண்டுவந்து, நண்பர்களையும் தன்னோடு சந்தோஷப்படச் சொல்கிறான். அதேபோல், மனந்திரும்பும் ஒரு பாவியைக் குறித்துப் பரலோகத்தில் சந்தோஷம் உண்டாகிறது."
    },
    "lesson": {
     "en": "Every single person matters to Jehovah.",
@@ -73,7 +87,14 @@
     "en": "Luke 15:4-7",
     "ta": "லூக்கா 15:4-7"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1204432/1471/0"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 85",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 85"
+   }
   },
   {
    "id": "four_soils",
@@ -86,8 +107,8 @@
     "ta": "விதைப்பவனும் நிலங்களும்"
    },
    "text": {
-    "en": "Seed fell on a path, on rocky ground, among thorns and on good soil. Only the seed on good soil produced a harvest.",
-    "ta": "விதைகள் வழியோரத்திலும், பாறை நிலத்திலும், முட்செடிகளுக்கு நடுவிலும், நல்ல நிலத்திலும் விழுந்தன. நல்ல நிலத்தில் விழுந்தவை மட்டுமே விளைச்சல் தந்தன."
+    "en": "Seed fell beside the road, on rocky ground, among thorns and on fine soil. Jesus explained that the seed is God’s word and the soil is the heart; only those who accept the word fully and endure bear fruit.",
+    "ta": "விதைகள் வழியோரத்திலும், பாறை நிலத்திலும், முட்செடிகளுக்கு நடுவிலும், நல்ல நிலத்திலும் விழுந்தன. விதை கடவுளுடைய வார்த்தை, நிலம் இருதயம் என்று இயேசு விளக்கினார்; வார்த்தையை முழுமையாக ஏற்றுக்கொண்டு சகித்திருப்பவர்கள் மட்டுமே பலன் தருகிறார்கள்."
    },
    "lesson": {
     "en": "How we receive God’s word decides whether it bears fruit in us.",
@@ -97,7 +118,14 @@
     "en": "Matthew 13:3-23",
     "ta": "மத்தேயு 13:3-23"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-in-galilee/illustrations-kingdom-of-heavens/"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 43",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 43"
+   }
   },
   {
    "id": "mustard_seed",
@@ -110,8 +138,8 @@
     "ta": "கடுகு விதை"
    },
    "text": {
-    "en": "Jesus compared the Kingdom to a tiny mustard seed that grows into a large plant where birds can rest.",
-    "ta": "சின்னஞ்சிறிய கடுகு விதை பறவைகள் தங்கும் அளவுக்குப் பெரிய செடியாக வளர்வதோடு இயேசு அரசாங்கத்தை ஒப்பிட்டார்."
+    "en": "Jesus compared the Kingdom to a tiny mustard seed that a man planted. It grew into a tree big enough for birds to find shelter in its branches.",
+    "ta": "ஒருவன் நட்ட சின்னஞ்சிறிய கடுகு விதையோடு இயேசு அரசாங்கத்தை ஒப்பிட்டார். அது வளர்ந்து, பறவைகள் அதன் கிளைகளில் தங்கும் அளவுக்குப் பெரிய மரமானது."
    },
    "lesson": {
     "en": "Small beginnings can grow into something great with God’s blessing.",
@@ -121,7 +149,14 @@
     "en": "Matthew 13:31, 32",
     "ta": "மத்தேயு 13:31, 32"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-in-galilee/illustrations-kingdom-of-heavens/"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 43",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 43"
+   }
   },
   {
    "id": "talents",
@@ -134,18 +169,25 @@
     "ta": "தாலந்துகள்"
    },
    "text": {
-    "en": "A master gave his slaves talents to use while he was away. Two of them put the money to work; one buried his out of fear.",
-    "ta": "ஒரு எஜமான் வெளியே போகும்முன் தன் அடிமைகளிடம் தாலந்துகளைக் கொடுத்தார். இருவர் அந்தப் பணத்தைப் பயன்படுத்தி லாபம் சம்பாதித்தார்கள்; ஒருவன் பயத்தால் அதைப் புதைத்துவைத்தான்."
+    "en": "Before travelling abroad, a master gave his slaves five, two and one talent, each by his ability. The first two traded and doubled the money; the third hid his in the ground, and the master called him sluggish.",
+    "ta": "வெளிநாட்டுக்குப் போகும்முன், ஒரு எஜமான் தன் அடிமைகளுக்கு அவரவர் திறமைக்கு ஏற்ப ஐந்து, இரண்டு, ஒரு தாலந்து கொடுத்தார். முதல் இருவரும் வியாபாரம் செய்து இரண்டு மடங்காக்கினார்கள்; மூன்றாமவன் அதை நிலத்தில் புதைத்துவைத்தான், எஜமான் அவனைச் சோம்பேறி என்றார்."
    },
    "lesson": {
-    "en": "Use what Jehovah has given you; don’t let fear hold you back.",
-    "ta": "யெகோவா கொடுத்திருப்பதைப் பயன்படுத்துங்கள்; பயம் உங்களைத் தடுக்க விடாதீர்கள்."
+    "en": "Work hard with what you have been given, doing what you can by your own ability.",
+    "ta": "உங்களுக்குக் கொடுக்கப்பட்டதை வைத்து, உங்கள் திறமைக்கு ஏற்ப உங்களால் முடிந்ததை ஊக்கமாகச் செய்யுங்கள்."
    },
    "ref": {
     "en": "Matthew 25:14-30",
     "ta": "மத்தேயு 25:14-30"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014713"
+   },
+   "srcTitle": {
+    "en": "Jesus book: The talents",
+    "ta": "இயேசு புத்தகம்: தாலந்துகள்"
+   }
   },
   {
    "id": "ten_virgins",
@@ -158,18 +200,25 @@
     "ta": "பத்துக் கன்னிகைகளும் விளக்குகளும்"
    },
    "text": {
-    "en": "Five wise girls brought extra oil for their lamps; five foolish ones did not, and they missed the wedding feast when the bridegroom arrived.",
-    "ta": "ஞானமுள்ள ஐந்து பெண்கள் விளக்குகளுக்குக் கூடுதல் எண்ணெய் கொண்டுவந்தார்கள்; புத்தியில்லாத ஐந்து பேர் கொண்டுவரவில்லை, மணமகன் வந்தபோது கல்யாண விருந்தை இழந்தார்கள்."
+    "en": "Five discreet virgins brought oil in flasks with their lamps; five foolish ones did not. The bridegroom was delayed, and when he came at midnight the foolish ones were away buying oil, and the door was shut.",
+    "ta": "விவேகமுள்ள ஐந்து கன்னிகைகள் விளக்குகளோடு குடுவைகளில் எண்ணெயும் கொண்டுவந்தார்கள்; புத்தியில்லாத ஐந்து பேர் கொண்டுவரவில்லை. மணமகன் வரத் தாமதமானது; நடுராத்திரியில் அவர் வந்தபோது புத்தியில்லாதவர்கள் எண்ணெய் வாங்கப் போயிருந்தார்கள், கதவு அடைக்கப்பட்டது."
    },
    "lesson": {
-    "en": "Stay spiritually ready at all times.",
-    "ta": "எப்போதும் ஆன்மீக ரீதியில் தயாராக இருங்கள்."
+    "en": "Keep on the watch, because we do not know the day or the hour.",
+    "ta": "அந்த நாளும் நேரமும் நமக்குத் தெரியாததால், விழிப்போடு இருங்கள்."
    },
    "ref": {
     "en": "Matthew 25:1-13",
     "ta": "மத்தேயு 25:1-13"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/final-ministry/ten-virgins-illustration/"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 112",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 112"
+   }
   },
   {
    "id": "two_builders",
@@ -1298,6 +1347,223 @@
     "ta": "உபாகமம் 24:14, 15"
    },
    "added": "2026-10-28"
+  },
+  {
+   "id": "amos",
+   "cat": "prophet",
+   "scene": "field",
+   "book": 30,
+   "chapter": 7,
+   "title": {
+    "en": "Amos, the shepherd prophet",
+    "ta": "மேய்ப்பராக இருந்த தீர்க்கதரிசி ஆமோஸ்"
+   },
+   "text": {
+    "en": "Amos raised sheep near Tekoa in Judah and also tended sycamore figs. Jehovah took him from the flock and sent him to the northern kingdom of Israel. When the priest Amaziah at Bethel tried to drive him away, Amos explained that Jehovah had sent him.",
+    "ta": "ஆமோஸ் யூதாவிலுள்ள தெக்கோவா பக்கத்தில் ஆடுகளை வளர்த்தார், காட்டத்திப் பழங்களையும் பராமரித்தார். யெகோவா அவரை மந்தையிலிருந்து எடுத்து, வடக்கே இருந்த இஸ்ரவேல் ராஜ்யத்துக்கு அனுப்பினார். பெத்தேலில் இருந்த குரு அமத்சியா அவரை விரட்டப் பார்த்தபோது, யெகோவாதான் தன்னை அனுப்பினார் என்று ஆமோஸ் சொன்னார்."
+   },
+   "lesson": {
+    "en": "Jehovah can use humble, ordinary people to speak for him.",
+    "ta": "சாதாரண, தாழ்மையான ஆட்களையும் தம் சார்பில் பேச யெகோவா பயன்படுத்துவார்."
+   },
+   "ref": {
+    "en": "Amos 1:1; 7:10-15",
+    "ta": "ஆமோஸ் 1:1; 7:10-15"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Amos/"
+   },
+   "srcTitle": {
+    "en": "Insight: Amos",
+    "ta": "Insight: ஆமோஸ்"
+   }
+  },
+  {
+   "id": "ebed_melech",
+   "cat": "character",
+   "scene": "city",
+   "book": 24,
+   "chapter": 38,
+   "title": {
+    "en": "Ebed-melech pulls Jeremiah out",
+    "ta": "எரேமியாவைக் காப்பாற்றிய எபெத்மெலேக்"
+   },
+   "text": {
+    "en": "The princes of Judah threw Jeremiah into a muddy cistern to die. Ebed-melech, an Ethiopian in King Zedekiah’s house, bravely spoke to the king, then used ropes and old rags to lift Jeremiah out. Jehovah promised that Ebed-melech would survive Jerusalem’s fall.",
+    "ta": "யூதாவின் அதிகாரிகள் எரேமியாவைச் சாகட்டும் என்று சேறு நிறைந்த ஒரு கிணற்றில் போட்டார்கள். சிதேக்கியா ராஜாவின் அரண்மனையில் இருந்த எத்தியோப்பியரான எபெத்மெலேக் தைரியமாக ராஜாவிடம் பேசினார்; பிறகு கயிறுகளையும் பழைய துணிகளையும் பயன்படுத்தி எரேமியாவை மேலே தூக்கினார். எருசலேம் அழியும்போது எபெத்மெலேக் தப்பிப்பார் என்று யெகோவா வாக்குக் கொடுத்தார்."
+   },
+   "lesson": {
+    "en": "Jehovah notices and rewards those who courageously help his servants.",
+    "ta": "தம் ஊழியர்களுக்குத் தைரியமாக உதவுகிறவர்களை யெகோவா கவனித்து ஆசீர்வதிக்கிறார்."
+   },
+   "ref": {
+    "en": "Jeremiah 38:7-13; 39:15-18",
+    "ta": "எரேமியா 38:7-13; 39:15-18"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Ebed-melech/"
+   },
+   "srcTitle": {
+    "en": "Insight: Ebed-melech",
+    "ta": "Insight: எபெத்மெலேக்"
+   }
+  },
+  {
+   "id": "unmuzzled_bull",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 25,
+   "title": {
+    "en": "Let the bull eat",
+    "ta": "காளை சாப்பிடட்டும்"
+   },
+   "text": {
+    "en": "The Law said a bull treading out grain on the threshing floor must not be muzzled, so it would not suffer hunger while it worked. Paul later used this law to show that those who work hard teaching in the congregation deserve support and honor.",
+    "ta": "களத்தில் தானியத்தை மிதித்துக்கொண்டிருக்கும் காளையின் வாயைக் கட்டக்கூடாது என்று திருச்சட்டம் சொன்னது; அப்போதுதான் வேலை செய்யும்போது அது பசியால் கஷ்டப்படாது. சபையில் கடினமாக உழைத்துக் கற்பிக்கிறவர்கள் ஆதரவுக்கும் மதிப்புக்கும் தகுதியானவர்கள் என்று காட்ட பவுல் பிற்பாடு இந்தச் சட்டத்தைப் பயன்படுத்தினார்."
+   },
+   "lesson": {
+    "en": "Jehovah cares that those who work, even animals, are treated kindly.",
+    "ta": "வேலை செய்கிறவர்கள், மிருகங்களாக இருந்தாலும்கூட, அன்பாக நடத்தப்பட வேண்டும் என்று யெகோவா அக்கறைப்படுகிறார்."
+   },
+   "ref": {
+    "en": "Deuteronomy 25:4 · 1 Timothy 5:17, 18",
+    "ta": "உபாகமம் 25:4 · 1 தீமோத்தேயு 5:17, 18"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Muzzle/"
+   },
+   "srcTitle": {
+    "en": "Insight: Muzzle",
+    "ta": "Insight: வாய்க்கூடு"
+   }
+  },
+  {
+   "id": "vineyard_workers",
+   "cat": "parable",
+   "scene": "field",
+   "book": 40,
+   "chapter": 20,
+   "title": {
+    "en": "Workers in the vineyard",
+    "ta": "திராட்சைத் தோட்டத்து வேலையாட்கள்"
+   },
+   "text": {
+    "en": "A vineyard owner hired men early in the morning for a denarius, and others later in the day, the last only an hour before evening. Everyone got a denarius. The first ones grumbled, but the owner said he had wronged no one and was free to be generous.",
+    "ta": "ஒரு திராட்சைத் தோட்டக்காரர் அதிகாலையில் ஒரு தினாரியுவுக்கு வேலையாட்களை அமர்த்தினார்; நாள் முழுவதும் மற்றவர்களையும் அமர்த்தினார், கடைசியானவர்கள் சாயங்காலத்துக்கு ஒரு மணிநேரம் முன்புதான் வந்தார்கள். எல்லாருக்கும் ஒரு தினாரியு கிடைத்தது. முதலில் வந்தவர்கள் முணுமுணுத்தார்கள்; ஆனால், தான் யாருக்கும் அநியாயம் செய்யவில்லை, தாராளமாகக் கொடுக்கத் தனக்கு உரிமை உண்டு என்று அவர் சொன்னார்."
+   },
+   "lesson": {
+    "en": "Rejoice when Jehovah shows kindness to others instead of being envious.",
+    "ta": "யெகோவா மற்றவர்களுக்குக் கருணை காட்டும்போது பொறாமைப்படாமல் சந்தோஷப்படுங்கள்."
+   },
+   "ref": {
+    "en": "Matthew 20:1-16",
+    "ta": "மத்தேயு 20:1-16"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-east-of-the-jordan/illustration-workers-in-vineyard/"
+   },
+   "srcTitle": {
+    "en": "Jesus book: Chapter 97",
+    "ta": "இயேசு புத்தகம்: அதிகாரம் 97"
+   }
+  },
+  {
+   "id": "malchus_ear",
+   "cat": "miracle",
+   "scene": "stars",
+   "book": 42,
+   "chapter": 22,
+   "title": {
+    "en": "The ear that was healed",
+    "ta": "குணமான காது"
+   },
+   "text": {
+    "en": "When a crowd came to arrest Jesus in Gethsemane, Peter struck Malchus, a slave of the high priest, with a sword and cut off his right ear. Jesus stopped the fighting, touched the ear and healed him.",
+    "ta": "கெத்செமனேயில் இயேசுவைக் கைது செய்ய ஒரு கூட்டம் வந்தபோது, பேதுரு வாளால் தலைமைக் குருவின் அடிமையான மல்குஸின் வலது காதை வெட்டினார். இயேசு சண்டையை நிறுத்தி, அந்தக் காதைத் தொட்டு அவனைக் குணமாக்கினார்."
+   },
+   "lesson": {
+    "en": "Even under pressure, Jesus showed kindness to someone who came against him.",
+    "ta": "நெருக்கடியான நேரத்திலும், தனக்கு எதிராக வந்த ஒருவனிடம்கூட இயேசு கருணை காட்டினார்."
+   },
+   "ref": {
+    "en": "Luke 22:49-51 · John 18:10",
+    "ta": "லூக்கா 22:49-51 · யோவான் 18:10"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Malchus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Malchus",
+    "ta": "Insight: மல்குஸ்"
+   }
+  },
+  {
+   "id": "goat_great_horn",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 27,
+   "chapter": 8,
+   "title": {
+    "en": "The goat with one great horn",
+    "ta": "பெரிய கொம்புள்ள வெள்ளாட்டுக்கடா"
+   },
+   "text": {
+    "en": "In a vision, Daniel saw a he-goat with a great horn between its eyes; the horn broke and four horns grew in its place. The angel said the goat was the king of Greece. Alexander the Great conquered Persia and died suddenly in 323 B.C.E., and four kingdoms rose from his empire.",
+    "ta": "ஒரு தரிசனத்தில், கண்களுக்கு நடுவில் பெரிய கொம்புள்ள ஒரு வெள்ளாட்டுக்கடாவைத் தானியேல் பார்த்தார்; அந்தக் கொம்பு முறிந்து, அதற்குப் பதிலாக நான்கு கொம்புகள் வளர்ந்தன. அந்த வெள்ளாட்டுக்கடா கிரேக்க ராஜா என்று தேவதூதர் சொன்னார். மகா அலெக்சாண்டர் பெர்சியாவைக் கைப்பற்றி, கி.மு. 323-ல் திடீரென்று இறந்தார்; அவருடைய சாம்ராஜ்யத்திலிருந்து நான்கு ராஜ்யங்கள் எழும்பின."
+   },
+   "lesson": {
+    "en": "Fulfilled prophecy shows that Jehovah’s word can be trusted.",
+    "ta": "நிறைவேறிய தீர்க்கதரிசனங்கள் யெகோவாவின் வார்த்தையை நம்பலாம் என்று காட்டுகின்றன."
+   },
+   "ref": {
+    "en": "Daniel 8:5-8, 21, 22",
+    "ta": "தானியேல் 8:5-8, 21, 22"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1200270027/172/18"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Greece, the fifth world power",
+    "ta": "காவற்கோபுரம்: கிரீஸ், ஐந்தாம் உலக வல்லரசு"
+   }
+  },
+  {
+   "id": "friend_in_distress",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 20,
+   "chapter": 17,
+   "title": {
+    "en": "A friend for hard times",
+    "ta": "கஷ்டகாலத்தில் கைகொடுக்கும் நண்பர்"
+   },
+   "text": {
+    "en": "Proverbs says a true friend keeps on loving and is like a brother when trouble comes. A good friend stays loyal, helps us do what is right and encourages us to trust Jehovah, as Jonathan did for David.",
+    "ta": "உண்மையான நண்பர் எப்போதும் அன்பு காட்டுவார், கஷ்டம் வரும்போது ஒரு சகோதரனைப் போல இருப்பார் என்று நீதிமொழிகள் சொல்கிறது. நல்ல நண்பர் உண்மையாக இருப்பார், சரியானதைச் செய்ய உதவுவார்; தாவீதுக்கு யோனத்தான் செய்ததுபோல், யெகோவாவை நம்பும்படி உற்சாகப்படுத்துவார்."
+   },
+   "lesson": {
+    "en": "Choose friends, and be a friend, who stand by others in difficult times.",
+    "ta": "கஷ்டமான நேரங்களில் மற்றவர்களுக்குத் துணையாக நிற்கிறவர்களை நண்பர்களாகத் தேர்ந்தெடுங்கள், நீங்களும் அப்படிப்பட்ட நண்பராக இருங்கள்."
+   },
+   "ref": {
+    "en": "Proverbs 17:17 · 1 Samuel 23:16-18",
+    "ta": "நீதிமொழிகள் 17:17 · 1 சாமுவேல் 23:16-18"
+   },
+   "added": "2026-10-29",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/wp20111201/How-Can-We-Choose-Good-Friends/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Choosing good friends",
+    "ta": "காவற்கோபுரம்: நல்ல நண்பர்களைத் தேர்ந்தெடுத்தல்"
+   }
   }
  ]
 }
