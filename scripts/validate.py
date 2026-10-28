@@ -55,6 +55,19 @@ def main() -> int:
                 errors.append(f"{where}: {field} needs both 'en' and 'ta'")
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.get("added", "")):
             errors.append(f"{where}: added must be a date like 2026-10-28")
+        src = f.get("src")
+        if src is not None:
+            if not isinstance(src, dict) or not src.get("en"):
+                errors.append(f"{where}: src needs at least an 'en' link")
+            else:
+                for lang, url in src.items():
+                    if not (isinstance(url, str) and (url.startswith("https://wol.jw.org/") or url.startswith("https://www.jw.org/"))):
+                        errors.append(f"{where}: src.{lang} must be a https://wol.jw.org/ or https://www.jw.org/ link")
+        elif f.get("added", "") >= "2026-10-29":
+            errors.append(f"{where}: new cards need a 'src' link to the jw.org page they were researched from")
+        st = f.get("srcTitle")
+        if st is not None and (not isinstance(st, dict) or not st.get("en")):
+            errors.append(f"{where}: srcTitle needs at least 'en'")
         if len((f.get("text") or {}).get("en", "")) > 420:
             errors.append(f"{where}: English text is too long for one card (max ~420 characters)")
 

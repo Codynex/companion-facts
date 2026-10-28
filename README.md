@@ -9,4 +9,4 @@ Daily Bible fact cards (English and Tamil) for my personal study companion app.
 **Found a mistake?** Tap the flag on the card in the app, or open an issue titled `Fix: <card id>`.
 The next daily update fixes or removes it.
 
-Every card is a short retelling in my own words with a scripture reference — check it against the Bible.
+Every card is researched from wol.jw.org / jw.org, retold in my own words with a scripture reference, and links to the page it came from (the app's "Learn more" button opens it).
