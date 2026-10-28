@@ -1,0 +1,1303 @@
+{
+ "version": 1,
+ "updated": "2026-10-28",
+ "removed": [],
+ "facts": [
+  {
+   "id": "good_samaritan",
+   "cat": "parable",
+   "scene": "desert",
+   "book": 42,
+   "chapter": 10,
+   "title": {
+    "en": "The neighborly Samaritan",
+    "ta": "அயலானைப் போல் நடந்த சமாரியன்"
+   },
+   "text": {
+    "en": "A man was robbed and left half-dead. A priest and a Levite passed by, but a Samaritan — from a people many Jews looked down on — stopped, treated his wounds and paid for his care.",
+    "ta": "ஒருவன் கொள்ளையடிக்கப்பட்டு குற்றுயிராகக் கிடந்தான். ஒரு குருவும் ஒரு லேவியனும் கடந்துபோனார்கள்; ஆனால், யூதர்கள் பலர் தாழ்வாக நினைத்த சமாரியர்களில் ஒருவன் நின்று, காயங்களுக்குக் கட்டுப்போட்டு, அவனைக் கவனித்துக்கொள்ளச் செலவும் செய்தான்."
+   },
+   "lesson": {
+    "en": "Being a good neighbor means helping anyone in need, not only people like us.",
+    "ta": "நல்ல அயலானாக இருப்பது என்றால், நம்மைப் போன்றவர்களுக்கு மட்டுமல்ல, தேவையிலிருக்கும் எவருக்கும் உதவுவது."
+   },
+   "ref": {
+    "en": "Luke 10:29-37",
+    "ta": "லூக்கா 10:29-37"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "prodigal_son",
+   "cat": "parable",
+   "scene": "dawn",
+   "book": 42,
+   "chapter": 15,
+   "title": {
+    "en": "The son who came home",
+    "ta": "வீடு திரும்பிய மகன்"
+   },
+   "text": {
+    "en": "A younger son wasted his inheritance and came home ashamed. His father saw him while he was still far away, ran to him and welcomed him back.",
+    "ta": "இளைய மகன் தன் சொத்தை வீணாக்கிவிட்டு வெட்கத்தோடு வீடு திரும்பினான். அவன் தூரத்தில் வரும்போதே அப்பா அவனைப் பார்த்து, ஓடிப்போய் அவனை வரவேற்றார்."
+   },
+   "lesson": {
+    "en": "Jehovah is eager to forgive those who sincerely come back to him.",
+    "ta": "உண்மையாகவே தம்மிடம் திரும்பி வருகிறவர்களை மன்னிக்க யெகோவா ஆவலாக இருக்கிறார்."
+   },
+   "ref": {
+    "en": "Luke 15:11-32",
+    "ta": "லூக்கா 15:11-32"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lost_sheep",
+   "cat": "parable",
+   "scene": "field",
+   "book": 42,
+   "chapter": 15,
+   "title": {
+    "en": "The one lost sheep",
+    "ta": "காணாமல்போன ஒரு ஆடு"
+   },
+   "text": {
+    "en": "A shepherd leaves 99 sheep to look for one that is lost, and rejoices when he finds it.",
+    "ta": "ஒரு மேய்ப்பன் 99 ஆடுகளை விட்டுவிட்டு, காணாமல்போன ஒரு ஆட்டைத் தேடிப்போகிறான்; அதைக் கண்டுபிடித்ததும் சந்தோஷப்படுகிறான்."
+   },
+   "lesson": {
+    "en": "Every single person matters to Jehovah.",
+    "ta": "ஒவ்வொருவரும் யெகோவாவுக்கு முக்கியமானவர்கள்."
+   },
+   "ref": {
+    "en": "Luke 15:4-7",
+    "ta": "லூக்கா 15:4-7"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "four_soils",
+   "cat": "parable",
+   "scene": "sower",
+   "book": 40,
+   "chapter": 13,
+   "title": {
+    "en": "The sower and the soils",
+    "ta": "விதைப்பவனும் நிலங்களும்"
+   },
+   "text": {
+    "en": "Seed fell on a path, on rocky ground, among thorns and on good soil. Only the seed on good soil produced a harvest.",
+    "ta": "விதைகள் வழியோரத்திலும், பாறை நிலத்திலும், முட்செடிகளுக்கு நடுவிலும், நல்ல நிலத்திலும் விழுந்தன. நல்ல நிலத்தில் விழுந்தவை மட்டுமே விளைச்சல் தந்தன."
+   },
+   "lesson": {
+    "en": "How we receive God’s word decides whether it bears fruit in us.",
+    "ta": "கடவுளுடைய வார்த்தையை நாம் எப்படி ஏற்றுக்கொள்கிறோம் என்பதுதான் அது நம்மில் பலன் தருமா என்பதைத் தீர்மானிக்கிறது."
+   },
+   "ref": {
+    "en": "Matthew 13:3-23",
+    "ta": "மத்தேயு 13:3-23"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mustard_seed",
+   "cat": "parable",
+   "scene": "field",
+   "book": 40,
+   "chapter": 13,
+   "title": {
+    "en": "The mustard seed",
+    "ta": "கடுகு விதை"
+   },
+   "text": {
+    "en": "Jesus compared the Kingdom to a tiny mustard seed that grows into a large plant where birds can rest.",
+    "ta": "சின்னஞ்சிறிய கடுகு விதை பறவைகள் தங்கும் அளவுக்குப் பெரிய செடியாக வளர்வதோடு இயேசு அரசாங்கத்தை ஒப்பிட்டார்."
+   },
+   "lesson": {
+    "en": "Small beginnings can grow into something great with God’s blessing.",
+    "ta": "கடவுளுடைய ஆசீர்வாதம் இருந்தால் சின்ன ஆரம்பமும் பெரிதாக வளரும்."
+   },
+   "ref": {
+    "en": "Matthew 13:31, 32",
+    "ta": "மத்தேயு 13:31, 32"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "talents",
+   "cat": "parable",
+   "scene": "city",
+   "book": 40,
+   "chapter": 25,
+   "title": {
+    "en": "The talents",
+    "ta": "தாலந்துகள்"
+   },
+   "text": {
+    "en": "A master gave his slaves talents to use while he was away. Two of them put the money to work; one buried his out of fear.",
+    "ta": "ஒரு எஜமான் வெளியே போகும்முன் தன் அடிமைகளிடம் தாலந்துகளைக் கொடுத்தார். இருவர் அந்தப் பணத்தைப் பயன்படுத்தி லாபம் சம்பாதித்தார்கள்; ஒருவன் பயத்தால் அதைப் புதைத்துவைத்தான்."
+   },
+   "lesson": {
+    "en": "Use what Jehovah has given you; don’t let fear hold you back.",
+    "ta": "யெகோவா கொடுத்திருப்பதைப் பயன்படுத்துங்கள்; பயம் உங்களைத் தடுக்க விடாதீர்கள்."
+   },
+   "ref": {
+    "en": "Matthew 25:14-30",
+    "ta": "மத்தேயு 25:14-30"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ten_virgins",
+   "cat": "parable",
+   "scene": "stars",
+   "book": 40,
+   "chapter": 25,
+   "title": {
+    "en": "Ten virgins and their lamps",
+    "ta": "பத்துக் கன்னிகைகளும் விளக்குகளும்"
+   },
+   "text": {
+    "en": "Five wise girls brought extra oil for their lamps; five foolish ones did not, and they missed the wedding feast when the bridegroom arrived.",
+    "ta": "ஞானமுள்ள ஐந்து பெண்கள் விளக்குகளுக்குக் கூடுதல் எண்ணெய் கொண்டுவந்தார்கள்; புத்தியில்லாத ஐந்து பேர் கொண்டுவரவில்லை, மணமகன் வந்தபோது கல்யாண விருந்தை இழந்தார்கள்."
+   },
+   "lesson": {
+    "en": "Stay spiritually ready at all times.",
+    "ta": "எப்போதும் ஆன்மீக ரீதியில் தயாராக இருங்கள்."
+   },
+   "ref": {
+    "en": "Matthew 25:1-13",
+    "ta": "மத்தேயு 25:1-13"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "two_builders",
+   "cat": "parable",
+   "scene": "sea",
+   "book": 40,
+   "chapter": 7,
+   "title": {
+    "en": "Rock or sand?",
+    "ta": "பாறையா மணலா?"
+   },
+   "text": {
+    "en": "One man built his house on rock, another on sand. When the storm came, only the house on the rock stood.",
+    "ta": "ஒருவன் தன் வீட்டைப் பாறைமேல் கட்டினான், இன்னொருவன் மணல்மேல் கட்டினான். புயல் வந்தபோது பாறைமேல் கட்டிய வீடு மட்டுமே நின்றது."
+   },
+   "lesson": {
+    "en": "Hearing Jesus is not enough — doing what he says gives us a firm foundation.",
+    "ta": "இயேசு சொல்வதைக் கேட்பது மட்டும் போதாது — அதன்படி செய்வதுதான் உறுதியான அஸ்திவாரம்."
+   },
+   "ref": {
+    "en": "Matthew 7:24-27",
+    "ta": "மத்தேயு 7:24-27"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "unforgiving_slave",
+   "cat": "parable",
+   "scene": "city",
+   "book": 40,
+   "chapter": 18,
+   "title": {
+    "en": "The unforgiving slave",
+    "ta": "மன்னிக்காத அடிமை"
+   },
+   "text": {
+    "en": "A king cancelled a slave’s enormous debt. That same slave then refused to forgive a fellow slave a small debt.",
+    "ta": "ஒரு ராஜா தன் அடிமையின் மிகப் பெரிய கடனை ரத்து செய்தார். அதே அடிமை, சக அடிமை தனக்குத் தர வேண்டிய சின்னக் கடனை மன்னிக்க மறுத்தான்."
+   },
+   "lesson": {
+    "en": "Because we have been forgiven so much, we must forgive others.",
+    "ta": "நமக்கு இவ்வளவு மன்னிப்பு கிடைத்திருப்பதால், நாமும் மற்றவர்களை மன்னிக்க வேண்டும்."
+   },
+   "ref": {
+    "en": "Matthew 18:23-35",
+    "ta": "மத்தேயு 18:23-35"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "persistent_widow",
+   "cat": "parable",
+   "scene": "city",
+   "book": 42,
+   "chapter": 18,
+   "title": {
+    "en": "The widow who kept asking",
+    "ta": "விடாமல் கேட்ட விதவை"
+   },
+   "text": {
+    "en": "A widow kept going to an unjust judge until he finally gave her justice.",
+    "ta": "நியாயமில்லாத ஒரு நீதிபதி கடைசியில் நியாயம் செய்யும்வரை ஒரு விதவை அவரிடம் போய்க்கொண்டே இருந்தாள்."
+   },
+   "lesson": {
+    "en": "Keep praying and don’t give up — Jehovah cares far more than that judge.",
+    "ta": "விடாமல் ஜெபம் செய்யுங்கள் — அந்த நீதிபதியைவிட யெகோவா மிக அதிகமாக அக்கறைப்படுகிறார்."
+   },
+   "ref": {
+    "en": "Luke 18:1-8",
+    "ta": "லூக்கா 18:1-8"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "rich_fool",
+   "cat": "parable",
+   "scene": "field",
+   "book": 42,
+   "chapter": 12,
+   "title": {
+    "en": "Bigger barns",
+    "ta": "பெரிய களஞ்சியங்கள்"
+   },
+   "text": {
+    "en": "A rich man planned to build bigger barns and take life easy for many years, but he died that very night.",
+    "ta": "ஒரு பணக்காரன் பெரிய களஞ்சியங்களைக் கட்டி பல வருஷங்கள் சுகமாக வாழத் திட்டமிட்டான்; ஆனால் அன்று இரவே இறந்துபோனான்."
+   },
+   "lesson": {
+    "en": "Being rich toward God matters more than storing up things.",
+    "ta": "பொருள்களைச் சேர்ப்பதைவிட கடவுளிடம் செல்வந்தராக இருப்பதுதான் முக்கியம்."
+   },
+   "ref": {
+    "en": "Luke 12:16-21",
+    "ta": "லூக்கா 12:16-21"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "pearl",
+   "cat": "parable",
+   "scene": "sea",
+   "book": 40,
+   "chapter": 13,
+   "title": {
+    "en": "The pearl of great value",
+    "ta": "விலையுயர்ந்த முத்து"
+   },
+   "text": {
+    "en": "A traveling merchant found one pearl of great value and sold everything he had to buy it.",
+    "ta": "பயணம் செய்யும் ஒரு வியாபாரி மிகவும் விலையுயர்ந்த ஒரு முத்தைக் கண்டுபிடித்து, அதை வாங்க தன்னிடமிருந்த எல்லாவற்றையும் விற்றான்."
+   },
+   "lesson": {
+    "en": "The Kingdom is worth any sacrifice.",
+    "ta": "எந்தத் தியாகம் செய்தாலும் அரசாங்கம் அதற்குத் தகுதியானது."
+   },
+   "ref": {
+    "en": "Matthew 13:45, 46",
+    "ta": "மத்தேயு 13:45, 46"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "good_shepherd",
+   "cat": "parable",
+   "scene": "field",
+   "book": 43,
+   "chapter": 10,
+   "title": {
+    "en": "The good shepherd",
+    "ta": "நல்ல மேய்ப்பர்"
+   },
+   "text": {
+    "en": "Jesus described himself as a shepherd who knows each of his sheep by name and is willing to give his life for them.",
+    "ta": "தம் ஆடுகள் ஒவ்வொன்றையும் பெயர் சொல்லி அறிந்து, அவற்றுக்காகத் தம் உயிரையே கொடுக்கத் தயாராக இருக்கும் மேய்ப்பராக இயேசு தம்மை விவரித்தார்."
+   },
+   "lesson": {
+    "en": "Jesus knows and cares for each one of his followers.",
+    "ta": "இயேசு தம் சீஷர்கள் ஒவ்வொருவரையும் அறிந்து அக்கறை காட்டுகிறார்."
+   },
+   "ref": {
+    "en": "John 10:3, 11-14",
+    "ta": "யோவான் 10:3, 11-14"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "water_wine",
+   "cat": "miracle",
+   "scene": "dawn",
+   "book": 43,
+   "chapter": 2,
+   "title": {
+    "en": "Water into wine",
+    "ta": "தண்ணீர் திராட்சமதுவானது"
+   },
+   "text": {
+    "en": "At a wedding in Cana the wine ran out. Jesus turned six large jars of water into fine wine — his first miracle.",
+    "ta": "கானாவில் நடந்த ஒரு கல்யாணத்தில் திராட்சமது தீர்ந்துபோனது. இயேசு ஆறு பெரிய ஜாடிகளிலிருந்த தண்ணீரைச் சிறந்த திராட்சமதுவாக மாற்றினார் — அதுதான் அவருடைய முதல் அற்புதம்."
+   },
+   "lesson": {
+    "en": "Jesus cared even about people’s joy and embarrassment.",
+    "ta": "மக்களுடைய சந்தோஷத்தையும் சங்கடத்தையும்கூட இயேசு கவனித்தார்."
+   },
+   "ref": {
+    "en": "John 2:1-11",
+    "ta": "யோவான் 2:1-11"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "feeding_5000",
+   "cat": "miracle",
+   "scene": "field",
+   "book": 40,
+   "chapter": 14,
+   "title": {
+    "en": "Five loaves, two fish",
+    "ta": "ஐந்து அப்பங்கள், இரண்டு மீன்கள்"
+   },
+   "text": {
+    "en": "With five loaves and two fish, Jesus fed about 5,000 men, besides women and children — and 12 baskets of leftovers were collected.",
+    "ta": "ஐந்து அப்பங்களையும் இரண்டு மீன்களையும் கொண்டு, பெண்களும் பிள்ளைகளும் தவிர சுமார் 5,000 ஆண்களுக்கு இயேசு உணவளித்தார் — மீதியானவை 12 கூடைகளில் சேகரிக்கப்பட்டன."
+   },
+   "lesson": {
+    "en": "Jesus provides — and nothing goes to waste.",
+    "ta": "இயேசு தேவைகளைப் பூர்த்தி செய்கிறார் — எதுவும் வீணாவதில்லை."
+   },
+   "ref": {
+    "en": "Matthew 14:13-21",
+    "ta": "மத்தேயு 14:13-21"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "calming_storm",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 41,
+   "chapter": 4,
+   "title": {
+    "en": "The calm after the storm",
+    "ta": "புயலுக்குப் பின் அமைதி"
+   },
+   "text": {
+    "en": "A violent storm struck the boat while Jesus slept. He woke up, rebuked the wind, and the sea became completely calm.",
+    "ta": "இயேசு தூங்கிக்கொண்டிருந்தபோது படகைப் பயங்கரப் புயல் தாக்கியது. அவர் எழுந்து காற்றை அதட்டினார்; கடல் முழுவதும் அமைதியானது."
+   },
+   "lesson": {
+    "en": "Jesus has power over the things that frighten us.",
+    "ta": "நம்மைப் பயமுறுத்தும் விஷயங்கள்மேல் இயேசுவுக்கு அதிகாரம் இருக்கிறது."
+   },
+   "ref": {
+    "en": "Mark 4:35-41",
+    "ta": "மாற்கு 4:35-41"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lazarus",
+   "cat": "miracle",
+   "scene": "desert",
+   "book": 43,
+   "chapter": 11,
+   "title": {
+    "en": "Lazarus, come out!",
+    "ta": "லாசருவே, வெளியே வா!"
+   },
+   "text": {
+    "en": "Lazarus had been dead for four days when Jesus called him out of the tomb — and he came out alive.",
+    "ta": "லாசரு இறந்து நான்கு நாட்கள் ஆகியிருந்தபோது இயேசு அவனைக் கல்லறையிலிருந்து கூப்பிட்டார் — அவன் உயிரோடு வெளியே வந்தான்."
+   },
+   "lesson": {
+    "en": "The resurrection hope is real; Jesus showed he has power over death.",
+    "ta": "உயிர்த்தெழுதல் நம்பிக்கை நிஜமானது; மரணத்தின்மேல் தமக்கு அதிகாரம் இருப்பதை இயேசு காட்டினார்."
+   },
+   "ref": {
+    "en": "John 11:38-44",
+    "ta": "யோவான் 11:38-44"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "bartimaeus",
+   "cat": "miracle",
+   "scene": "dawn",
+   "book": 41,
+   "chapter": 10,
+   "title": {
+    "en": "Blind Bartimaeus",
+    "ta": "பார்வையில்லாத பர்திமேயு"
+   },
+   "text": {
+    "en": "Blind Bartimaeus kept calling out to Jesus even when people told him to be quiet. Jesus stopped and gave him his sight.",
+    "ta": "மக்கள் அமைதியாக இருக்கச் சொன்னபோதும் பார்வையில்லாத பர்திமேயு இயேசுவைக் கூப்பிட்டுக்கொண்டே இருந்தான். இயேசு நின்று அவனுக்குப் பார்வை கொடுத்தார்."
+   },
+   "lesson": {
+    "en": "Persistent faith is noticed.",
+    "ta": "விடாத விசுவாசம் கவனிக்கப்படுகிறது."
+   },
+   "ref": {
+    "en": "Mark 10:46-52",
+    "ta": "மாற்கு 10:46-52"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ten_lepers",
+   "cat": "miracle",
+   "scene": "field",
+   "book": 42,
+   "chapter": 17,
+   "title": {
+    "en": "The one who came back",
+    "ta": "திரும்பி வந்த ஒருவன்"
+   },
+   "text": {
+    "en": "Jesus healed ten men with leprosy, but only one of them — a Samaritan — came back to thank him.",
+    "ta": "தொழுநோயுள்ள பத்துப் பேரை இயேசு குணப்படுத்தினார்; ஆனால் அவர்களில் ஒருவன் மட்டுமே — ஒரு சமாரியன் — நன்றி சொல்லத் திரும்பி வந்தான்."
+   },
+   "lesson": {
+    "en": "Remember to thank Jehovah for what he does for us.",
+    "ta": "யெகோவா நமக்குச் செய்வதற்கு நன்றி சொல்ல மறக்காதீர்கள்."
+   },
+   "ref": {
+    "en": "Luke 17:11-19",
+    "ta": "லூக்கா 17:11-19"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "jairus_daughter",
+   "cat": "miracle",
+   "scene": "dawn",
+   "book": 41,
+   "chapter": 5,
+   "title": {
+    "en": "Jairus’ daughter",
+    "ta": "யவீருவின் மகள்"
+   },
+   "text": {
+    "en": "Jairus’ 12-year-old daughter died, but Jesus took her by the hand, told her to get up — and she did.",
+    "ta": "யவீருவின் 12 வயது மகள் இறந்துபோனாள்; ஆனால் இயேசு அவளுடைய கையைப் பிடித்து எழுந்திருக்கச் சொன்னார் — அவள் எழுந்தாள்."
+   },
+   "lesson": {
+    "en": "Jesus feels deeply for grieving families.",
+    "ta": "துக்கப்படும் குடும்பங்களுக்காக இயேசு ஆழமாக உணருகிறார்."
+   },
+   "ref": {
+    "en": "Mark 5:22-24, 35-43",
+    "ta": "மாற்கு 5:22-24, 35-43"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "widow_nain",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 42,
+   "chapter": 7,
+   "title": {
+    "en": "The widow of Nain",
+    "ta": "நாயீன் ஊர் விதவை"
+   },
+   "text": {
+    "en": "At Nain, Jesus met a funeral procession for a widow’s only son. Moved with pity, he raised the young man and gave him back to his mother.",
+    "ta": "நாயீன் ஊரில், ஒரு விதவையின் ஒரே மகனுடைய சவ ஊர்வலத்தை இயேசு சந்தித்தார். மனமுருகி, அந்த இளைஞனை உயிர்த்தெழுப்பி அவன் அம்மாவிடம் ஒப்படைத்தார்."
+   },
+   "lesson": {
+    "en": "Jesus’ miracles came from deep compassion.",
+    "ta": "இயேசுவின் அற்புதங்கள் ஆழ்ந்த கரிசனையிலிருந்து வந்தன."
+   },
+   "ref": {
+    "en": "Luke 7:11-17",
+    "ta": "லூக்கா 7:11-17"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "red_sea",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 2,
+   "chapter": 14,
+   "title": {
+    "en": "Through the Red Sea",
+    "ta": "செங்கடல் வழியாக"
+   },
+   "text": {
+    "en": "Jehovah parted the Red Sea so Israel could cross on dry ground. Then the waters returned and covered Pharaoh’s army.",
+    "ta": "இஸ்ரவேலர் காய்ந்த தரையில் கடந்துபோகும்படி யெகோவா செங்கடலைப் பிளந்தார். பிறகு தண்ணீர் திரும்பி வந்து பார்வோனின் படையை மூழ்கடித்தது."
+   },
+   "lesson": {
+    "en": "No obstacle is too big for Jehovah when he saves his people.",
+    "ta": "தம் மக்களைக் காப்பாற்றும்போது எந்தத் தடையும் யெகோவாவுக்குப் பெரிதல்ல."
+   },
+   "ref": {
+    "en": "Exodus 14:21-31",
+    "ta": "யாத்திராகமம் 14:21-31"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "manna",
+   "cat": "miracle",
+   "scene": "desert",
+   "book": 2,
+   "chapter": 16,
+   "title": {
+    "en": "Bread from heaven",
+    "ta": "வானத்திலிருந்து உணவு"
+   },
+   "text": {
+    "en": "In the wilderness, Jehovah gave Israel manna every morning for 40 years — enough for each day.",
+    "ta": "வனாந்தரத்தில் 40 வருஷங்களாக ஒவ்வொரு காலையும் யெகோவா இஸ்ரவேலருக்கு மன்னா கொடுத்தார் — ஒவ்வொரு நாளுக்கும் போதுமான அளவு."
+   },
+   "lesson": {
+    "en": "Jehovah provides what we need, day by day.",
+    "ta": "நமக்குத் தேவையானதை யெகோவா நாளுக்கு நாள் கொடுக்கிறார்."
+   },
+   "ref": {
+    "en": "Exodus 16:14-18, 35",
+    "ta": "யாத்திராகமம் 16:14-18, 35"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "sun_still",
+   "cat": "miracle",
+   "scene": "dawn",
+   "book": 6,
+   "chapter": 10,
+   "title": {
+    "en": "The sun stood still",
+    "ta": "சூரியன் நின்றது"
+   },
+   "text": {
+    "en": "When Joshua fought to defend Gibeon, Jehovah made the sun and moon stand still until the battle was won.",
+    "ta": "கிபியோனைக் காப்பாற்ற யோசுவா போர் செய்தபோது, போர் முடியும்வரை யெகோவா சூரியனையும் சந்திரனையும் நிற்கச் செய்தார்."
+   },
+   "lesson": {
+    "en": "Jehovah fights for his people.",
+    "ta": "யெகோவா தம் மக்களுக்காகப் போர் செய்கிறார்."
+   },
+   "ref": {
+    "en": "Joshua 10:12-14",
+    "ta": "யோசுவா 10:12-14"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "widow_oil",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 12,
+   "chapter": 4,
+   "title": {
+    "en": "The jar that kept pouring",
+    "ta": "நிற்காமல் ஊற்றிய ஜாடி"
+   },
+   "text": {
+    "en": "A poor widow’s small jar of oil kept pouring until every container she had borrowed was full, so she could pay her debts.",
+    "ta": "ஏழை விதவையின் சின்ன எண்ணெய் ஜாடி, அவள் இரவல் வாங்கிய எல்லாப் பாத்திரங்களும் நிரம்பும்வரை ஊற்றிக்கொண்டே இருந்தது; அதனால் அவள் கடனை அடைக்க முடிந்தது."
+   },
+   "lesson": {
+    "en": "Jehovah cares about our practical needs too.",
+    "ta": "நம் அன்றாடத் தேவைகளையும் யெகோவா அக்கறையோடு கவனிக்கிறார்."
+   },
+   "ref": {
+    "en": "2 Kings 4:1-7",
+    "ta": "2 ராஜாக்கள் 4:1-7"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "peter_freed",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 44,
+   "chapter": 12,
+   "title": {
+    "en": "Chains fell off",
+    "ta": "சங்கிலிகள் விழுந்தன"
+   },
+   "text": {
+    "en": "Peter was chained between two soldiers in prison while the congregation prayed hard for him. An angel woke him, the chains fell off and the iron gate opened by itself.",
+    "ta": "சபை அவருக்காக ஊக்கமாக ஜெபம் செய்துகொண்டிருந்தபோது, பேதுரு இரண்டு படைவீரர்களுக்கு நடுவே சங்கிலியால் கட்டப்பட்டிருந்தார். ஒரு தேவதூதர் அவரை எழுப்பினார்; சங்கிலிகள் விழுந்தன, இரும்புக் கதவு தானாகத் திறந்தது."
+   },
+   "lesson": {
+    "en": "The congregation’s prayers for one another matter.",
+    "ta": "சபையார் ஒருவருக்காக ஒருவர் செய்யும் ஜெபங்கள் முக்கியமானவை."
+   },
+   "ref": {
+    "en": "Acts 12:5-11",
+    "ta": "அப்போஸ்தலர் 12:5-11"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "abel",
+   "cat": "character",
+   "scene": "field",
+   "book": 1,
+   "chapter": 4,
+   "title": {
+    "en": "Abel",
+    "ta": "ஆபேல்"
+   },
+   "text": {
+    "en": "Abel offered Jehovah the best of his flock, and God approved of his offering. Out of jealousy, his brother Cain killed him.",
+    "ta": "ஆபேல் தன் மந்தையில் சிறந்ததை யெகோவாவுக்குக் காணிக்கையாகக் கொடுத்தான்; கடவுள் அதை ஏற்றுக்கொண்டார். பொறாமையால் அவனுடைய அண்ணன் காயீன் அவனைக் கொன்றான்."
+   },
+   "lesson": {
+    "en": "Jehovah values worship that comes from the heart.",
+    "ta": "இதயப்பூர்வமான வழிபாட்டை யெகோவா மதிக்கிறார்."
+   },
+   "ref": {
+    "en": "Genesis 4:3-8 · Hebrews 11:4",
+    "ta": "ஆதியாகமம் 4:3-8 · எபிரெயர் 11:4"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "enoch",
+   "cat": "character",
+   "scene": "stars",
+   "book": 1,
+   "chapter": 5,
+   "title": {
+    "en": "Enoch",
+    "ta": "ஏனோக்கு"
+   },
+   "text": {
+    "en": "In a wicked world, Enoch kept walking with God and boldly warned the ungodly about God’s judgment, even though he stood almost alone.",
+    "ta": "கெட்ட உலகத்தில், கிட்டத்தட்டத் தனியாக நின்றபோதும், ஏனோக்கு கடவுளோடு நடந்து, கடவுளுடைய நியாயத்தீர்ப்பைப் பற்றித் தைரியமாக எச்சரித்தார்."
+   },
+   "lesson": {
+    "en": "We can stay faithful even when few around us do.",
+    "ta": "சுற்றியிருக்கும் பலர் உண்மையாக இல்லாவிட்டாலும் நாம் உண்மையாக இருக்க முடியும்."
+   },
+   "ref": {
+    "en": "Genesis 5:21-24 · Jude 14, 15",
+    "ta": "ஆதியாகமம் 5:21-24 · யூதா 14, 15"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "caleb",
+   "cat": "character",
+   "scene": "desert",
+   "book": 6,
+   "chapter": 14,
+   "title": {
+    "en": "Caleb at 85",
+    "ta": "85 வயதில் காலேப்"
+   },
+   "text": {
+    "en": "Of the 12 spies, only Joshua and Caleb trusted Jehovah. Decades later, at 85, Caleb asked for the hill country with its fortified cities — and took it.",
+    "ta": "12 உளவாளிகளில் யோசுவாவும் காலேபும் மட்டுமே யெகோவாமேல் நம்பிக்கை வைத்தார்கள். பல வருஷங்களுக்குப் பிறகு, 85 வயதில், அரண்சூழ்ந்த நகரங்கள் இருந்த மலைப்பகுதியைக் காலேப் கேட்டு, அதைக் கைப்பற்றினார்."
+   },
+   "lesson": {
+    "en": "Wholehearted faith keeps us strong, even in old age.",
+    "ta": "முழு இதயத்தோடு வைக்கும் விசுவாசம், வயதான காலத்திலும் நம்மைப் பலமாக வைக்கும்."
+   },
+   "ref": {
+    "en": "Numbers 14:6-9 · Joshua 14:6-14",
+    "ta": "எண்ணாகமம் 14:6-9 · யோசுவா 14:6-14"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "deborah",
+   "cat": "character",
+   "scene": "field",
+   "book": 7,
+   "chapter": 4,
+   "title": {
+    "en": "Deborah",
+    "ta": "தெபொராள்"
+   },
+   "text": {
+    "en": "Deborah, a prophetess, encouraged Barak to lead Israel against Sisera’s powerful army, and Jehovah gave them the victory.",
+    "ta": "தீர்க்கதரிசியான தெபொராள், சிசெராவின் பலமான படைக்கு எதிராக இஸ்ரவேலை வழிநடத்தும்படி பாராக்கை உற்சாகப்படுத்தினாள்; யெகோவா வெற்றி கொடுத்தார்."
+   },
+   "lesson": {
+    "en": "Jehovah uses faithful women and men to strengthen his people.",
+    "ta": "தம் மக்களைப் பலப்படுத்த உண்மையுள்ள பெண்களையும் ஆண்களையும் யெகோவா பயன்படுத்துகிறார்."
+   },
+   "ref": {
+    "en": "Judges 4:4-16",
+    "ta": "நியாயாதிபதிகள் 4:4-16"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "samson",
+   "cat": "character",
+   "scene": "city",
+   "book": 7,
+   "chapter": 16,
+   "title": {
+    "en": "Samson’s last prayer",
+    "ta": "சிம்சோனின் கடைசி ஜெபம்"
+   },
+   "text": {
+    "en": "Jehovah’s spirit gave Samson great strength. After a serious failure, Samson prayed once more, and Jehovah strengthened him one last time.",
+    "ta": "யெகோவாவின் சக்தி சிம்சோனுக்குப் பெரிய பலத்தைக் கொடுத்தது. ஒரு பெரிய தவறுக்குப் பிறகு சிம்சோன் மறுபடியும் ஜெபம் செய்தார்; யெகோவா கடைசியாக ஒருமுறை அவரைப் பலப்படுத்தினார்."
+   },
+   "lesson": {
+    "en": "Even after a mistake, we can turn back to Jehovah.",
+    "ta": "தவறு செய்த பிறகும் நாம் யெகோவாவிடம் திரும்பலாம்."
+   },
+   "ref": {
+    "en": "Judges 16:28-30",
+    "ta": "நியாயாதிபதிகள் 16:28-30"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "ruth",
+   "cat": "character",
+   "scene": "field",
+   "book": 8,
+   "chapter": 1,
+   "title": {
+    "en": "Ruth",
+    "ta": "ரூத்"
+   },
+   "text": {
+    "en": "Ruth, a Moabite, refused to leave her widowed mother-in-law Naomi and chose to worship Naomi’s God, Jehovah.",
+    "ta": "மோவாபியப் பெண்ணான ரூத், விதவையான தன் மாமியார் நகோமியை விட்டுப் போக மறுத்து, நகோமியின் கடவுளான யெகோவாவை வணங்கத் தீர்மானித்தாள்."
+   },
+   "lesson": {
+    "en": "Loyal love is beautiful to Jehovah.",
+    "ta": "மாறாத அன்பு யெகோவாவின் பார்வையில் அழகானது."
+   },
+   "ref": {
+    "en": "Ruth 1:14-17",
+    "ta": "ரூத் 1:14-17"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "solomon",
+   "cat": "character",
+   "scene": "city",
+   "book": 11,
+   "chapter": 3,
+   "title": {
+    "en": "Solomon asks for wisdom",
+    "ta": "ஞானம் கேட்ட சாலொமோன்"
+   },
+   "text": {
+    "en": "When Jehovah invited Solomon to ask for anything, he asked for wisdom to judge the people. God gave him wisdom — and riches and glory too.",
+    "ta": "எதை வேண்டுமானாலும் கேட்கும்படி யெகோவா சொன்னபோது, மக்களை நியாயந்தீர்க்க ஞானத்தைச் சாலொமோன் கேட்டார். கடவுள் அவருக்கு ஞானத்தோடு செல்வத்தையும் மகிமையையும் கொடுத்தார்."
+   },
+   "lesson": {
+    "en": "Ask Jehovah for wisdom; he gives it generously.",
+    "ta": "யெகோவாவிடம் ஞானத்தைக் கேளுங்கள்; அவர் தாராளமாகக் கொடுக்கிறார்."
+   },
+   "ref": {
+    "en": "1 Kings 3:5-13 · James 1:5",
+    "ta": "1 ராஜாக்கள் 3:5-13 · யாக்கோபு 1:5"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "jehoshaphat",
+   "cat": "character",
+   "scene": "desert",
+   "book": 14,
+   "chapter": 20,
+   "title": {
+    "en": "Jehoshaphat looks to Jehovah",
+    "ta": "யெகோவாவை நோக்கிய யோசபாத்"
+   },
+   "text": {
+    "en": "Facing a huge enemy army, King Jehoshaphat admitted he didn’t know what to do and turned to Jehovah in prayer. Judah was saved without having to fight.",
+    "ta": "பெரிய எதிரிப் படையைச் சந்தித்தபோது, என்ன செய்வதென்று தெரியவில்லை என்று ராஜா யோசபாத் ஒப்புக்கொண்டு, ஜெபத்தில் யெகோவாவை நோக்கினார். யூதா போர் செய்யாமலேயே காப்பாற்றப்பட்டது."
+   },
+   "lesson": {
+    "en": "When we don’t know what to do, we can look to Jehovah.",
+    "ta": "என்ன செய்வதென்று தெரியாதபோது நாம் யெகோவாவை நோக்கலாம்."
+   },
+   "ref": {
+    "en": "2 Chronicles 20:1-24",
+    "ta": "2 நாளாகமம் 20:1-24"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "john_baptist",
+   "cat": "character",
+   "scene": "desert",
+   "book": 40,
+   "chapter": 3,
+   "title": {
+    "en": "John the Baptist",
+    "ta": "ஞானஸ்நானம் கொடுத்த யோவான்"
+   },
+   "text": {
+    "en": "John lived simply in the wilderness, preached repentance and had the privilege of baptizing Jesus. He said that Jesus must increase while he decreased.",
+    "ta": "யோவான் வனாந்தரத்தில் எளிமையாக வாழ்ந்து, மனந்திரும்புதலைப் பற்றிப் பிரசங்கித்து, இயேசுவுக்கு ஞானஸ்நானம் கொடுக்கும் பாக்கியத்தைப் பெற்றார். இயேசு பெருக வேண்டும், தான் சிறுக வேண்டும் என்று சொன்னார்."
+   },
+   "lesson": {
+    "en": "Humility makes room for Jehovah’s purpose.",
+    "ta": "மனத்தாழ்மை யெகோவாவின் நோக்கத்துக்கு இடம் கொடுக்கிறது."
+   },
+   "ref": {
+    "en": "Matthew 3:1-17 · John 3:30",
+    "ta": "மத்தேயு 3:1-17 · யோவான் 3:30"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "stephen",
+   "cat": "character",
+   "scene": "city",
+   "book": 44,
+   "chapter": 7,
+   "title": {
+    "en": "Stephen",
+    "ta": "ஸ்தேவான்"
+   },
+   "text": {
+    "en": "Stephen boldly defended the truth before the Jewish high court. As he was being stoned, he prayed for those attacking him.",
+    "ta": "ஸ்தேவான் யூத உயர் நீதிமன்றத்துக்கு முன் தைரியமாகச் சத்தியத்தை ஆதரித்துப் பேசினார். கல்லெறியப்பட்டபோது, தன்னைத் தாக்கியவர்களுக்காக ஜெபம் செய்தார்."
+   },
+   "lesson": {
+    "en": "Courage and forgiveness can go together.",
+    "ta": "தைரியமும் மன்னிப்பும் ஒன்றாகப் போக முடியும்."
+   },
+   "ref": {
+    "en": "Acts 7:54-60",
+    "ta": "அப்போஸ்தலர் 7:54-60"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "lydia",
+   "cat": "character",
+   "scene": "field",
+   "book": 44,
+   "chapter": 16,
+   "title": {
+    "en": "Lydia",
+    "ta": "லீதியாள்"
+   },
+   "text": {
+    "en": "Lydia, a seller of purple cloth, listened carefully to Paul, was baptized with her household and insisted that the missionaries stay in her home.",
+    "ta": "ஊதா நிறத் துணி விற்ற லீதியாள், பவுல் சொன்னதைக் கவனமாகக் கேட்டு, தன் வீட்டாரோடு ஞானஸ்நானம் எடுத்து, மிஷனரிகள் தன் வீட்டில் தங்கும்படி வற்புறுத்தினாள்."
+   },
+   "lesson": {
+    "en": "Hospitality is a beautiful way to show love.",
+    "ta": "உபசரிப்பு அன்பைக் காட்டும் அழகான வழி."
+   },
+   "ref": {
+    "en": "Acts 16:14, 15",
+    "ta": "அப்போஸ்தலர் 16:14, 15"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "aquila_priscilla",
+   "cat": "character",
+   "scene": "city",
+   "book": 44,
+   "chapter": 18,
+   "title": {
+    "en": "Aquila and Priscilla",
+    "ta": "ஆக்கில்லாவும் பிரிஸ்கில்லாளும்"
+   },
+   "text": {
+    "en": "Aquila and Priscilla worked as tentmakers alongside Paul. When they heard Apollos teach, they took him aside and kindly explained God’s way more accurately.",
+    "ta": "ஆக்கில்லாவும் பிரிஸ்கில்லாளும் பவுலோடு சேர்ந்து கூடாரம் தைக்கும் வேலை செய்தார்கள். அப்பொல்லோ கற்பிப்பதைக் கேட்டபோது, அவரைத் தனியாக அழைத்து கடவுளுடைய வழியை இன்னும் திருத்தமாக அன்போடு விளக்கினார்கள்."
+   },
+   "lesson": {
+    "en": "We can help others gently and in private.",
+    "ta": "மற்றவர்களுக்கு மென்மையாகவும் தனிப்பட்ட விதத்திலும் உதவலாம்."
+   },
+   "ref": {
+    "en": "Acts 18:1-3, 24-26",
+    "ta": "அப்போஸ்தலர் 18:1-3, 24-26"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "seventy_weeks",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 27,
+   "chapter": 9,
+   "title": {
+    "en": "The 70 weeks",
+    "ta": "70 வாரங்கள்"
+   },
+   "text": {
+    "en": "Daniel’s prophecy of the “70 weeks” pointed to when the Messiah would appear. It was fulfilled when Jesus was baptized in 29 C.E.",
+    "ta": "மேசியா எப்போது வருவார் என்பதை தானியேலின் “70 வாரங்கள்” தீர்க்கதரிசனம் சுட்டிக்காட்டியது. கி.பி. 29-ல் இயேசு ஞானஸ்நானம் பெற்றபோது அது நிறைவேறியது."
+   },
+   "lesson": {
+    "en": "Jehovah’s timetable is exact.",
+    "ta": "யெகோவாவின் கால அட்டவணை துல்லியமானது."
+   },
+   "ref": {
+    "en": "Daniel 9:24-27",
+    "ta": "தானியேல் 9:24-27"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "jerusalem_70",
+   "cat": "prophecy",
+   "scene": "city",
+   "book": 42,
+   "chapter": 21,
+   "title": {
+    "en": "Jerusalem surrounded",
+    "ta": "சூழப்பட்ட எருசலேம்"
+   },
+   "text": {
+    "en": "Jesus foretold that armies would surround Jerusalem and that his followers should flee. In 70 C.E. the Romans destroyed the city; Christians who had heeded the warning escaped.",
+    "ta": "படைகள் எருசலேமைச் சூழ்ந்துகொள்ளும், அப்போது தம் சீஷர்கள் ஓடிவிட வேண்டும் என்று இயேசு முன்னறிவித்தார். கி.பி. 70-ல் ரோமர்கள் நகரத்தை அழித்தார்கள்; எச்சரிப்புக்குக் கீழ்ப்படிந்த கிறிஸ்தவர்கள் தப்பினார்கள்."
+   },
+   "lesson": {
+    "en": "Acting on Jesus’ warnings saves lives.",
+    "ta": "இயேசுவின் எச்சரிப்புகளின்படி செயல்படுவது உயிரைக் காப்பாற்றும்."
+   },
+   "ref": {
+    "en": "Luke 21:20-24",
+    "ta": "லூக்கா 21:20-24"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "no_bone_broken",
+   "cat": "prophecy",
+   "scene": "dawn",
+   "book": 43,
+   "chapter": 19,
+   "title": {
+    "en": "Not a bone broken",
+    "ta": "ஒரு எலும்பும் முறிக்கப்படவில்லை"
+   },
+   "text": {
+    "en": "A psalm foretold that none of the Messiah’s bones would be broken. When Jesus died, soldiers broke the legs of the men beside him, but not his.",
+    "ta": "மேசியாவின் எலும்புகளில் ஒன்றுகூட முறிக்கப்படாது என்று ஒரு சங்கீதம் முன்னறிவித்தது. இயேசு இறந்தபோது, அவர் பக்கத்திலிருந்தவர்களின் கால்களைப் படைவீரர்கள் முறித்தார்கள், அவருடையதை முறிக்கவில்லை."
+   },
+   "lesson": {
+    "en": "Even small details of prophecy came true in Jesus.",
+    "ta": "தீர்க்கதரிசனத்தின் சின்ன விவரங்களும் இயேசுவில் நிறைவேறின."
+   },
+   "ref": {
+    "en": "Psalm 34:20 · John 19:32-36",
+    "ta": "சங்கீதம் 34:20 · யோவான் 19:32-36"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "isaiah_53",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 23,
+   "chapter": 53,
+   "title": {
+    "en": "The suffering servant",
+    "ta": "துன்பப்பட்ட ஊழியர்"
+   },
+   "text": {
+    "en": "About 700 years in advance, Isaiah described the Messiah being despised, staying silent before his accusers and being buried with the rich.",
+    "ta": "சுமார் 700 வருஷங்களுக்கு முன்பே, மேசியா அவமதிக்கப்படுவார், குற்றம் சாட்டியவர்கள் முன் மௌனமாக இருப்பார், பணக்காரரோடு அடக்கம் செய்யப்படுவார் என்று ஏசாயா விவரித்தார்."
+   },
+   "lesson": {
+    "en": "Jesus’ sacrifice was part of God’s purpose long before it happened.",
+    "ta": "இயேசுவின் பலி, அது நடப்பதற்கு வெகு காலத்துக்கு முன்பே கடவுளுடைய நோக்கத்தின் பாகமாக இருந்தது."
+   },
+   "ref": {
+    "en": "Isaiah 53:3-9",
+    "ta": "ஏசாயா 53:3-9"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "nineveh_fall",
+   "cat": "prophecy",
+   "scene": "city",
+   "book": 34,
+   "chapter": 3,
+   "title": {
+    "en": "Nineveh falls",
+    "ta": "நினிவேயின் வீழ்ச்சி"
+   },
+   "text": {
+    "en": "Nahum and Zephaniah foretold that mighty Nineveh, Assyria’s capital, would be made desolate. It fell in 632 B.C.E., and its ruins lay buried for centuries.",
+    "ta": "அசீரியாவின் தலைநகரான வலிமைமிக்க நினிவே பாழாகும் என்று நாகூமும் செப்பனியாவும் முன்னறிவித்தார்கள். கி.மு. 632-ல் அது விழுந்தது; அதன் இடிபாடுகள் பல நூற்றாண்டுகள் மண்ணுக்குள் புதைந்து கிடந்தன."
+   },
+   "lesson": {
+    "en": "Proud powers that oppose Jehovah do not last.",
+    "ta": "யெகோவாவை எதிர்க்கும் பெருமைமிக்க சக்திகள் நிலைப்பதில்லை."
+   },
+   "ref": {
+    "en": "Nahum 3:1-7 · Zephaniah 2:13-15",
+    "ta": "நாகூம் 3:1-7 · செப்பனியா 2:13-15"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "mild_answer",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 20,
+   "chapter": 15,
+   "title": {
+    "en": "A mild answer",
+    "ta": "சாந்தமான பதில்"
+   },
+   "text": {
+    "en": "Proverbs says a mild answer turns away rage, but a harsh word stirs up anger.",
+    "ta": "சாந்தமான பதில் கோபத்தைத் தணிக்கும், கடுமையான வார்த்தை கோபத்தைக் கிளறும் என்று நீதிமொழிகள் சொல்கிறது."
+   },
+   "lesson": {
+    "en": "How we answer can calm a fight or start one.",
+    "ta": "நாம் பதில் சொல்லும் விதம் சண்டையை அடக்கவும் செய்யும், தொடங்கவும் செய்யும்."
+   },
+   "ref": {
+    "en": "Proverbs 15:1",
+    "ta": "நீதிமொழிகள் 15:1"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "iron_sharpens",
+   "cat": "principle",
+   "scene": "field",
+   "book": 20,
+   "chapter": 27,
+   "title": {
+    "en": "Iron sharpens iron",
+    "ta": "இரும்பை இரும்பு கூர்மையாக்கும்"
+   },
+   "text": {
+    "en": "Just as iron sharpens iron, one friend can help another become better.",
+    "ta": "இரும்பை இரும்பு கூர்மையாக்குவதுபோல், ஒரு நண்பன் இன்னொருவனை மேம்படுத்துகிறான்."
+   },
+   "lesson": {
+    "en": "Choose friends who help you grow spiritually.",
+    "ta": "ஆன்மீக ரீதியில் வளர உதவும் நண்பர்களைத் தேர்ந்தெடுங்கள்."
+   },
+   "ref": {
+    "en": "Proverbs 27:17",
+    "ta": "நீதிமொழிகள் 27:17"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "love_is_patient",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 46,
+   "chapter": 13,
+   "title": {
+    "en": "What love is like",
+    "ta": "அன்பு எப்படிப்பட்டது"
+   },
+   "text": {
+    "en": "Paul described love as patient and kind — not jealous, not bragging, and not keeping account of wrongs.",
+    "ta": "அன்பு பொறுமையும் கருணையும் உள்ளது — பொறாமைப்படாது, பெருமையடிக்காது, தீங்குகளைக் கணக்கு வைக்காது என்று பவுல் விவரித்தார்."
+   },
+   "lesson": {
+    "en": "Love shows in everyday actions, not just feelings.",
+    "ta": "அன்பு உணர்ச்சிகளில் மட்டுமல்ல, அன்றாடச் செயல்களில் தெரிகிறது."
+   },
+   "ref": {
+    "en": "1 Corinthians 13:4-7",
+    "ta": "1 கொரிந்தியர் 13:4-7"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "humble_lifted",
+   "cat": "principle",
+   "scene": "sower",
+   "book": 59,
+   "chapter": 4,
+   "title": {
+    "en": "Humble yourself",
+    "ta": "உங்களைத் தாழ்த்துங்கள்"
+   },
+   "text": {
+    "en": "James wrote that if we humble ourselves before Jehovah, he will lift us up.",
+    "ta": "யெகோவாவுக்கு முன் நம்மைத் தாழ்த்தினால், அவர் நம்மை உயர்த்துவார் என்று யாக்கோபு எழுதினார்."
+   },
+   "lesson": {
+    "en": "Humility brings Jehovah’s favor; pride pushes it away.",
+    "ta": "மனத்தாழ்மை யெகோவாவின் தயவைக் கொண்டுவரும்; பெருமை அதைத் தள்ளிவிடும்."
+   },
+   "ref": {
+    "en": "James 4:6, 10",
+    "ta": "யாக்கோபு 4:6, 10"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "work_to_share",
+   "cat": "principle",
+   "scene": "city",
+   "book": 49,
+   "chapter": 4,
+   "title": {
+    "en": "Work so you can share",
+    "ta": "பகிர்ந்துகொள்ள உழையுங்கள்"
+   },
+   "text": {
+    "en": "Paul encouraged Christians to work hard with their own hands so that they would have something to share with those in need.",
+    "ta": "தேவையிலிருப்பவர்களோடு பகிர்ந்துகொள்ள ஏதாவது இருக்கும்படி சொந்தக் கைகளால் கடினமாக உழைக்கும்படி பவுல் கிறிஸ்தவர்களை உற்சாகப்படுத்தினார்."
+   },
+   "lesson": {
+    "en": "Honest work is a way to care for others too.",
+    "ta": "நேர்மையான உழைப்பும் மற்றவர்களைக் கவனித்துக்கொள்ளும் ஒரு வழி."
+   },
+   "ref": {
+    "en": "Ephesians 4:28",
+    "ta": "எபேசியர் 4:28"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "gracious_words",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 51,
+   "chapter": 4,
+   "title": {
+    "en": "Words seasoned with salt",
+    "ta": "உப்பால் சுவையூட்டப்பட்ட பேச்சு"
+   },
+   "text": {
+    "en": "Paul advised that our words should always be gracious, as if seasoned with salt, so that we know how to answer each person.",
+    "ta": "ஒவ்வொருவருக்கும் எப்படிப் பதில் சொல்ல வேண்டும் என்று தெரியும்படி, நம் பேச்சு உப்பால் சுவையூட்டப்பட்டதுபோல் எப்போதும் இனிமையாக இருக்க வேண்டும் என்று பவுல் ஆலோசனை சொன்னார்."
+   },
+   "lesson": {
+    "en": "Kind, thoughtful words open hearts.",
+    "ta": "அன்பான, யோசித்துப் பேசும் வார்த்தைகள் இதயங்களைத் திறக்கும்."
+   },
+   "ref": {
+    "en": "Colossians 4:6",
+    "ta": "கொலோசெயர் 4:6"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "pray_constantly",
+   "cat": "principle",
+   "scene": "stars",
+   "book": 52,
+   "chapter": 5,
+   "title": {
+    "en": "Pray constantly",
+    "ta": "இடைவிடாமல் ஜெபம் செய்யுங்கள்"
+   },
+   "text": {
+    "en": "Paul told Christians to pray constantly — to keep talking to Jehovah throughout the day, about everything.",
+    "ta": "இடைவிடாமல் ஜெபம் செய்யும்படி — நாள் முழுவதும் எல்லாவற்றைப் பற்றியும் யெகோவாவிடம் பேசிக்கொண்டே இருக்கும்படி — பவுல் கிறிஸ்தவர்களிடம் சொன்னார்."
+   },
+   "lesson": {
+    "en": "Short prayers through the day keep us close to Jehovah.",
+    "ta": "நாள் முழுவதும் செய்யும் சின்னச் சின்ன ஜெபங்கள் நம்மை யெகோவாவுக்கு நெருக்கமாக வைக்கும்."
+   },
+   "ref": {
+    "en": "1 Thessalonians 5:17",
+    "ta": "1 தெசலோனிக்கேயர் 5:17"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "firstfruits",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 26,
+   "title": {
+    "en": "The first and best",
+    "ta": "முதலானதும் சிறந்ததும்"
+   },
+   "text": {
+    "en": "Israelites brought the first and best of their harvest to Jehovah and thanked him for the land he had given them.",
+    "ta": "இஸ்ரவேலர் தங்கள் அறுவடையில் முதலானதையும் சிறந்ததையும் யெகோவாவிடம் கொண்டுவந்து, அவர் கொடுத்த தேசத்துக்காக நன்றி சொன்னார்கள்."
+   },
+   "lesson": {
+    "en": "Jehovah deserves our best, not our leftovers.",
+    "ta": "மீதியானதை அல்ல, நம்மிடம் சிறந்ததையே யெகோவாவுக்குக் கொடுக்க வேண்டும்."
+   },
+   "ref": {
+    "en": "Deuteronomy 26:1-11",
+    "ta": "உபாகமம் 26:1-11"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "debt_release",
+   "cat": "law",
+   "scene": "city",
+   "book": 5,
+   "chapter": 15,
+   "title": {
+    "en": "Debts cancelled",
+    "ta": "கடன் ரத்து"
+   },
+   "text": {
+    "en": "Every seventh year, debts owed by fellow Israelites were cancelled, so no one stayed buried in debt.",
+    "ta": "ஒவ்வொரு ஏழாம் வருஷமும் சக இஸ்ரவேலர் தர வேண்டிய கடன்கள் ரத்து செய்யப்பட்டன; அதனால் யாரும் கடனில் மூழ்கிக் கிடக்கவில்லை."
+   },
+   "lesson": {
+    "en": "Jehovah wants his people to be generous and give others a fresh start.",
+    "ta": "தம் மக்கள் தாராளமாக இருந்து, மற்றவர்களுக்குப் புதிய தொடக்கம் கொடுக்க வேண்டும் என்று யெகோவா விரும்புகிறார்."
+   },
+   "ref": {
+    "en": "Deuteronomy 15:1, 2, 7, 8",
+    "ta": "உபாகமம் 15:1, 2, 7, 8"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "honest_scales",
+   "cat": "law",
+   "scene": "city",
+   "book": 3,
+   "chapter": 19,
+   "title": {
+    "en": "Honest scales",
+    "ta": "நேர்மையான தராசு"
+   },
+   "text": {
+    "en": "The Law required honest weights and measures in every sale.",
+    "ta": "ஒவ்வொரு வியாபாரத்திலும் நேர்மையான எடைக்கற்களையும் அளவுகளையும் பயன்படுத்த வேண்டும் என்று திருச்சட்டம் சொன்னது."
+   },
+   "lesson": {
+    "en": "Honesty in business matters to Jehovah.",
+    "ta": "வியாபாரத்தில் நேர்மை யெகோவாவுக்கு முக்கியம்."
+   },
+   "ref": {
+    "en": "Leviticus 19:35, 36",
+    "ta": "லேவியராகமம் 19:35, 36"
+   },
+   "added": "2026-10-28"
+  },
+  {
+   "id": "same_day_wages",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 24,
+   "title": {
+    "en": "Paid before sunset",
+    "ta": "சூரியன் மறைவதற்கு முன் கூலி"
+   },
+   "text": {
+    "en": "An employer had to pay a hired worker’s wages the same day, before sunset, because the worker depended on it.",
+    "ta": "கூலிக்காரனுக்கு அவனுடைய கூலியை அன்றைக்கே, சூரியன் மறைவதற்கு முன்பே கொடுக்க வேண்டியிருந்தது; ஏனென்றால் அவன் அதை நம்பியிருந்தான்."
+   },
+   "lesson": {
+    "en": "Jehovah cares about fair treatment of workers.",
+    "ta": "வேலையாட்கள் நியாயமாக நடத்தப்பட வேண்டும் என்று யெகோவா அக்கறைப்படுகிறார்."
+   },
+   "ref": {
+    "en": "Deuteronomy 24:14, 15",
+    "ta": "உபாகமம் 24:14, 15"
+   },
+   "added": "2026-10-28"
+  }
+ ]
+}
