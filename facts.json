@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "removed": [],
  "facts": [
   {
@@ -231,8 +231,8 @@
     "ta": "பாறையா மணலா?"
    },
    "text": {
-    "en": "One man built his house on rock, another on sand. When the storm came, only the house on the rock stood.",
-    "ta": "ஒருவன் தன் வீட்டைப் பாறைமேல் கட்டினான், இன்னொருவன் மணல்மேல் கட்டினான். புயல் வந்தபோது பாறைமேல் கட்டிய வீடு மட்டுமே நின்றது."
+    "en": "Jesus compared two men building houses. The discreet one dug deep and laid his foundation on rock; the foolish one built on sand. When rain, floods and winds struck both houses alike, the one on sand collapsed, but the one on rock stood firm.",
+    "ta": "வீடு கட்டிய இரண்டு பேரை இயேசு ஒப்பிட்டார். விவேகமுள்ளவன் ஆழமாகத் தோண்டி பாறைமேல் அஸ்திவாரம் போட்டான்; முட்டாளோ மணல்மேல் கட்டினான். மழையும் வெள்ளமும் காற்றும் இரண்டு வீடுகளையும் ஒரேபோல் தாக்கியபோது, மணல்மேல் கட்டிய வீடு இடிந்து விழுந்தது; பாறைமேல் கட்டிய வீடோ உறுதியாக நின்றது."
    },
    "lesson": {
     "en": "Hearing Jesus is not enough — doing what he says gives us a firm foundation.",
@@ -242,7 +242,14 @@
     "en": "Matthew 7:24-27",
     "ta": "மத்தேயு 7:24-27"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/wp20081101/Are-You-Building-on-Sand-or-on-Rock/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Sand or rock?",
+    "ta": "காவற்கோபுரம்: மணலா பாறையா?"
+   }
   },
   {
    "id": "unforgiving_slave",
@@ -255,18 +262,25 @@
     "ta": "மன்னிக்காத அடிமை"
    },
    "text": {
-    "en": "A king cancelled a slave’s enormous debt. That same slave then refused to forgive a fellow slave a small debt.",
-    "ta": "ஒரு ராஜா தன் அடிமையின் மிகப் பெரிய கடனை ரத்து செய்தார். அதே அடிமை, சக அடிமை தனக்குத் தர வேண்டிய சின்னக் கடனை மன்னிக்க மறுத்தான்."
+    "en": "A king cancelled a slave’s debt of 10,000 talents, an amount he could never repay. That slave then had a fellow slave thrown into prison over just 100 denarii. When the king heard, he handed the unmerciful slave over to the jailers.",
+    "ta": "ஒரு அடிமை ஒருபோதும் திருப்பித் தர முடியாத 10,000 தாலந்து கடனை ராஜா ரத்து செய்தார். அதே அடிமை, வெறும் 100 தினாரியுக்காகத் தன் சக அடிமையைச் சிறையில் போட வைத்தான். இதைக் கேள்விப்பட்ட ராஜா, இரக்கமில்லாத அந்த அடிமையைச் சிறைக்காவலர்களிடம் ஒப்படைத்தார்."
    },
    "lesson": {
-    "en": "Because we have been forgiven so much, we must forgive others.",
-    "ta": "நமக்கு இவ்வளவு மன்னிப்பு கிடைத்திருப்பதால், நாமும் மற்றவர்களை மன்னிக்க வேண்டும்."
+    "en": "Jehovah has forgiven us far more, so we forgive others from the heart.",
+    "ta": "யெகோவா நம்மை அதைவிட அதிகமாக மன்னித்திருப்பதால், நாமும் மற்றவர்களை மனதார மன்னிப்போம்."
    },
    "ref": {
     "en": "Matthew 18:23-35",
     "ta": "மத்தேயு 18:23-35"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-in-galilee/forgiveness-lesson/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: The need to forgive",
+    "ta": "இயேசு—வழி: மன்னிக்க வேண்டியதன் அவசியம்"
+   }
   },
   {
    "id": "persistent_widow",
@@ -279,8 +293,8 @@
     "ta": "விடாமல் கேட்ட விதவை"
    },
    "text": {
-    "en": "A widow kept going to an unjust judge until he finally gave her justice.",
-    "ta": "நியாயமில்லாத ஒரு நீதிபதி கடைசியில் நியாயம் செய்யும்வரை ஒரு விதவை அவரிடம் போய்க்கொண்டே இருந்தாள்."
+    "en": "A widow kept going to a judge who neither feared God nor respected people. Just to stop her wearing him out, he finally gave her justice. Jesus contrasted him with God: if even that judge gave in, Jehovah will surely act for those who keep calling on him.",
+    "ta": "கடவுளுக்குப் பயப்படாத, மனிதர்களை மதிக்காத ஒரு நீதிபதியிடம் ஒரு விதவை போய்க்கொண்டே இருந்தாள். அவள் தொந்தரவு செய்யாமல் இருப்பதற்காகவே, கடைசியில் அவர் அவளுக்கு நியாயம் செய்தார். அந்த நீதிபதியே விட்டுக்கொடுத்தார் என்றால், தம்மிடம் விடாமல் வேண்டுகிறவர்களுக்கு யெகோவா நிச்சயம் நியாயம் செய்வார் என்று இயேசு வித்தியாசப்படுத்திக் காட்டினார்."
    },
    "lesson": {
     "en": "Keep praying and don’t give up — Jehovah cares far more than that judge.",
@@ -290,7 +304,14 @@
     "en": "Luke 18:1-8",
     "ta": "லூக்கா 18:1-8"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-east-of-the-jordan/need-for-prayer-and-humility/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Need for prayer",
+    "ta": "இயேசு—வழி: ஜெபத்தின் அவசியம்"
+   }
   },
   {
    "id": "rich_fool",
@@ -303,8 +324,8 @@
     "ta": "பெரிய களஞ்சியங்கள்"
    },
    "text": {
-    "en": "A rich man planned to build bigger barns and take life easy for many years, but he died that very night.",
-    "ta": "ஒரு பணக்காரன் பெரிய களஞ்சியங்களைக் கட்டி பல வருஷங்கள் சுகமாக வாழத் திட்டமிட்டான்; ஆனால் அன்று இரவே இறந்துபோனான்."
+    "en": "After warning against greed, Jesus told of a rich man whose land gave a big harvest. He planned to tear down his storehouses, build bigger ones and enjoy himself for years. But God told him he would die that very night, and asked who would then get what he had stored.",
+    "ta": "பேராசையைப் பற்றி எச்சரித்த பிறகு, நிலம் நல்ல விளைச்சலைக் கொடுத்த ஒரு பணக்காரனைப் பற்றி இயேசு சொன்னார். அவன் தன் களஞ்சியங்களை இடித்து, பெரியவற்றைக் கட்டி, பல வருஷங்கள் சுகமாக வாழத் திட்டமிட்டான். ஆனால், அன்று இரவே அவன் இறந்துபோவான் என்றும், அப்போது அவன் சேர்த்து வைத்தவை யாருக்குப் போகும் என்றும் கடவுள் கேட்டார்."
    },
    "lesson": {
     "en": "Being rich toward God matters more than storing up things.",
@@ -314,7 +335,14 @@
     "en": "Luke 12:16-21",
     "ta": "லூக்கா 12:16-21"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-in-judea/illustration-rich-man/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Counsel about riches",
+    "ta": "இயேசு—வழி: செல்வத்தைப் பற்றிய ஆலோசனை"
+   }
   },
   {
    "id": "pearl",
@@ -327,8 +355,8 @@
     "ta": "விலையுயர்ந்த முத்து"
    },
    "text": {
-    "en": "A traveling merchant found one pearl of great value and sold everything he had to buy it.",
-    "ta": "பயணம் செய்யும் ஒரு வியாபாரி மிகவும் விலையுயர்ந்த ஒரு முத்தைக் கண்டுபிடித்து, அதை வாங்க தன்னிடமிருந்த எல்லாவற்றையும் விற்றான்."
+    "en": "A traveling merchant found one pearl of great value and promptly sold everything he had to buy it. He was not after profit; owning that pearl was reward enough.",
+    "ta": "பயணம் செய்யும் ஒரு வியாபாரி மிகவும் விலையுயர்ந்த ஒரு முத்தைக் கண்டுபிடித்து, உடனே தன்னிடமிருந்த எல்லாவற்றையும் விற்று அதை வாங்கினான். லாபம் அவனுடைய குறிக்கோள் அல்ல; அந்த முத்து தன்னிடம் இருப்பதே அவனுக்குப் போதுமான சந்தோஷம்."
    },
    "lesson": {
     "en": "The Kingdom is worth any sacrifice.",
@@ -338,7 +366,14 @@
     "en": "Matthew 13:45, 46",
     "ta": "மத்தேயு 13:45, 46"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/w20050201/Finding-One-Pearl-of-High-Value/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: One pearl of high value",
+    "ta": "காவற்கோபுரம்: விலையுயர்ந்த முத்து"
+   }
   },
   {
    "id": "good_shepherd",
@@ -351,8 +386,8 @@
     "ta": "நல்ல மேய்ப்பர்"
    },
    "text": {
-    "en": "Jesus described himself as a shepherd who knows each of his sheep by name and is willing to give his life for them.",
-    "ta": "தம் ஆடுகள் ஒவ்வொன்றையும் பெயர் சொல்லி அறிந்து, அவற்றுக்காகத் தம் உயிரையே கொடுக்கத் தயாராக இருக்கும் மேய்ப்பராக இயேசு தம்மை விவரித்தார்."
+    "en": "Jesus said he is the fine shepherd: he knows each of his sheep, calls them by name, and they follow because they know his voice. He is willing to give up his life for them.",
+    "ta": "தாம் நல்ல மேய்ப்பர் என்று இயேசு சொன்னார்: அவர் தம் ஆடுகள் ஒவ்வொன்றையும் அறிந்திருக்கிறார், பெயர் சொல்லிக் கூப்பிடுகிறார்; அவருடைய குரலை அவை அறிந்திருப்பதால் அவரைப் பின்பற்றுகின்றன. அவற்றுக்காகத் தம் உயிரையே கொடுக்க அவர் தயாராக இருக்கிறார்."
    },
    "lesson": {
     "en": "Jesus knows and cares for each one of his followers.",
@@ -362,7 +397,14 @@
     "en": "John 10:3, 11-14",
     "ta": "யோவான் 10:3, 11-14"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-in-judea/fine-shepherd-and-sheepfolds/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: The fine shepherd",
+    "ta": "இயேசு—வழி: நல்ல மேய்ப்பர்"
+   }
   },
   {
    "id": "water_wine",
@@ -375,8 +417,8 @@
     "ta": "தண்ணீர் திராட்சமதுவானது"
    },
    "text": {
-    "en": "At a wedding in Cana the wine ran out. Jesus turned six large jars of water into fine wine — his first miracle.",
-    "ta": "கானாவில் நடந்த ஒரு கல்யாணத்தில் திராட்சமது தீர்ந்துபோனது. இயேசு ஆறு பெரிய ஜாடிகளிலிருந்த தண்ணீரைச் சிறந்த திராட்சமதுவாக மாற்றினார் — அதுதான் அவருடைய முதல் அற்புதம்."
+    "en": "At a wedding in Cana, Mary noticed the wine had run out and told Jesus. He had six large stone jars filled with water and turned it into wine so good that the director of the feast praised the groom for it. It was Jesus’ first miracle, and it strengthened his disciples’ faith.",
+    "ta": "கானாவில் நடந்த ஒரு கல்யாணத்தில் திராட்சமது தீர்ந்துபோனதைக் கவனித்த மரியாள் அதை இயேசுவிடம் சொன்னாள். ஆறு பெரிய கல் ஜாடிகளில் தண்ணீர் நிரப்பச் சொல்லி, அதை அவர் மிகச் சிறந்த திராட்சமதுவாக மாற்றினார்; விருந்தின் மேற்பார்வையாளர் அதற்காக மணமகனைப் பாராட்டினார். இதுதான் இயேசுவின் முதல் அற்புதம்; இது அவருடைய சீஷர்களின் விசுவாசத்தைப் பலப்படுத்தியது."
    },
    "lesson": {
     "en": "Jesus cared even about people’s joy and embarrassment.",
@@ -386,7 +428,14 @@
     "en": "John 2:1-11",
     "ta": "யோவான் 2:1-11"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/beginning-ministry/first-miracle/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: First miracle",
+    "ta": "இயேசு—வழி: முதல் அற்புதம்"
+   }
   },
   {
    "id": "feeding_5000",
@@ -1563,6 +1612,223 @@
    "srcTitle": {
     "en": "Watchtower: Choosing good friends",
     "ta": "காவற்கோபுரம்: நல்ல நண்பர்களைத் தேர்ந்தெடுத்தல்"
+   }
+  },
+  {
+   "id": "haggai",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 37,
+   "chapter": 1,
+   "title": {
+    "en": "Haggai gets the temple built",
+    "ta": "ஆலயத்தைக் கட்ட உற்சாகப்படுத்திய ஆகாய்"
+   },
+   "text": {
+    "en": "After the Jews came back from Babylon, work on Jehovah’s temple stopped for years because of opposition and because people put their own houses first. In 520 B.C.E. Haggai gave four messages from Jehovah that got the building going again, and with Zechariah he kept encouraging the builders until the temple was finished in 515 B.C.E.",
+    "ta": "பாபிலோனிலிருந்து யூதர்கள் திரும்பி வந்த பிறகு, எதிர்ப்பினாலும், மக்கள் தங்கள் சொந்த வீடுகளுக்கே முதலிடம் கொடுத்ததாலும், யெகோவாவின் ஆலய வேலை பல வருஷங்களாக நின்றுபோனது. கி.மு. 520-ல் ஆகாய் யெகோவாவிடமிருந்து நான்கு செய்திகளைச் சொன்னார்; அதனால் வேலை மறுபடியும் ஆரம்பமானது. கி.மு. 515-ல் ஆலயம் கட்டி முடிக்கப்படும்வரை அவரும் சகரியாவும் கட்டுகிறவர்களை உற்சாகப்படுத்திக்கொண்டே இருந்தார்கள்."
+   },
+   "lesson": {
+    "en": "Don’t let personal concerns push Jehovah’s work to second place.",
+    "ta": "சொந்த கவலைகள் யெகோவாவின் வேலையை இரண்டாம் இடத்துக்குத் தள்ளிவிட விடாதீர்கள்."
+   },
+   "ref": {
+    "en": "Haggai 1:1-4; 2:1 · Ezra 5:1, 2; 6:14, 15",
+    "ta": "ஆகாய் 1:1-4; 2:1 · எஸ்றா 5:1, 2; 6:14, 15"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Haggai/"
+   },
+   "srcTitle": {
+    "en": "Insight: Haggai",
+    "ta": "Insight: ஆகாய்"
+   }
+  },
+  {
+   "id": "huldah",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 12,
+   "chapter": 22,
+   "title": {
+    "en": "Huldah the prophetess",
+    "ta": "தீர்க்கதரிசி உல்தாள்"
+   },
+   "text": {
+    "en": "When the book of the Law was found in the temple, King Josiah sent men to ask Jehovah what to do, and they went to Huldah, a prophetess in Jerusalem. She said the punishments written in that book would come on the unfaithful nation, but because Josiah had humbled himself, he would not live to see them.",
+    "ta": "ஆலயத்தில் திருச்சட்டப் புத்தகம் கண்டுபிடிக்கப்பட்டபோது, என்ன செய்ய வேண்டும் என்று யெகோவாவிடம் கேட்க யோசியா ராஜா சிலரை அனுப்பினார்; அவர்கள் எருசலேமில் இருந்த தீர்க்கதரிசி உல்தாளிடம் போனார்கள். அந்தப் புத்தகத்தில் எழுதியிருந்த தண்டனைகள் உண்மையில்லாத தேசத்துக்கு வரும் என்று அவள் சொன்னாள்; ஆனால் யோசியா தன்னைத் தாழ்த்தியதால், அவர் உயிரோடு இருக்கும்போது அவை வராது என்றும் சொன்னாள்."
+   },
+   "lesson": {
+    "en": "Jehovah notices when we humbly respond to his word.",
+    "ta": "நாம் அவருடைய வார்த்தைக்கு மனத்தாழ்மையோடு கீழ்ப்படியும்போது யெகோவா அதைக் கவனிக்கிறார்."
+   },
+   "ref": {
+    "en": "2 Kings 22:8-20 · 2 Chronicles 34:14-28",
+    "ta": "2 ராஜாக்கள் 22:8-20 · 2 நாளாகமம் 34:14-28"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Huldah/"
+   },
+   "srcTitle": {
+    "en": "Insight: Huldah",
+    "ta": "Insight: உல்தாள்"
+   }
+  },
+  {
+   "id": "barnabas",
+   "cat": "character",
+   "scene": "sea",
+   "book": 44,
+   "chapter": 4,
+   "title": {
+    "en": "Barnabas, Son of Comfort",
+    "ta": "ஆறுதலின் மகன் பர்னபா"
+   },
+   "text": {
+    "en": "Joseph, a Levite from Cyprus, was called Barnabas, meaning “Son of Comfort.” He sold a field to support the early Christians, stood up for the newly converted Saul when others were afraid of him, and later strengthened the believers in Antioch and travelled with Paul on a missionary tour.",
+    "ta": "சீப்புருவைச் சேர்ந்த லேவியரான யோசேப்புக்கு, “ஆறுதலின் மகன்” என்று அர்த்தம் தரும் பர்னபா என்ற பெயர் கொடுக்கப்பட்டது. ஆரம்பகால கிறிஸ்தவர்களுக்கு உதவ அவர் தன் நிலத்தை விற்றார். புதிதாகச் சீஷரான சவுலைப் பார்த்து மற்றவர்கள் பயந்தபோது, அவருக்காகப் பேசினார். பிறகு, அந்தியோகியாவில் இருந்தவர்களைப் பலப்படுத்தினார், பவுலோடு மிஷனரி பயணம் போனார்."
+   },
+   "lesson": {
+    "en": "Look for ways to comfort and support others in the congregation.",
+    "ta": "சபையில் மற்றவர்களுக்கு ஆறுதலும் ஆதரவும் கொடுக்க வழிகளைத் தேடுங்கள்."
+   },
+   "ref": {
+    "en": "Acts 4:36, 37; 9:26, 27; 11:22-26",
+    "ta": "அப்போஸ்தலர் 4:36, 37; 9:26, 27; 11:22-26"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Barnabas/"
+   },
+   "srcTitle": {
+    "en": "Insight: Barnabas",
+    "ta": "Insight: பர்னபா"
+   }
+  },
+  {
+   "id": "lost_coin",
+   "cat": "parable",
+   "scene": "city",
+   "book": 42,
+   "chapter": 15,
+   "title": {
+    "en": "The lost coin",
+    "ta": "தொலைந்துபோன காசு"
+   },
+   "text": {
+    "en": "Jesus told of a woman with ten drachma coins who lost one. She lit a lamp, swept the house and searched carefully until she found it, then called her friends to celebrate. In the same way, he said, there is joy among God’s angels when one sinner repents.",
+    "ta": "பத்து திராக்மா காசுகளை வைத்திருந்த ஒரு பெண் அவற்றில் ஒன்றைத் தொலைத்துவிட்டதைப் பற்றி இயேசு சொன்னார். அவள் விளக்கை ஏற்றி, வீட்டைப் பெருக்கி, அதைக் கண்டுபிடிக்கும்வரை கவனமாகத் தேடினாள்; பிறகு, சந்தோஷப்பட தன் தோழிகளைக் கூப்பிட்டாள். அதேபோல், ஒரு பாவி மனம் திரும்பும்போது கடவுளுடைய தேவதூதர்கள் சந்தோஷப்படுகிறார்கள் என்று அவர் சொன்னார்."
+   },
+   "lesson": {
+    "en": "Every person who returns to Jehovah is precious, so welcome them warmly.",
+    "ta": "யெகோவாவிடம் திரும்பி வருகிற ஒவ்வொருவரும் விலைமதிப்புள்ளவர்கள், அதனால் அவர்களை அன்பாக வரவேற்போம்."
+   },
+   "ref": {
+    "en": "Luke 15:8-10",
+    "ta": "லூக்கா 15:8-10"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1204432/1471/0"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 85",
+    "ta": "இயேசு—வழி: அதிகாரம் 85"
+   }
+  },
+  {
+   "id": "coin_in_fish",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 40,
+   "chapter": 17,
+   "title": {
+    "en": "A coin in a fish’s mouth",
+    "ta": "மீனின் வாயில் ஒரு காசு"
+   },
+   "text": {
+    "en": "Tax collectors asked Peter whether Jesus paid the temple tax. Jesus explained that, as the Son of the One worshipped at the temple, he was not obliged to pay, yet he paid so as not to stumble anyone. He told Peter to catch a fish, and the coin in its mouth covered the tax for both of them.",
+    "ta": "இயேசு ஆலய வரியைச் செலுத்துகிறாரா என்று வரி வசூலிப்பவர்கள் பேதுருவிடம் கேட்டார்கள். ஆலயத்தில் வணங்கப்படுகிறவருடைய மகனாக இருப்பதால் தான் அதைச் செலுத்த வேண்டியதில்லை என்று இயேசு விளக்கினார்; ஆனாலும், யாரும் இடறலடையக் கூடாது என்பதற்காக அதைச் செலுத்தினார். ஒரு மீனைப் பிடிக்கும்படி பேதுருவிடம் சொன்னார்; அதன் வாயிலிருந்த காசு இருவருக்கும் வரியாக இருந்தது."
+   },
+   "lesson": {
+    "en": "Sometimes we give up a right so that others won’t be stumbled.",
+    "ta": "மற்றவர்கள் இடறலடையாமல் இருக்க, சில சமயங்களில் நம் உரிமையை விட்டுக்கொடுக்கிறோம்."
+   },
+   "ref": {
+    "en": "Matthew 17:24-27",
+    "ta": "மத்தேயு 17:24-27"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014665"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 62",
+    "ta": "இயேசு—வழி: அதிகாரம் 62"
+   }
+  },
+  {
+   "id": "galilee_light",
+   "cat": "prophecy",
+   "scene": "dawn",
+   "book": 23,
+   "chapter": 9,
+   "title": {
+    "en": "A great light in Galilee",
+    "ta": "கலிலேயாவில் ஒரு பெரிய வெளிச்சம்"
+   },
+   "text": {
+    "en": "Isaiah foretold that people in the looked-down-on land of Zebulun and Naphtali, “Galilee of the nations,” would see a great light. Matthew shows this came true when Jesus moved to Capernaum in that region and preached there, bringing truth to humble people who had been misled.",
+    "ta": "செபுலோன், நப்தலி என்ற தாழ்வாகக் கருதப்பட்ட பகுதியான “மற்ற தேசத்து மக்களின் கலிலேயாவில்” வாழ்கிறவர்கள் ஒரு பெரிய வெளிச்சத்தைப் பார்ப்பார்கள் என்று ஏசாயா முன்னறிவித்தார். அந்தப் பகுதியிலிருந்த கப்பர்நகூமுக்கு இயேசு குடிபோய், அங்கே பிரசங்கித்து, ஏமாற்றப்பட்டிருந்த தாழ்மையான மக்களுக்கு உண்மையைக் கற்றுக்கொடுத்தபோது இது நிறைவேறியது என்று மத்தேயு காட்டுகிறார்."
+   },
+   "lesson": {
+    "en": "Jehovah’s light reaches even people others look down on.",
+    "ta": "மற்றவர்கள் தாழ்வாகப் பார்க்கிற மக்களுக்கும் யெகோவாவின் வெளிச்சம் கிடைக்கிறது."
+   },
+   "ref": {
+    "en": "Isaiah 9:1, 2 · Matthew 4:13-16",
+    "ta": "ஏசாயா 9:1, 2 · மத்தேயு 4:13-16"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1204430/251/0"
+   },
+   "srcTitle": {
+    "en": "Isaiah’s Prophecy: Prince of Peace",
+    "ta": "ஏசாயா தீர்க்கதரிசனம்: சமாதானப் பிரபு"
+   }
+  },
+  {
+   "id": "deaf_and_blind",
+   "cat": "law",
+   "scene": "field",
+   "book": 3,
+   "chapter": 19,
+   "title": {
+    "en": "Kindness to the deaf and blind",
+    "ta": "காது கேட்காதவர்களிடமும் கண் தெரியாதவர்களிடமும் கருணை"
+   },
+   "text": {
+    "en": "The Law told Israel not to curse a deaf man, who could not even hear the insult to defend himself, and not to trip up a blind man by placing something in his way. In those days people with such limitations were often mistreated, and Jehovah wanted his people to show them compassion.",
+    "ta": "காது கேட்காதவனைச் சபிக்கக் கூடாது, ஏனென்றால் அவனால் அந்த அவமானத்தைக் கேட்கவோ தன்னைக் காத்துக்கொள்ளவோ முடியாது; கண் தெரியாதவன் தடுக்கி விழும்படி அவன் வழியில் எதையும் வைக்கக் கூடாது என்று திருச்சட்டம் இஸ்ரவேலர்களிடம் சொன்னது. அந்தக் காலத்தில் இப்படிப்பட்டவர்கள் அடிக்கடி மோசமாக நடத்தப்பட்டார்கள்; ஆனால், தன் மக்கள் அவர்களுக்குக் கருணை காட்ட வேண்டும் என்று யெகோவா விரும்பினார்."
+   },
+   "lesson": {
+    "en": "Be patient and considerate with people who have physical limitations.",
+    "ta": "உடல் குறைபாடுள்ளவர்களிடம் பொறுமையாகவும் கரிசனையோடும் நடந்துகொள்ளுங்கள்."
+   },
+   "ref": {
+    "en": "Leviticus 19:14",
+    "ta": "லேவியராகமம் 19:14"
+   },
+   "added": "2026-10-30",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/2021681"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Lessons from Leviticus",
+    "ta": "காவற்கோபுரம்: லேவியராகமத்திலிருந்து பாடங்கள்"
    }
   }
  ]
