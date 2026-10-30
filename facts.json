@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "removed": [],
  "facts": [
   {
@@ -459,7 +459,14 @@
     "en": "Matthew 14:13-21",
     "ta": "மத்தேயு 14:13-21"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014655"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 52",
+    "ta": "இயேசு—வழி: அதிகாரம் 52"
+   }
   },
   {
    "id": "calming_storm",
@@ -483,7 +490,14 @@
     "en": "Mark 4:35-41",
     "ta": "மாற்கு 4:35-41"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1200029050/247/0"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 44",
+    "ta": "இயேசு—வழி: அதிகாரம் 44"
+   }
   },
   {
    "id": "lazarus",
@@ -496,8 +510,8 @@
     "ta": "லாசருவே, வெளியே வா!"
    },
    "text": {
-    "en": "Lazarus had been dead for four days when Jesus called him out of the tomb — and he came out alive.",
-    "ta": "லாசரு இறந்து நான்கு நாட்கள் ஆகியிருந்தபோது இயேசு அவனைக் கல்லறையிலிருந்து கூப்பிட்டார் — அவன் உயிரோடு வெளியே வந்தான்."
+    "en": "Lazarus of Bethany had been dead for four days when Jesus had the stone rolled away, prayed to his Father, and called him out of the tomb — and he came out alive.",
+    "ta": "பெத்தானியாவைச் சேர்ந்த லாசரு இறந்து நான்கு நாட்கள் ஆகியிருந்தன. இயேசு கல்லறையின் கல்லை அகற்றச் சொல்லி, தன் தகப்பனிடம் ஜெபம் செய்து, அவனை வெளியே கூப்பிட்டார் — அவன் உயிரோடு வெளியே வந்தான்."
    },
    "lesson": {
     "en": "The resurrection hope is real; Jesus showed he has power over death.",
@@ -507,7 +521,14 @@
     "en": "John 11:38-44",
     "ta": "யோவான் 11:38-44"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Lazarus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Lazarus",
+    "ta": "Insight: லாசரு"
+   }
   },
   {
    "id": "bartimaeus",
@@ -520,8 +541,8 @@
     "ta": "பார்வையில்லாத பர்திமேயு"
    },
    "text": {
-    "en": "Blind Bartimaeus kept calling out to Jesus even when people told him to be quiet. Jesus stopped and gave him his sight.",
-    "ta": "மக்கள் அமைதியாக இருக்கச் சொன்னபோதும் பார்வையில்லாத பர்திமேயு இயேசுவைக் கூப்பிட்டுக்கொண்டே இருந்தான். இயேசு நின்று அவனுக்குப் பார்வை கொடுத்தார்."
+    "en": "Blind Bartimaeus, begging near Jericho, kept calling out to Jesus even when people sternly told him to be quiet. Jesus called him over, healed him, and Bartimaeus followed him, glorifying God.",
+    "ta": "எரிகோவுக்குப் பக்கத்தில் பிச்சை எடுத்துக்கொண்டிருந்த பார்வையில்லாத பர்திமேயுவை மக்கள் கண்டிப்போடு அமைதியாக இருக்கச் சொன்னார்கள்; ஆனாலும், அவன் இயேசுவைக் கூப்பிட்டுக்கொண்டே இருந்தான். இயேசு அவனைக் கூப்பிட்டுக் குணப்படுத்தினார்; அவன் கடவுளை மகிமைப்படுத்திக்கொண்டே இயேசுவைப் பின்பற்றினான்."
    },
    "lesson": {
     "en": "Persistent faith is noticed.",
@@ -531,7 +552,14 @@
     "en": "Mark 10:46-52",
     "ta": "மாற்கு 10:46-52"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1200029050/836/0"
+   },
+   "srcTitle": {
+    "en": "Insight: Bartimaeus",
+    "ta": "Insight: பர்திமேயு"
+   }
   },
   {
    "id": "ten_lepers",
@@ -555,7 +583,14 @@
     "en": "Luke 17:11-19",
     "ta": "லூக்கா 17:11-19"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/jesus/ministry-east-of-the-jordan/heals-ten-lepers/"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 92",
+    "ta": "இயேசு—வழி: அதிகாரம் 92"
+   }
   },
   {
    "id": "jairus_daughter",
@@ -579,7 +614,14 @@
     "en": "Mark 5:22-24, 35-43",
     "ta": "மாற்கு 5:22-24, 35-43"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Jairus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Jairus",
+    "ta": "Insight: யவீரு"
+   }
   },
   {
    "id": "widow_nain",
@@ -603,7 +645,14 @@
     "en": "Luke 7:11-17",
     "ta": "லூக்கா 7:11-17"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Nain/"
+   },
+   "srcTitle": {
+    "en": "Insight: Nain",
+    "ta": "Insight: நாயீன்"
+   }
   },
   {
    "id": "red_sea",
@@ -1829,6 +1878,223 @@
    "srcTitle": {
     "en": "Watchtower: Lessons from Leviticus",
     "ta": "காவற்கோபுரம்: லேவியராகமத்திலிருந்து பாடங்கள்"
+   }
+  },
+  {
+   "id": "epaphroditus",
+   "cat": "character",
+   "scene": "city",
+   "book": 50,
+   "chapter": 2,
+   "title": {
+    "en": "Epaphroditus, a faithful messenger",
+    "ta": "எப்பாப்பிரோதீத்து, உண்மையுள்ள தூதுவர்"
+   },
+   "text": {
+    "en": "The congregation in Philippi sent Epaphroditus to Rome with a gift for the imprisoned Paul. There he fell so sick that he nearly died, yet his concern was that his friends back home were worried about him. After he recovered, Paul sent him home with the letter to the Philippians and asked them to welcome and value men like him.",
+    "ta": "சிறையில் இருந்த பவுலுக்கு அன்பளிப்பைக் கொடுக்க பிலிப்பி சபை எப்பாப்பிரோதீத்துவை ரோமுக்கு அனுப்பியது. அங்கே அவர் சாகும் அளவுக்கு நோய்வாய்ப்பட்டார்; ஆனாலும், தன்னைப் பற்றி ஊரில் இருந்த நண்பர்கள் கவலைப்படுகிறார்களே என்றுதான் அவர் வருத்தப்பட்டார். அவர் குணமானதும், பிலிப்பியருக்கு எழுதிய கடிதத்தோடு பவுல் அவரைத் திருப்பி அனுப்பினார்; இப்படிப்பட்டவர்களை அன்போடு வரவேற்று மதிக்கும்படி சொன்னார்."
+   },
+   "lesson": {
+    "en": "Value the brothers and sisters who work hard and sacrifice to serve others.",
+    "ta": "மற்றவர்களுக்காகக் கடினமாக உழைத்து, தியாகங்கள் செய்யும் சகோதர சகோதரிகளை மதியுங்கள்."
+   },
+   "ref": {
+    "en": "Philippians 2:25-30; 4:18",
+    "ta": "பிலிப்பியர் 2:25-30; 4:18"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Epaphroditus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Epaphroditus",
+    "ta": "Insight: எப்பாப்பிரோதீத்து"
+   }
+  },
+  {
+   "id": "nathan",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 10,
+   "chapter": 12,
+   "title": {
+    "en": "Nathan corrects the king",
+    "ta": "ராஜாவைத் திருத்திய நாத்தான்"
+   },
+   "text": {
+    "en": "After David sinned with Bath-sheba and arranged Uriah’s death, Jehovah sent the prophet Nathan to him. Nathan told of a rich man who took a poor man’s only pet lamb. When David burned with anger at that man, Nathan told him that he was that man. David admitted he had sinned against Jehovah and was forgiven, though he still faced painful consequences.",
+    "ta": "பத்சேபாளோடு தவறு செய்து, உரியாவின் சாவுக்கு தாவீது ஏற்பாடு செய்த பிறகு, யெகோவா நாத்தான் தீர்க்கதரிசியை அவரிடம் அனுப்பினார். ஓர் ஏழையிடம் இருந்த ஒரே செல்ல ஆட்டுக்குட்டியைப் பறித்த ஒரு பணக்காரனைப் பற்றி நாத்தான் சொன்னார். அந்த மனிதன்மேல் தாவீது கோபப்பட்டபோது, அந்த மனிதன் நீங்கள்தான் என்று நாத்தான் சொன்னார். யெகோவாவுக்கு எதிராகப் பாவம் செய்ததை தாவீது ஒத்துக்கொண்டார்; அவர் மன்னிக்கப்பட்டார், ஆனாலும் வேதனையான விளைவுகளை அனுபவித்தார்."
+   },
+   "lesson": {
+    "en": "Lovingly and wisely helping a friend see a serious mistake takes courage, and it can reach the heart.",
+    "ta": "ஒரு நண்பர் செய்த பெரிய தவறை அவர் புரிந்துகொள்ள அன்போடும் ஞானத்தோடும் உதவுவதற்குத் தைரியம் தேவை; அது அவருடைய இதயத்தைத் தொடலாம்."
+   },
+   "ref": {
+    "en": "2 Samuel 12:1-14",
+    "ta": "2 சாமுவேல் 12:1-14"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/walk-courageously-with-god/kings-to-rebuilding-of-jerusalem/nathan-corrected-the-king"
+   },
+   "srcTitle": {
+    "en": "Walk Courageously: Nathan",
+    "ta": "தைரியமாக நட: நாத்தான்"
+   }
+  },
+  {
+   "id": "lost_property",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 22,
+   "title": {
+    "en": "Don’t ignore what someone lost",
+    "ta": "தொலைந்ததைக் கண்டும் காணாமல் போகாதீர்கள்"
+   },
+   "text": {
+    "en": "If an Israelite saw a neighbor’s bull, sheep or donkey wandering off, the Law said he must not look away. He was to bring it back, or keep it safe until the owner came for it — and the same went for a garment or anything else someone lost. Keeping it for himself would have made him a thief.",
+    "ta": "அக்கம்பக்கத்தாருடைய காளையோ ஆடோ கழுதையோ வழிதவறிப் போவதைப் பார்த்தால், ஓர் இஸ்ரவேலன் அதைக் கண்டும் காணாமல் போகக் கூடாது என்று திருச்சட்டம் சொன்னது. அவன் அதைத் திருப்பிக் கொண்டுபோய்க் கொடுக்க வேண்டும், அல்லது சொந்தக்காரர் வரும்வரை பத்திரமாக வைத்திருக்க வேண்டும்; ஓர் உடையோ வேறு எந்தப் பொருளோ தொலைந்தாலும் இதேதான். அதைத் தனக்கென்று வைத்துக்கொண்டால் அவன் திருடனாகிவிடுவான்."
+   },
+   "lesson": {
+    "en": "When you find something that isn’t yours, make a real effort to return it.",
+    "ta": "உங்களுக்குச் சொந்தமில்லாத ஒன்று கிடைத்தால், அதை உரியவரிடம் திருப்பிக் கொடுக்க உண்மையிலேயே முயற்சி செய்யுங்கள்."
+   },
+   "ref": {
+    "en": "Deuteronomy 22:1-3 · Exodus 22:9",
+    "ta": "உபாகமம் 22:1-3 · யாத்திராகமம் 22:9"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1974244"
+   },
+   "srcTitle": {
+    "en": "Watchtower: “Finders keepers”?",
+    "ta": "காவற்கோபுரம்: கண்டெடுத்தது சொந்தமா?"
+   }
+  },
+  {
+   "id": "two_debtors",
+   "cat": "parable",
+   "scene": "city",
+   "book": 42,
+   "chapter": 7,
+   "title": {
+    "en": "Two men in debt",
+    "ta": "கடன்பட்ட இரண்டு பேர்"
+   },
+   "text": {
+    "en": "At Simon’s house, a sinful woman poured perfumed oil on Jesus’ feet, and Simon disapproved. Jesus told of a lender who freely cancelled two debts, one of 500 denarii and one of 50, and asked which man would love him more. Simon answered that it was the one forgiven more — and Jesus agreed.",
+    "ta": "சீமோனின் வீட்டில், பாவியான ஒரு பெண் இயேசுவின் பாதங்களில் வாசனை எண்ணெயை ஊற்றினாள்; சீமோன் அதை ஏற்றுக்கொள்ளவில்லை. 500 தினாரியு கடன்பட்டவன், 50 தினாரியு கடன்பட்டவன் என இரண்டு பேருடைய கடனையும் தாராளமாக ரத்து செய்த ஒருவரைப் பற்றி இயேசு சொல்லி, அவர்களில் யார் அவரை அதிகமாக நேசிப்பான் என்று கேட்டார். அதிகம் மன்னிக்கப்பட்டவன்தான் என்று சீமோன் சொன்னார் — இயேசுவும் அதை ஒத்துக்கொண்டார்."
+   },
+   "lesson": {
+    "en": "Remembering how much we have been forgiven deepens our love and keeps us from looking down on others.",
+    "ta": "நாம் எவ்வளவு மன்னிக்கப்பட்டிருக்கிறோம் என்பதை நினைத்துப் பார்ப்பது நம் அன்பை ஆழமாக்கும்; மற்றவர்களைத் தாழ்வாகப் பார்க்காமல் இருக்கவும் உதவும்."
+   },
+   "ref": {
+    "en": "Luke 7:36-50",
+    "ta": "லூக்கா 7:36-50"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/bc/r1/lp-e/1001070651/25/0"
+   },
+   "srcTitle": {
+    "en": "Study note: Luke 7:41",
+    "ta": "ஆராய்ச்சிக் குறிப்பு: லூக்கா 7:41"
+   }
+  },
+  {
+   "id": "floating_axhead",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 12,
+   "chapter": 6,
+   "title": {
+    "en": "The axhead that floated",
+    "ta": "மிதந்த கோடரி"
+   },
+   "text": {
+    "en": "The sons of the prophets were cutting logs by the Jordan to build bigger living quarters. One man’s axhead flew off into the water — and the ax was borrowed. Elisha threw a piece of wood where it sank, the iron rose to the surface, and the man picked it up. Jehovah was supporting his prophets.",
+    "ta": "தங்குவதற்குப் பெரிய இடம் கட்ட, தீர்க்கதரிசிகளின் மகன்கள் யோர்தான் ஆற்றுக்குப் பக்கத்தில் மரம் வெட்டிக்கொண்டிருந்தார்கள். ஒருவருடைய கோடரியின் இரும்புத் தலை கழன்று தண்ணீரில் விழுந்தது — அது இரவல் வாங்கிய கோடரி. அது மூழ்கிய இடத்தில் எலிசா ஒரு மரத்துண்டை எறிந்தார்; இரும்பு மேலே மிதந்து வந்தது, அவர் அதை எடுத்துக்கொண்டார். யெகோவா தம் தீர்க்கதரிசிகளுக்குத் துணையாக இருந்தார்."
+   },
+   "lesson": {
+    "en": "Jehovah cares even about the everyday problems of those who serve him.",
+    "ta": "தமக்குச் சேவை செய்கிறவர்களுடைய அன்றாடப் பிரச்சினைகள்மேலும் யெகோவா அக்கறை காட்டுகிறார்."
+   },
+   "ref": {
+    "en": "2 Kings 6:1-7",
+    "ta": "2 ராஜாக்கள் 6:1-7"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001316"
+   },
+   "srcTitle": {
+    "en": "Insight: Elisha",
+    "ta": "Insight: எலிசா"
+   }
+  },
+  {
+   "id": "out_of_egypt",
+   "cat": "prophecy",
+   "scene": "egypt",
+   "book": 28,
+   "chapter": 11,
+   "title": {
+    "en": "Called out of Egypt",
+    "ta": "எகிப்திலிருந்து அழைக்கப்பட்டார்"
+   },
+   "text": {
+    "en": "Through Hosea, Jehovah spoke of calling his son out of Egypt, recalling Israel’s Exodus. Matthew showed that these words also applied to the child Jesus, who was taken to Egypt to escape Herod and later brought back after Herod died.",
+    "ta": "தம் மகனை எகிப்திலிருந்து அழைத்ததைப் பற்றி ஓசியா மூலம் யெகோவா சொன்னார்; இஸ்ரவேலர் எகிப்திலிருந்து வெளியே வந்ததை அது நினைப்பூட்டியது. ஏரோதுவிடமிருந்து தப்பிக்க எகிப்துக்குக் கொண்டுபோகப்பட்டு, ஏரோது இறந்த பிறகு திரும்பக் கொண்டுவரப்பட்ட குழந்தை இயேசுவுக்கும் இந்த வார்த்தைகள் பொருந்தின என்று மத்தேயு காட்டினார்."
+   },
+   "lesson": {
+    "en": "Even small details of Jesus’ life fulfilled what Jehovah had foretold — his word can be trusted.",
+    "ta": "இயேசுவின் வாழ்க்கையின் சின்னச் சின்ன விவரங்களும் யெகோவா முன்னறிவித்தபடியே நடந்தன — அவருடைய வார்த்தையை நம்பலாம்."
+   },
+   "ref": {
+    "en": "Hosea 11:1 · Matthew 2:13-15",
+    "ta": "ஓசியா 11:1 · மத்தேயு 2:13-15"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1200029049/95/0"
+   },
+   "srcTitle": {
+    "en": "Insight: Book of Hosea",
+    "ta": "Insight: ஓசியா புத்தகம்"
+   }
+  },
+  {
+   "id": "no_evil_for_evil",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 45,
+   "chapter": 12,
+   "title": {
+    "en": "Don’t pay back evil",
+    "ta": "தீமைக்குத் தீமை செய்யாதீர்கள்"
+   },
+   "text": {
+    "en": "Paul urged Christians not to get even with anyone, but to do what they can to keep peace with all. Revenge belongs to Jehovah, so taking it ourselves would be presumptuous. Instead, kindness — even feeding a hungry enemy — may soften a person’s heart, and good can win over evil.",
+    "ta": "யாரையும் பழிவாங்காமல், முடிந்தவரை எல்லாரோடும் சமாதானமாக இருக்கும்படி பவுல் கிறிஸ்தவர்களிடம் சொன்னார். பழிவாங்குவது யெகோவாவின் உரிமை; அதை நாமே செய்வது அகம்பாவம். அதற்குப் பதிலாக, பசியோடு இருக்கும் எதிரிக்குச் சாப்பாடு கொடுப்பது போன்ற கருணை அவருடைய மனதை இளக வைக்கலாம்; நன்மையால் தீமையை வெல்லலாம்."
+   },
+   "lesson": {
+    "en": "When someone wrongs you, leave it to Jehovah and look for a way to do good.",
+    "ta": "யாராவது உங்களுக்குத் தீங்கு செய்தால், அதை யெகோவாவிடம் விட்டுவிட்டு நன்மை செய்ய வழி தேடுங்கள்."
+   },
+   "ref": {
+    "en": "Romans 12:17-21",
+    "ta": "ரோமர் 12:17-21"
+   },
+   "added": "2026-10-31",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/2007484"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Return evil for evil to no one",
+    "ta": "காவற்கோபுரம்: தீமைக்குத் தீமை செய்யாதீர்கள்"
    }
   }
  ]
