@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "removed": [],
  "facts": [
   {
@@ -665,8 +665,8 @@
     "ta": "செங்கடல் வழியாக"
    },
    "text": {
-    "en": "Jehovah parted the Red Sea so Israel could cross on dry ground. Then the waters returned and covered Pharaoh’s army.",
-    "ta": "இஸ்ரவேலர் காய்ந்த தரையில் கடந்துபோகும்படி யெகோவா செங்கடலைப் பிளந்தார். பிறகு தண்ணீர் திரும்பி வந்து பார்வோனின் படையை மூழ்கடித்தது."
+    "en": "Jehovah split the waters of the Red Sea so Israel could walk across on dry ground. When Pharaoh’s army chased them in, the water came back and drowned the soldiers — it was deep enough to cover a whole army.",
+    "ta": "இஸ்ரவேலர் காய்ந்த தரையில் நடந்துபோகும்படி யெகோவா செங்கடலின் தண்ணீரைப் பிளந்தார். பார்வோனின் படை அவர்களைத் துரத்திக்கொண்டு உள்ளே வந்தபோது, தண்ணீர் திரும்பி வந்து படைவீரர்களை மூழ்கடித்தது — ஒரு முழுப் படையையும் மூடும் அளவுக்கு அது ஆழமாக இருந்தது."
    },
    "lesson": {
     "en": "No obstacle is too big for Jehovah when he saves his people.",
@@ -676,7 +676,14 @@
     "en": "Exodus 14:21-31",
     "ta": "யாத்திராகமம் 14:21-31"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Red-Sea/"
+   },
+   "srcTitle": {
+    "en": "Insight: Red Sea",
+    "ta": "Insight: செங்கடல்"
+   }
   },
   {
    "id": "manna",
@@ -689,8 +696,8 @@
     "ta": "வானத்திலிருந்து உணவு"
    },
    "text": {
-    "en": "In the wilderness, Jehovah gave Israel manna every morning for 40 years — enough for each day.",
-    "ta": "வனாந்தரத்தில் 40 வருஷங்களாக ஒவ்வொரு காலையும் யெகோவா இஸ்ரவேலருக்கு மன்னா கொடுத்தார் — ஒவ்வொரு நாளுக்கும் போதுமான அளவு."
+    "en": "Starting in the Wilderness of Sin, Jehovah gave Israel manna each morning — about an omer per person. Extra spoiled overnight, except the double portion gathered on the sixth day, which lasted through the Sabbath. It kept coming for 40 years and stopped once they ate the produce of Canaan.",
+    "ta": "சீன் வனாந்தரத்திலிருந்து ஆரம்பித்து, ஒவ்வொரு காலையும் யெகோவா இஸ்ரவேலருக்கு மன்னா கொடுத்தார் — ஒருவருக்குச் சுமார் ஒரு ஓமர். மீதி வைத்தது மறுநாள் கெட்டுப்போனது; ஆனால் ஆறாம் நாளில் எடுத்த இரண்டு மடங்கு ஓய்வுநாள் முழுவதும் கெடாமல் இருந்தது. 40 வருஷங்கள் அது கிடைத்தது; கானானின் விளைச்சலைச் சாப்பிட ஆரம்பித்தபோது நின்றுபோனது."
    },
    "lesson": {
     "en": "Jehovah provides what we need, day by day.",
@@ -700,7 +707,14 @@
     "en": "Exodus 16:14-18, 35",
     "ta": "யாத்திராகமம் 16:14-18, 35"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Manna/"
+   },
+   "srcTitle": {
+    "en": "Insight: Manna",
+    "ta": "Insight: மன்னா"
+   }
   },
   {
    "id": "sun_still",
@@ -785,18 +799,25 @@
     "ta": "ஆபேல்"
    },
    "text": {
-    "en": "Abel offered Jehovah the best of his flock, and God approved of his offering. Out of jealousy, his brother Cain killed him.",
-    "ta": "ஆபேல் தன் மந்தையில் சிறந்ததை யெகோவாவுக்குக் காணிக்கையாகக் கொடுத்தான்; கடவுள் அதை ஏற்றுக்கொண்டார். பொறாமையால் அவனுடைய அண்ணன் காயீன் அவனைக் கொன்றான்."
+    "en": "Abel, a shepherd and Adam’s second son, offered Jehovah firstborn animals from his flock with their fat. Because of his faith, God approved his offering. Cain ignored God’s warning and killed his brother, yet Abel’s example of faith still speaks to us.",
+    "ta": "ஆதாமின் இரண்டாவது மகனும் மேய்ப்பனுமான ஆபேல், தன் மந்தையின் முதல் குட்டிகளையும் அவற்றின் கொழுப்பையும் யெகோவாவுக்குக் காணிக்கையாகக் கொடுத்தான். அவனுடைய விசுவாசத்தால் கடவுள் அவன் காணிக்கையை ஏற்றுக்கொண்டார். கடவுளுடைய எச்சரிப்பைக் காயீன் அசட்டை செய்து தம்பியைக் கொன்றான்; ஆனாலும் ஆபேலின் விசுவாசம் இன்றும் நமக்குப் பேசுகிறது."
    },
    "lesson": {
-    "en": "Jehovah values worship that comes from the heart.",
-    "ta": "இதயப்பூர்வமான வழிபாட்டை யெகோவா மதிக்கிறார்."
+    "en": "Jehovah values worship that comes from real faith.",
+    "ta": "உண்மையான விசுவாசத்தோடு செய்யப்படும் வழிபாட்டை யெகோவா மதிக்கிறார்."
    },
    "ref": {
-    "en": "Genesis 4:3-8 · Hebrews 11:4",
-    "ta": "ஆதியாகமம் 4:3-8 · எபிரெயர் 11:4"
+    "en": "Genesis 4:2-8 · Hebrews 11:4",
+    "ta": "ஆதியாகமம் 4:2-8 · எபிரெயர் 11:4"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abel/"
+   },
+   "srcTitle": {
+    "en": "Insight: Abel",
+    "ta": "Insight: ஆபேல்"
+   }
   },
   {
    "id": "enoch",
@@ -809,18 +830,25 @@
     "ta": "ஏனோக்கு"
    },
    "text": {
-    "en": "In a wicked world, Enoch kept walking with God and boldly warned the ungodly about God’s judgment, even though he stood almost alone.",
-    "ta": "கெட்ட உலகத்தில், கிட்டத்தட்டத் தனியாக நின்றபோதும், ஏனோக்கு கடவுளோடு நடந்து, கடவுளுடைய நியாயத்தீர்ப்பைப் பற்றித் தைரியமாக எச்சரித்தார்."
+    "en": "Enoch kept walking with God and boldly foretold that Jehovah would come to judge the ungodly — a message that likely brought him persecution. At 365, far younger than others of his day, Jehovah took him so that he did not suffer death.",
+    "ta": "ஏனோக்கு கடவுளோடு நடந்துகொண்டே இருந்தார்; பக்தியில்லாதவர்களை நியாயந்தீர்க்க யெகோவா வருவார் என்று தைரியமாக முன்னறிவித்தார் — அதனால் அவருக்குத் துன்புறுத்தல் வந்திருக்கலாம். அவர் காலத்தவர்களைவிட மிகக் குறைந்த வயதில், 365 வயதில், மரண வேதனையை அனுபவிக்காதபடி யெகோவா அவரை எடுத்துக்கொண்டார்."
    },
    "lesson": {
     "en": "We can stay faithful even when few around us do.",
     "ta": "சுற்றியிருக்கும் பலர் உண்மையாக இல்லாவிட்டாலும் நாம் உண்மையாக இருக்க முடியும்."
    },
    "ref": {
-    "en": "Genesis 5:21-24 · Jude 14, 15",
-    "ta": "ஆதியாகமம் 5:21-24 · யூதா 14, 15"
+    "en": "Genesis 5:21-24 · Hebrews 11:5 · Jude 14, 15",
+    "ta": "ஆதியாகமம் 5:21-24 · எபிரெயர் 11:5 · யூதா 14, 15"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Enoch/"
+   },
+   "srcTitle": {
+    "en": "Insight: Enoch",
+    "ta": "Insight: ஏனோக்கு"
+   }
   },
   {
    "id": "caleb",
@@ -833,8 +861,8 @@
     "ta": "85 வயதில் காலேப்"
    },
    "text": {
-    "en": "Of the 12 spies, only Joshua and Caleb trusted Jehovah. Decades later, at 85, Caleb asked for the hill country with its fortified cities — and took it.",
-    "ta": "12 உளவாளிகளில் யோசுவாவும் காலேபும் மட்டுமே யெகோவாமேல் நம்பிக்கை வைத்தார்கள். பல வருஷங்களுக்குப் பிறகு, 85 வயதில், அரண்சூழ்ந்த நகரங்கள் இருந்த மலைப்பகுதியைக் காலேப் கேட்டு, அதைக் கைப்பற்றினார்."
+    "en": "Of the 12 spies, only Joshua and Caleb urged Israel to go in and take the land. Because Caleb followed Jehovah fully, he lived to enter Canaan. At 85 he said he was as strong as ever, and he received Hebron, the home of the Anakim.",
+    "ta": "12 உளவாளிகளில் யோசுவாவும் காலேபும் மட்டுமே, தேசத்துக்குள் போய் அதைக் கைப்பற்றலாம் என்று இஸ்ரவேலரை உற்சாகப்படுத்தினார்கள். காலேப் யெகோவாவை முழுமையாகப் பின்பற்றியதால் கானானுக்குள் போகும்வரை உயிரோடு இருந்தார். 85 வயதிலும் தான் முன்புபோலவே பலமாக இருப்பதாகச் சொன்னார்; ஏனாக்கியர் வாழ்ந்த எப்ரோன் அவருக்குக் கொடுக்கப்பட்டது."
    },
    "lesson": {
     "en": "Wholehearted faith keeps us strong, even in old age.",
@@ -844,7 +872,14 @@
     "en": "Numbers 14:6-9 · Joshua 14:6-14",
     "ta": "எண்ணாகமம் 14:6-9 · யோசுவா 14:6-14"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Caleb/"
+   },
+   "srcTitle": {
+    "en": "Insight: Caleb",
+    "ta": "Insight: காலேப்"
+   }
   },
   {
    "id": "deborah",
@@ -857,18 +892,25 @@
     "ta": "தெபொராள்"
    },
    "text": {
-    "en": "Deborah, a prophetess, encouraged Barak to lead Israel against Sisera’s powerful army, and Jehovah gave them the victory.",
-    "ta": "தீர்க்கதரிசியான தெபொராள், சிசெராவின் பலமான படைக்கு எதிராக இஸ்ரவேலை வழிநடத்தும்படி பாராக்கை உற்சாகப்படுத்தினாள்; யெகோவா வெற்றி கொடுத்தார்."
+    "en": "Deborah, a prophetess, judged Israel under a palm tree. Jehovah used her to call Barak to fight Sisera’s army, and she went with him to Mount Tabor. As she foretold, a woman — Jael — got the credit for Sisera’s defeat, and Deborah’s song gave the glory to Jehovah.",
+    "ta": "தீர்க்கதரிசியான தெபொராள் ஒரு பேரீச்ச மரத்தின் கீழ் இஸ்ரவேலருக்கு நியாயம் வழங்கினாள். சிசெராவின் படையோடு போர் செய்ய பாராக்கை அழைக்க யெகோவா அவளைப் பயன்படுத்தினார்; அவளும் அவனோடு தாபோர் மலைக்குப் போனாள். அவள் முன்னறிவித்தபடியே, சிசெராவைத் தோற்கடித்த பெருமை யாகேல் என்ற பெண்ணுக்குக் கிடைத்தது; தெபொராளின் பாடல் மகிமையை யெகோவாவுக்குக் கொடுத்தது."
    },
    "lesson": {
     "en": "Jehovah uses faithful women and men to strengthen his people.",
     "ta": "தம் மக்களைப் பலப்படுத்த உண்மையுள்ள பெண்களையும் ஆண்களையும் யெகோவா பயன்படுத்துகிறார்."
    },
    "ref": {
-    "en": "Judges 4:4-16",
-    "ta": "நியாயாதிபதிகள் 4:4-16"
+    "en": "Judges 4:4-22; 5:1-31",
+    "ta": "நியாயாதிபதிகள் 4:4-22; 5:1-31"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Deborah/"
+   },
+   "srcTitle": {
+    "en": "Insight: Deborah",
+    "ta": "Insight: தெபொராள்"
+   }
   },
   {
    "id": "samson",
@@ -881,18 +923,25 @@
     "ta": "சிம்சோனின் கடைசி ஜெபம்"
    },
    "text": {
-    "en": "Jehovah’s spirit gave Samson great strength. After a serious failure, Samson prayed once more, and Jehovah strengthened him one last time.",
-    "ta": "யெகோவாவின் சக்தி சிம்சோனுக்குப் பெரிய பலத்தைக் கொடுத்தது. ஒரு பெரிய தவறுக்குப் பிறகு சிம்சோன் மறுபடியும் ஜெபம் செய்தார்; யெகோவா கடைசியாக ஒருமுறை அவரைப் பலப்படுத்தினார்."
+    "en": "Blinded and forced to grind grain, Samson was brought out to amuse the Philistines at a feast for their god Dagon. He asked Jehovah to strengthen him just once more, pushed on the two main pillars and brought the house down. He died faithful, and Hebrews lists him among those made powerful by faith.",
+    "ta": "கண்கள் குருடாக்கப்பட்டு மாவரைக்கும்படி வைக்கப்பட்ட சிம்சோனை, தாகோன் தெய்வத்துக்கான விருந்தில் பெலிஸ்தியர் வேடிக்கை பார்க்கக் கொண்டுவந்தார்கள். இன்னும் ஒரே ஒருமுறை தன்னைப் பலப்படுத்தும்படி அவர் யெகோவாவிடம் கேட்டார், இரண்டு முக்கியத் தூண்களைத் தள்ளி அந்தக் கட்டிடத்தை இடித்து வீழ்த்தினார். அவர் உண்மையுள்ளவராக இறந்தார்; விசுவாசத்தால் பலம் பெற்றவர்களில் ஒருவராக எபிரெயர் புத்தகம் அவரைக் குறிப்பிடுகிறது."
    },
    "lesson": {
     "en": "Even after a mistake, we can turn back to Jehovah.",
     "ta": "தவறு செய்த பிறகும் நாம் யெகோவாவிடம் திரும்பலாம்."
    },
    "ref": {
-    "en": "Judges 16:28-30",
-    "ta": "நியாயாதிபதிகள் 16:28-30"
+    "en": "Judges 16:21-30 · Hebrews 11:32-34",
+    "ta": "நியாயாதிபதிகள் 16:21-30 · எபிரெயர் 11:32-34"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Samson/"
+   },
+   "srcTitle": {
+    "en": "Insight: Samson",
+    "ta": "Insight: சிம்சோன்"
+   }
   },
   {
    "id": "ruth",
@@ -2095,6 +2144,223 @@
    "srcTitle": {
     "en": "Watchtower: Return evil for evil to no one",
     "ta": "காவற்கோபுரம்: தீமைக்குத் தீமை செய்யாதீர்கள்"
+   }
+  },
+  {
+   "id": "onesiphorus",
+   "cat": "character",
+   "scene": "city",
+   "book": 55,
+   "chapter": 1,
+   "title": {
+    "en": "Onesiphorus finds Paul",
+    "ta": "பவுலைத் தேடிக் கண்டுபிடித்த ஒநேசிப்போரு"
+   },
+   "text": {
+    "en": "When many in Asia turned away from Paul, Onesiphorus stayed loyal. In Rome he searched hard until he found the imprisoned apostle, despite the risk, and was not ashamed of his chains. He had served Paul well in Ephesus too, and Paul prayed that Jehovah would show mercy to him and his household.",
+    "ta": "ஆசியாவில் பலர் பவுலை விட்டு விலகியபோது, ஒநேசிப்போரு உண்மையாக இருந்தார். ஆபத்து இருந்தாலும், ரோமில் சிறையிலிருந்த அப்போஸ்தலரைக் கண்டுபிடிக்கும்வரை அவர் விடாமல் தேடினார்; பவுலின் சங்கிலிகளைப் பார்த்து வெட்கப்படவில்லை. எபேசுவிலும் அவர் பவுலுக்கு நிறைய உதவி செய்திருந்தார்; அவர்மீதும் அவருடைய குடும்பத்தார்மீதும் யெகோவா இரக்கம் காட்டும்படி பவுல் ஜெபம் செய்தார்."
+   },
+   "lesson": {
+    "en": "Stand by a brother or sister who is going through hard times, even when it costs you effort.",
+    "ta": "கஷ்டத்தில் இருக்கும் சகோதர சகோதரிக்கு, முயற்சி எடுக்க வேண்டியிருந்தாலும், துணையாக நில்லுங்கள்."
+   },
+   "ref": {
+    "en": "2 Timothy 1:15-18",
+    "ta": "2 தீமோத்தேயு 1:15-18"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Onesiphorus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Onesiphorus",
+    "ta": "Insight: ஒநேசிப்போரு"
+   }
+  },
+  {
+   "id": "micaiah",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 11,
+   "chapter": 22,
+   "title": {
+    "en": "Micaiah tells the king the truth",
+    "ta": "ராஜாவிடம் உண்மையைச் சொன்ன மிகாயா"
+   },
+   "text": {
+    "en": "King Ahab wanted King Jehoshaphat to join him in taking Ramoth-gilead, and 400 prophets promised success. Ahab disliked Micaiah because his messages never favored him, yet when put under oath Micaiah foretold disaster. He was struck and jailed on short rations, but Ahab died in that battle, proving that Micaiah spoke for Jehovah.",
+    "ta": "ராமோத்-கீலேயாத்தைக் கைப்பற்ற யோசபாத் ராஜா தன்னோடு வர வேண்டுமென்று ஆகாப் ராஜா விரும்பினான்; 400 தீர்க்கதரிசிகள் வெற்றி கிடைக்கும் என்றார்கள். மிகாயா எப்போதும் தனக்குச் சாதகமில்லாத செய்தியைச் சொன்னதால் ஆகாப் அவரை வெறுத்தான்; ஆனாலும் உண்மையைச் சொல்லும்படி ஆணையிட்டுக் கேட்டபோது மிகாயா அழிவை முன்னறிவித்தார். அவர் அடிக்கப்பட்டு, கொஞ்சம் உணவோடு சிறையில் அடைக்கப்பட்டார்; ஆனால் அந்தப் போரில் ஆகாப் இறந்தான், மிகாயா யெகோவாவின் தீர்க்கதரிசி என்பது நிரூபணமானது."
+   },
+   "lesson": {
+    "en": "Speak Jehovah’s truth even when the majority says something else.",
+    "ta": "பெரும்பாலானோர் வேறு மாதிரி சொன்னாலும், யெகோவாவின் உண்மையைப் பேசுங்கள்."
+   },
+   "ref": {
+    "en": "1 Kings 22:6-37",
+    "ta": "1 ராஜாக்கள் 22:6-37"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Micaiah/"
+   },
+   "srcTitle": {
+    "en": "Insight: Micaiah",
+    "ta": "Insight: மிகாயா"
+   }
+  },
+  {
+   "id": "pharisee_tax_collector",
+   "cat": "parable",
+   "scene": "city",
+   "book": 42,
+   "chapter": 18,
+   "title": {
+    "en": "The Pharisee and the tax collector",
+    "ta": "பரிசேயரும் வரி வசூலிப்பவரும்"
+   },
+   "text": {
+    "en": "Two men went to the temple to pray. The Pharisee congratulated himself on his fasting and tithing and looked down on the man beside him. The tax collector stayed at a distance, kept his eyes down and simply asked God for mercy as a sinner. Jesus said it was the tax collector who went home counted more righteous.",
+    "ta": "இரண்டு பேர் ஜெபம் செய்ய ஆலயத்துக்குப் போனார்கள். பரிசேயர் தான் விரதம் இருப்பதையும் பத்திலொரு பங்கு கொடுப்பதையும் பற்றிப் பெருமையாகச் சொல்லி, பக்கத்தில் இருந்தவரைத் தாழ்வாகப் பார்த்தார். வரி வசூலிப்பவரோ தூரத்தில் நின்று, கண்களை உயர்த்தாமல், பாவியான தனக்கு இரக்கம் காட்டும்படி கடவுளிடம் கேட்டார். நீதிமானாக வீட்டுக்குப் போனது வரி வசூலிப்பவர்தான் என்று இயேசு சொன்னார்."
+   },
+   "lesson": {
+    "en": "Pray humbly, admit your faults and never compare yourself proudly with others.",
+    "ta": "மனத்தாழ்மையோடு ஜெபம் செய்யுங்கள், உங்கள் குறைகளை ஒப்புக்கொள்ளுங்கள், பெருமையோடு மற்றவர்களோடு ஒப்பிடாதீர்கள்."
+   },
+   "ref": {
+    "en": "Luke 18:9-14",
+    "ta": "லூக்கா 18:9-14"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102014694"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Prayer and humility",
+    "ta": "இயேசு—வழி: ஜெபமும் மனத்தாழ்மையும்"
+   }
+  },
+  {
+   "id": "eutychus",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 44,
+   "chapter": 20,
+   "title": {
+    "en": "Eutychus falls from the window",
+    "ta": "ஜன்னலிலிருந்து விழுந்த யூத்திகு"
+   },
+   "text": {
+    "en": "At Troas, Paul kept talking with the brothers until midnight in a crowded upper room. A young man named Eutychus, sitting at a window, sank into a deep sleep and fell from the third story; Luke reports he was picked up dead. Paul went down, embraced him and told everyone not to panic — Eutychus was alive again.",
+    "ta": "துரோவாவில், ஆட்கள் நிறைந்த ஒரு மேல்மாடி அறையில் பவுல் நடுராத்திரிவரை சகோதரர்களோடு பேசிக்கொண்டிருந்தார். ஜன்னலில் உட்கார்ந்திருந்த யூத்திகு என்ற வாலிபன் அயர்ந்து தூங்கி, மூன்றாவது மாடியிலிருந்து கீழே விழுந்தான்; அவனை இறந்த நிலையில்தான் தூக்கினார்கள் என்று லூக்கா சொல்கிறார். பவுல் கீழே போய் அவனைக் கட்டியணைத்து, யாரும் பதற வேண்டாம் என்றார் — யூத்திகு மறுபடியும் உயிர் பெற்றான்."
+   },
+   "lesson": {
+    "en": "Jehovah has the power to undo death, so our hope in the resurrection is solid.",
+    "ta": "மரணத்தையே நீக்கும் சக்தி யெகோவாவுக்கு இருக்கிறது; அதனால் உயிர்த்தெழுதல் நம்பிக்கை உறுதியானது."
+   },
+   "ref": {
+    "en": "Acts 20:7-12",
+    "ta": "அப்போஸ்தலர் 20:7-12"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Eutychus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Eutychus",
+    "ta": "Insight: யூத்திகு"
+   }
+  },
+  {
+   "id": "boundary_mark",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 19,
+   "title": {
+    "en": "Don’t move the boundary mark",
+    "ta": "எல்லைக் குறியை நகர்த்தாதீர்கள்"
+   },
+   "text": {
+    "en": "Each Israelite family received land marked off by boundary markers, and Jehovah’s Law forbade shifting a neighbor’s marker. Since a family lived on what its field produced, moving the line was theft. Proverbs adds that Jehovah himself defends the fields of the fatherless.",
+    "ta": "ஒவ்வொரு இஸ்ரவேல் குடும்பத்துக்கும் எல்லைக் குறிகளால் பிரிக்கப்பட்ட நிலம் கொடுக்கப்பட்டது; அயலானின் எல்லைக் குறியை நகர்த்தக் கூடாது என்று யெகோவாவின் திருச்சட்டம் சொன்னது. ஒரு குடும்பம் அதன் நிலத்தின் விளைச்சலை நம்பித்தான் வாழ்ந்தது, அதனால் எல்லையை நகர்த்துவது திருட்டு. அப்பா இல்லாத பிள்ளைகளின் நிலத்துக்காக யெகோவாவே வாதாடுவார் என்று நீதிமொழிகள் சொல்கிறது."
+   },
+   "lesson": {
+    "en": "Respect what belongs to others, especially those who cannot defend themselves.",
+    "ta": "மற்றவர்களுக்குச் சொந்தமானதை, முக்கியமாகத் தங்களைப் பாதுகாத்துக்கொள்ள முடியாதவர்களுடையதை, மதியுங்கள்."
+   },
+   "ref": {
+    "en": "Deuteronomy 19:14 · Proverbs 23:10, 11",
+    "ta": "உபாகமம் 19:14 · நீதிமொழிகள் 23:10, 11"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000799"
+   },
+   "srcTitle": {
+    "en": "Insight: Boundary Mark",
+    "ta": "Insight: எல்லைக் குறி"
+   }
+  },
+  {
+   "id": "peace_before_gift",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 40,
+   "chapter": 5,
+   "title": {
+    "en": "Make peace first",
+    "ta": "முதலில் சமாதானம் செய்யுங்கள்"
+   },
+   "text": {
+    "en": "Jesus said that if someone bringing an offering to the altar recalled that a brother had something against him, he should leave the gift there and first go make peace. How we treat others is part of our worship, so problems should be settled quickly — admitting any wrong and saying sorry.",
+    "ta": "பலிபீடத்துக்குக் காணிக்கை கொண்டுவரும் ஒருவருக்கு, தன் சகோதரருக்குத் தன்மேல் ஏதோ மனக்குறை இருப்பது ஞாபகம் வந்தால், காணிக்கையை அங்கேயே வைத்துவிட்டு முதலில் போய்ச் சமாதானம் செய்ய வேண்டும் என்று இயேசு சொன்னார். மற்றவர்களை நாம் நடத்தும் விதமும் நம் வழிபாட்டின் பாகம்; அதனால், தவறை ஒப்புக்கொண்டு மன்னிப்பு கேட்டு, பிரச்சினைகளைச் சீக்கிரமாகத் தீர்க்க வேண்டும்."
+   },
+   "lesson": {
+    "en": "If someone is hurt by you, take the first step to make peace — soon.",
+    "ta": "உங்களால் யாராவது புண்பட்டிருந்தால், சமாதானம் செய்ய நீங்களே முதல் அடி எடுங்கள் — சீக்கிரமாக."
+   },
+   "ref": {
+    "en": "Matthew 5:23, 24",
+    "ta": "மத்தேயு 5:23, 24"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1978332"
+   },
+   "srcTitle": {
+    "en": "Watchtower: First make peace",
+    "ta": "காவற்கோபுரம்: முதலில் சமாதானம்"
+   }
+  },
+  {
+   "id": "lots_for_garments",
+   "cat": "prophecy",
+   "scene": "city",
+   "book": 40,
+   "chapter": 27,
+   "title": {
+    "en": "Lots cast for his clothing",
+    "ta": "அவருடைய உடைக்காகச் சீட்டுப்போட்டார்கள்"
+   },
+   "text": {
+    "en": "Psalm 22 foretold that the Messiah’s clothes would be shared out and lots drawn for them. At Jesus’ execution, the Roman soldiers split his outer garments into four parts, one each, but rather than tear his inner garment they cast lots for it — just as written.",
+    "ta": "மேசியாவின் உடைகள் பங்குபோடப்படும், அவற்றுக்காகச் சீட்டுப்போடப்படும் என்று சங்கீதம் 22 முன்னறிவித்தது. இயேசு கொல்லப்பட்டபோது, ரோமப் படைவீரர்கள் அவருடைய மேலங்கிகளை ஆளுக்கு ஒன்றாக நான்கு பங்காகப் பிரித்தார்கள்; உள்ளங்கியைக் கிழிக்காமல் அதற்காகச் சீட்டுப்போட்டார்கள் — எழுதப்பட்டிருந்தபடியே."
+   },
+   "lesson": {
+    "en": "Even small details of Bible prophecy come true, so we can trust Jehovah’s promises.",
+    "ta": "பைபிள் தீர்க்கதரிசனத்தின் சின்னச் சின்ன விவரங்களும் நிறைவேறுகின்றன; அதனால் யெகோவாவின் வாக்குறுதிகளை நம்பலாம்."
+   },
+   "ref": {
+    "en": "Psalm 22:18 · Matthew 27:35 · John 19:23, 24",
+    "ta": "சங்கீதம் 22:18 · மத்தேயு 27:35 · யோவான் 19:23, 24"
+   },
+   "added": "2026-11-01",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070627"
+   },
+   "srcTitle": {
+    "en": "Study note: Matthew 27:35",
+    "ta": "ஆய்வுக் குறிப்பு: மத்தேயு 27:35"
    }
   }
  ]
