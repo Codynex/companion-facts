@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "removed": [],
  "facts": [
   {
@@ -727,18 +727,25 @@
     "ta": "சூரியன் நின்றது"
    },
    "text": {
-    "en": "When Joshua fought to defend Gibeon, Jehovah made the sun and moon stand still until the battle was won.",
-    "ta": "கிபியோனைக் காப்பாற்ற யோசுவா போர் செய்தபோது, போர் முடியும்வரை யெகோவா சூரியனையும் சந்திரனையும் நிற்கச் செய்தார்."
+    "en": "When five Amorite kings attacked Gibeon, Joshua marched all night to help. Jehovah sent huge hailstones on the enemy, and at Joshua’s request the sun stayed in the sky for about a whole day until the battle was won.",
+    "ta": "ஐந்து எமோரிய ராஜாக்கள் கிபியோனைத் தாக்கியபோது, யோசுவா ராத்திரி முழுவதும் நடந்துபோய் உதவினார். யெகோவா எதிரிகள்மேல் பெரிய ஆலங்கட்டிகளைப் பெய்யச் செய்தார்; யோசுவா கேட்டபடி, போர் முடியும்வரை கிட்டத்தட்ட ஒரு நாள் முழுவதும் சூரியன் வானத்தில் நின்றது."
    },
    "lesson": {
     "en": "Jehovah fights for his people.",
     "ta": "யெகோவா தம் மக்களுக்காகப் போர் செய்கிறார்."
    },
    "ref": {
-    "en": "Joshua 10:12-14",
-    "ta": "யோசுவா 10:12-14"
+    "en": "Joshua 10:6-14",
+    "ta": "யோசுவா 10:6-14"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/bible-stories/3/sun-stand-still/"
+   },
+   "srcTitle": {
+    "en": "Bible Stories: The Sun Stands Still",
+    "ta": "பைபிள் கதைகள்: சூரியன் நிற்கிறது"
+   }
   },
   {
    "id": "widow_oil",
@@ -751,8 +758,8 @@
     "ta": "நிற்காமல் ஊற்றிய ஜாடி"
    },
    "text": {
-    "en": "A poor widow’s small jar of oil kept pouring until every container she had borrowed was full, so she could pay her debts.",
-    "ta": "ஏழை விதவையின் சின்ன எண்ணெய் ஜாடி, அவள் இரவல் வாங்கிய எல்லாப் பாத்திரங்களும் நிரம்பும்வரை ஊற்றிக்கொண்டே இருந்தது; அதனால் அவள் கடனை அடைக்க முடிந்தது."
+    "en": "A widow of one of the sons of the prophets was about to lose her two children as slaves to a creditor. Through Elisha, Jehovah made her little oil keep pouring until every jar she had borrowed was full, so she could pay the debt and keep her sons.",
+    "ta": "தீர்க்கதரிசிகளின் புத்திரர்களில் ஒருவருடைய விதவை, கடன் கொடுத்தவனிடம் தன் இரண்டு பிள்ளைகளையும் அடிமைகளாக இழக்கும் நிலையில் இருந்தாள். எலிசா மூலம், அவள் இரவல் வாங்கிய எல்லாப் பாத்திரங்களும் நிரம்பும்வரை அவளுடைய கொஞ்ச எண்ணெயை யெகோவா ஊறச் செய்தார்; அதனால் அவள் கடனை அடைத்து, தன் மகன்களைக் காப்பாற்றினாள்."
    },
    "lesson": {
     "en": "Jehovah cares about our practical needs too.",
@@ -762,7 +769,14 @@
     "en": "2 Kings 4:1-7",
     "ta": "2 ராஜாக்கள் 4:1-7"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Elisha/"
+   },
+   "srcTitle": {
+    "en": "Insight: Elisha",
+    "ta": "Insight: எலிசா"
+   }
   },
   {
    "id": "peter_freed",
@@ -786,7 +800,14 @@
     "en": "Acts 12:5-11",
     "ta": "அப்போஸ்தலர் 12:5-11"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102009053"
+   },
+   "srcTitle": {
+    "en": "Bearing Witness: chapter 10",
+    "ta": "முழுமையாகச் சாட்சி கொடுங்கள்: அதிகாரம் 10"
+   }
   },
   {
    "id": "abel",
@@ -965,7 +986,14 @@
     "en": "Ruth 1:14-17",
     "ta": "ரூத் 1:14-17"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/wp20120701/Where-You-Go-I-Shall-Go"
+   },
+   "srcTitle": {
+    "en": "Imitate Their Faith: Ruth",
+    "ta": "அவர்களுடைய விசுவாசத்தைப் பின்பற்றுங்கள்: ரூத்"
+   }
   },
   {
    "id": "solomon",
@@ -989,7 +1017,14 @@
     "en": "1 Kings 3:5-13 · James 1:5",
     "ta": "1 ராஜாக்கள் 3:5-13 · யாக்கோபு 1:5"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Solomon/"
+   },
+   "srcTitle": {
+    "en": "Insight: Solomon",
+    "ta": "Insight: சாலொமோன்"
+   }
   },
   {
    "id": "jehoshaphat",
@@ -1013,7 +1048,14 @@
     "en": "2 Chronicles 20:1-24",
     "ta": "2 நாளாகமம் 20:1-24"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Jehoshaphat/"
+   },
+   "srcTitle": {
+    "en": "Insight: Jehoshaphat",
+    "ta": "Insight: யோசபாத்"
+   }
   },
   {
    "id": "john_baptist",
@@ -1037,7 +1079,14 @@
     "en": "Matthew 3:1-17 · John 3:30",
     "ta": "மத்தேயு 3:1-17 · யோவான் 3:30"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/John/"
+   },
+   "srcTitle": {
+    "en": "Insight: John",
+    "ta": "Insight: யோவான்"
+   }
   },
   {
    "id": "stephen",
@@ -2361,6 +2410,223 @@
    "srcTitle": {
     "en": "Study note: Matthew 27:35",
     "ta": "ஆய்வுக் குறிப்பு: மத்தேயு 27:35"
+   }
+  },
+  {
+   "id": "shiphrah_puah",
+   "cat": "character",
+   "scene": "egypt",
+   "book": 2,
+   "chapter": 1,
+   "title": {
+    "en": "Shiphrah and Puah",
+    "ta": "சிப்பிராளும் பூவாளும்"
+   },
+   "text": {
+    "en": "Pharaoh ordered two Hebrew midwives, Shiphrah and Puah, to kill every Hebrew baby boy at birth. Because they feared the true God, they refused and let the boys live. Jehovah blessed them and gave them families of their own.",
+    "ta": "பிறக்கும் எல்லா எபிரெய ஆண் குழந்தைகளையும் கொன்றுவிடும்படி சிப்பிராள், பூவாள் என்ற இரண்டு எபிரெய மருத்துவச்சிகளுக்கு பார்வோன் கட்டளையிட்டான். ஆனால், அவர்கள் உண்மைக் கடவுளுக்குப் பயந்ததால் அதைச் செய்ய மறுத்து, அந்தக் குழந்தைகளை உயிரோடு விட்டார்கள். யெகோவா அவர்களை ஆசீர்வதித்து, அவர்களுக்கும் குடும்பங்களைக் கொடுத்தார்."
+   },
+   "lesson": {
+    "en": "Fearing Jehovah gives us courage to do what is right, even when powerful people demand otherwise.",
+    "ta": "யெகோவாவுக்குப் பயப்படும்போது, அதிகாரத்தில் இருப்பவர்கள் வற்புறுத்தினாலும் சரியானதைச் செய்யும் தைரியம் நமக்குக் கிடைக்கும்."
+   },
+   "ref": {
+    "en": "Exodus 1:15-21",
+    "ta": "யாத்திராகமம் 1:15-21"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Midwife/"
+   },
+   "srcTitle": {
+    "en": "Insight: Midwife",
+    "ta": "Insight: மருத்துவச்சி"
+   }
+  },
+  {
+   "id": "shiloh",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 1,
+   "chapter": 49,
+   "title": {
+    "en": "Until Shiloh comes",
+    "ta": "சீலோ வரும்வரை"
+   },
+   "text": {
+    "en": "As Jacob blessed his sons, he foretold that the scepter of rule would stay with Judah until Shiloh came — a name meaning the one it rightly belongs to. Kingship in Judah began with David, and its lasting heir is Jesus, called the Lion of the tribe of Judah.",
+    "ta": "யாக்கோபு தன் மகன்களை ஆசீர்வதித்தபோது, சீலோ வரும்வரை ஆட்சிச் செங்கோல் யூதாவை விட்டு விலகாது என்று முன்னறிவித்தார். அதற்கு உரிமையுள்ளவர் என்பதுதான் அந்தப் பெயரின் அர்த்தம். யூதாவில் ராஜாக்களின் ஆட்சி தாவீதிலிருந்து ஆரம்பமானது; அதன் நிரந்தர வாரிசு யூதா கோத்திரத்துச் சிங்கம் என்று அழைக்கப்படும் இயேசுதான்."
+   },
+   "lesson": {
+    "en": "Jehovah’s promises come true exactly as he said, even across many centuries.",
+    "ta": "பல நூற்றாண்டுகள் கடந்தாலும், யெகோவா சொன்னபடியே அவருடைய வாக்குறுதிகள் நிறைவேறுகின்றன."
+   },
+   "ref": {
+    "en": "Genesis 49:10 · Luke 1:32, 33 · Revelation 5:5",
+    "ta": "ஆதியாகமம் 49:10 · லூக்கா 1:32, 33 · வெளிப்படுத்துதல் 5:5"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Shiloh/"
+   },
+   "srcTitle": {
+    "en": "Insight: Shiloh",
+    "ta": "Insight: சீலோ"
+   }
+  },
+  {
+   "id": "agabus",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 44,
+   "chapter": 21,
+   "title": {
+    "en": "Agabus warns ahead of time",
+    "ta": "முன்கூட்டியே எச்சரித்த அகபு"
+   },
+   "text": {
+    "en": "The Christian prophet Agabus, moved by holy spirit, foretold a great famine, and it came in the days of Emperor Claudius. Years later, in Caesarea, he tied his own hands and feet with Paul’s belt to show that Paul would be bound in Jerusalem.",
+    "ta": "கிறிஸ்தவத் தீர்க்கதரிசியான அகபு, கடவுளுடைய சக்தியால் ஒரு பெரிய பஞ்சத்தை முன்னறிவித்தார்; பேரரசர் கிலவுதியுவின் காலத்தில் அது வந்தது. பல வருஷங்களுக்குப் பிறகு, செசரியாவில் பவுலின் இடுப்புவாரால் தன் கைகளையும் கால்களையும் கட்டிக்கொண்டு, எருசலேமில் பவுல் கட்டப்படுவார் என்று காட்டினார்."
+   },
+   "lesson": {
+    "en": "Jehovah can prepare us ahead of time for hard things, so we can face them with courage.",
+    "ta": "கஷ்டங்களுக்காக யெகோவா நம்மை முன்கூட்டியே தயார்படுத்துவார்; அதனால் அவற்றைத் தைரியமாகச் சந்திக்கலாம்."
+   },
+   "ref": {
+    "en": "Acts 11:27, 28; 21:10, 11",
+    "ta": "அப்போஸ்தலர் 11:27, 28; 21:10, 11"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Agabus/"
+   },
+   "srcTitle": {
+    "en": "Insight: Agabus",
+    "ta": "Insight: அகபு"
+   }
+  },
+  {
+   "id": "mother_bird",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 22,
+   "title": {
+    "en": "Let the mother bird go",
+    "ta": "தாய்ப் பறவையைப் போகவிடு"
+   },
+   "text": {
+    "en": "If an Israelite found a nest with eggs or chicks, he could take the young but had to let the mother bird go. This kept people from wiping out a whole bird family at once and left the mother free to raise more young.",
+    "ta": "முட்டைகளோ குஞ்சுகளோ உள்ள ஒரு கூட்டை ஓர் இஸ்ரவேலர் பார்த்தால், அவர் குஞ்சுகளை எடுத்துக்கொள்ளலாம்; ஆனால், தாய்ப் பறவையைப் போகவிட வேண்டும். ஒரு பறவைக் குடும்பத்தையே ஒரேயடியாக அழித்துவிடாதபடி இந்தச் சட்டம் தடுத்தது; தாய்ப் பறவை மறுபடியும் குஞ்சுகளைப் பொரிக்க வழிசெய்தது."
+   },
+   "lesson": {
+    "en": "Jehovah cares about kindness even toward animals, and he wants us to show it too.",
+    "ta": "மிருகங்களிடம்கூட கருணை காட்டுவதை யெகோவா முக்கியமாக நினைக்கிறார்; நாமும் அப்படிக் காட்ட வேண்டும் என்று விரும்புகிறார்."
+   },
+   "ref": {
+    "en": "Deuteronomy 22:6, 7",
+    "ta": "உபாகமம் 22:6, 7"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200013161"
+   },
+   "srcTitle": {
+    "en": "Bible dictionary: Nest",
+    "ta": "பைபிள் அகராதி: கூடு"
+   }
+  },
+  {
+   "id": "carry_burdens",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 48,
+   "chapter": 6,
+   "title": {
+    "en": "Help carry the load",
+    "ta": "சுமையைச் சுமக்க உதவுங்கள்"
+   },
+   "text": {
+    "en": "Paul urged Christians to help carry one another’s heavy burdens, especially when someone is struggling after taking a wrong step. Doing so shows love and fulfills the law of the Christ, though each one still carries his own responsibility before God.",
+    "ta": "ஒருவருக்கொருவர் பாரமான சுமைகளைச் சுமக்க உதவும்படி, முக்கியமாக ஒருவர் தவறான அடி எடுத்துவைத்த பிறகு கஷ்டப்படும்போது உதவும்படி, கிறிஸ்தவர்களை பவுல் உற்சாகப்படுத்தினார். அப்படிச் செய்வது அன்பைக் காட்டுகிறது, கிறிஸ்துவின் சட்டத்தை நிறைவேற்றுகிறது; ஆனாலும், கடவுளுக்கு முன்பு ஒவ்வொருவரும் தன்னுடைய பொறுப்பைச் சுமக்க வேண்டும்."
+   },
+   "lesson": {
+    "en": "When a fellow worshipper is struggling, lend a hand instead of standing back.",
+    "ta": "சக வணக்கத்தார் ஒருவர் கஷ்டப்படும்போது, ஒதுங்கி நிற்காமல் கைகொடுங்கள்."
+   },
+   "ref": {
+    "en": "Galatians 6:1, 2, 5",
+    "ta": "கலாத்தியர் 6:1, 2, 5"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070152/29282"
+   },
+   "srcTitle": {
+    "en": "Study note: Galatians 6:2",
+    "ta": "ஆய்வுக் குறிப்பு: கலாத்தியர் 6:2"
+   }
+  },
+  {
+   "id": "leaven",
+   "cat": "parable",
+   "scene": "sower",
+   "book": 40,
+   "chapter": 13,
+   "title": {
+    "en": "A little leaven",
+    "ta": "கொஞ்சம் புளித்த மாவு"
+   },
+   "text": {
+    "en": "Jesus compared the Kingdom to a woman who mixed a little leaven into a large amount of flour until all the dough rose. Leaven often stands for sin in the Bible, but here its spreading pictures something good.",
+    "ta": "ஒரு பெண் நிறைய மாவில் கொஞ்சம் புளித்த மாவைக் கலந்தபோது, மாவு முழுவதும் புளித்துப் பொங்கியது; கடவுளுடைய அரசாங்கத்தை இயேசு அதற்கு ஒப்பிட்டார். பைபிளில் புளித்த மாவு பெரும்பாலும் பாவத்தைக் குறிக்கிறது; ஆனால் இங்கே, அது பரவுவது நல்ல ஒன்றைக் குறிக்கிறது."
+   },
+   "lesson": {
+    "en": "Good things from Jehovah can spread quietly and steadily, even when they start small.",
+    "ta": "யெகோவாவிடமிருந்து வரும் நல்ல விஷயங்கள் சின்னதாக ஆரம்பித்தாலும், அமைதியாகவும் சீராகவும் பரவும்."
+   },
+   "ref": {
+    "en": "Matthew 13:33 · Luke 13:20, 21",
+    "ta": "மத்தேயு 13:33 · லூக்கா 13:20, 21"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070144/23688"
+   },
+   "srcTitle": {
+    "en": "Study note: Matthew 13:33",
+    "ta": "ஆய்வுக் குறிப்பு: மத்தேயு 13:33"
+   }
+  },
+  {
+   "id": "withered_hand",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 41,
+   "chapter": 3,
+   "title": {
+    "en": "Stretch out your hand",
+    "ta": "உன் கையை நீட்டு"
+   },
+   "text": {
+    "en": "On a Sabbath in the synagogue, Jesus asked whether it was right to do good or to do harm on that day. Deeply grieved by the leaders’ unfeeling hearts, he told a man with a withered hand to stretch it out, and it was healed. The Pharisees then started plotting with Herod’s followers against him.",
+    "ta": "ஓய்வுநாளில் ஜெபக்கூடத்தில், அந்த நாளில் நல்லது செய்வது சரியா கெட்டது செய்வது சரியா என்று இயேசு கேட்டார். மதத் தலைவர்களின் இரக்கமற்ற இதயத்தைப் பார்த்து மிகவும் வேதனைப்பட்டு, சூம்பிய கையுள்ள ஒருவரிடம் கையை நீட்டச் சொன்னார்; அந்தக் கை குணமானது. அதன் பிறகு, பரிசேயர்கள் ஏரோதுவின் ஆதரவாளர்களோடு சேர்ந்து அவருக்கு எதிராகச் சதி செய்ய ஆரம்பித்தார்கள்."
+   },
+   "lesson": {
+    "en": "Doing good for someone in need is always right in Jehovah’s eyes.",
+    "ta": "தேவையில் இருப்பவருக்கு நல்லது செய்வது யெகோவாவின் பார்வையில் எப்போதுமே சரியானது."
+   },
+   "ref": {
+    "en": "Mark 3:1-6",
+    "ta": "மாற்கு 3:1-6"
+   },
+   "added": "2026-11-02",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070631"
+   },
+   "srcTitle": {
+    "en": "Study note: Mark 3:5",
+    "ta": "ஆய்வுக் குறிப்பு: மாற்கு 3:5"
    }
   }
  ]
