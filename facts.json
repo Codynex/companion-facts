@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "removed": [],
  "facts": [
   {
@@ -1110,7 +1110,14 @@
     "en": "Acts 7:54-60",
     "ta": "அப்போஸ்தலர் 7:54-60"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Stephen/"
+   },
+   "srcTitle": {
+    "en": "Insight: Stephen",
+    "ta": "Insight: ஸ்தேவான்"
+   }
   },
   {
    "id": "lydia",
@@ -1134,7 +1141,14 @@
     "en": "Acts 16:14, 15",
     "ta": "அப்போஸ்தலர் 16:14, 15"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070148/27589"
+   },
+   "srcTitle": {
+    "en": "Study note: Acts 16:14",
+    "ta": "ஆய்வுக் குறிப்பு: அப்போஸ்தலர் 16:14"
+   }
   },
   {
    "id": "aquila_priscilla",
@@ -1158,7 +1172,14 @@
     "en": "Acts 18:1-3, 24-26",
     "ta": "அப்போஸ்தலர் 18:1-3, 24-26"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Aquila/"
+   },
+   "srcTitle": {
+    "en": "Insight: Aquila",
+    "ta": "Insight: ஆக்கில்லா"
+   }
   },
   {
    "id": "seventy_weeks",
@@ -1171,8 +1192,8 @@
     "ta": "70 வாரங்கள்"
    },
    "text": {
-    "en": "Daniel’s prophecy of the “70 weeks” pointed to when the Messiah would appear. It was fulfilled when Jesus was baptized in 29 C.E.",
-    "ta": "மேசியா எப்போது வருவார் என்பதை தானியேலின் “70 வாரங்கள்” தீர்க்கதரிசனம் சுட்டிக்காட்டியது. கி.பி. 29-ல் இயேசு ஞானஸ்நானம் பெற்றபோது அது நிறைவேறியது."
+    "en": "Daniel’s prophecy of the “70 weeks” pointed to when the Messiah would appear. Counting 69 weeks of years from 455 B.C.E. leads to 29 C.E., when Jesus was baptized and became the Messiah.",
+    "ta": "மேசியா எப்போது வருவார் என்பதை தானியேலின் “70 வாரங்கள்” தீர்க்கதரிசனம் சுட்டிக்காட்டியது. கி.மு. 455-லிருந்து 69 வாரங்களை (வருஷங்களாக) கணக்கிட்டால் கி.பி. 29 வருகிறது; அந்த வருஷத்தில்தான் இயேசு ஞானஸ்நானம் பெற்று மேசியாவானார்."
    },
    "lesson": {
     "en": "Jehovah’s timetable is exact.",
@@ -1182,7 +1203,14 @@
     "en": "Daniel 9:24-27",
     "ta": "தானியேல் 9:24-27"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200003915"
+   },
+   "srcTitle": {
+    "en": "Insight: Seventy Weeks",
+    "ta": "Insight: எழுபது வாரங்கள்"
+   }
   },
   {
    "id": "jerusalem_70",
@@ -1195,8 +1223,8 @@
     "ta": "சூழப்பட்ட எருசலேம்"
    },
    "text": {
-    "en": "Jesus foretold that armies would surround Jerusalem and that his followers should flee. In 70 C.E. the Romans destroyed the city; Christians who had heeded the warning escaped.",
-    "ta": "படைகள் எருசலேமைச் சூழ்ந்துகொள்ளும், அப்போது தம் சீஷர்கள் ஓடிவிட வேண்டும் என்று இயேசு முன்னறிவித்தார். கி.பி. 70-ல் ரோமர்கள் நகரத்தை அழித்தார்கள்; எச்சரிப்புக்குக் கீழ்ப்படிந்த கிறிஸ்தவர்கள் தப்பினார்கள்."
+    "en": "Jesus foretold that armies would surround Jerusalem and that his followers should then flee. In 66 C.E. Roman troops came and then suddenly pulled back, and Christians left for the mountains. In 70 C.E. the Romans returned and destroyed the city.",
+    "ta": "படைகள் எருசலேமைச் சூழ்ந்துகொள்ளும், அப்போது தம் சீஷர்கள் ஓடிவிட வேண்டும் என்று இயேசு முன்னறிவித்தார். கி.பி. 66-ல் ரோமப் படைகள் வந்து, திடீரென்று பின்வாங்கின; அப்போது கிறிஸ்தவர்கள் மலைகளுக்குத் தப்பி ஓடினார்கள். கி.பி. 70-ல் ரோமர்கள் திரும்பி வந்து நகரத்தை அழித்தார்கள்."
    },
    "lesson": {
     "en": "Acting on Jesus’ warnings saves lives.",
@@ -1206,7 +1234,14 @@
     "en": "Luke 21:20-24",
     "ta": "லூக்கா 21:20-24"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/brochures/Keep-on-the-Watch/Paying-Attention-Saved-Their-Lives/"
+   },
+   "srcTitle": {
+    "en": "Keep on the Watch: Paying attention",
+    "ta": "விழிப்போடிருங்கள்: கவனம் உயிரைக் காத்தது"
+   }
   },
   {
    "id": "no_bone_broken",
@@ -1230,7 +1265,14 @@
     "en": "Psalm 34:20 · John 19:32-36",
     "ta": "சங்கீதம் 34:20 · யோவான் 19:32-36"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/bible/study-bible/introduction/messianic-prophecies/"
+   },
+   "srcTitle": {
+    "en": "Study Bible: Messianic prophecies",
+    "ta": "ஆய்வு பைபிள்: மேசியா பற்றிய தீர்க்கதரிசனங்கள்"
+   }
   },
   {
    "id": "isaiah_53",
@@ -1267,18 +1309,25 @@
     "ta": "நினிவேயின் வீழ்ச்சி"
    },
    "text": {
-    "en": "Nahum and Zephaniah foretold that mighty Nineveh, Assyria’s capital, would be made desolate. It fell in 632 B.C.E., and its ruins lay buried for centuries.",
-    "ta": "அசீரியாவின் தலைநகரான வலிமைமிக்க நினிவே பாழாகும் என்று நாகூமும் செப்பனியாவும் முன்னறிவித்தார்கள். கி.மு. 632-ல் அது விழுந்தது; அதன் இடிபாடுகள் பல நூற்றாண்டுகள் மண்ணுக்குள் புதைந்து கிடந்தன."
+    "en": "Nahum and Zephaniah foretold that Nineveh, Assyria’s proud capital, would be laid waste. In 632 B.C.E. the Babylonians and Medes took it quickly after the flooded Tigris broke down part of its walls, opening the “gates of the rivers” as Nahum had said.",
+    "ta": "அசீரியாவின் பெருமைமிக்க தலைநகரான நினிவே பாழாகும் என்று நாகூமும் செப்பனியாவும் முன்னறிவித்தார்கள். கி.மு. 632-ல் டைகிரிஸ் ஆறு பெருக்கெடுத்து அதன் மதிலின் ஒரு பகுதியை உடைத்தது; நாகூம் சொன்னபடியே “ஆறுகளின் வாசல்கள்” திறக்கப்பட்டு, பாபிலோனியர்களும் மேதியர்களும் அதைச் சீக்கிரமாகக் கைப்பற்றினார்கள்."
    },
    "lesson": {
     "en": "Proud powers that oppose Jehovah do not last.",
     "ta": "யெகோவாவை எதிர்க்கும் பெருமைமிக்க சக்திகள் நிலைப்பதில்லை."
    },
    "ref": {
-    "en": "Nahum 3:1-7 · Zephaniah 2:13-15",
-    "ta": "நாகூம் 3:1-7 · செப்பனியா 2:13-15"
+    "en": "Nahum 2:6; 3:1-7 · Zephaniah 2:13-15",
+    "ta": "நாகூம் 2:6; 3:1-7 · செப்பனியா 2:13-15"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/2007842"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Nahum–Zephaniah highlights",
+    "ta": "காவற்கோபுரம்: நாகூம்–செப்பனியா சிறப்பு குறிப்புகள்"
+   }
   },
   {
    "id": "mild_answer",
@@ -2627,6 +2676,223 @@
    "srcTitle": {
     "en": "Study note: Mark 3:5",
     "ta": "ஆய்வுக் குறிப்பு: மாற்கு 3:5"
+   }
+  },
+  {
+   "id": "barzillai",
+   "cat": "character",
+   "scene": "desert",
+   "book": 10,
+   "chapter": 19,
+   "title": {
+    "en": "Barzillai knows his limits",
+    "ta": "பர்சிலாய் தன் வரம்புகளை அறிந்தவர்"
+   },
+   "text": {
+    "en": "When David fled from Absalom, Barzillai of Gilead joined others in bringing beds, food and supplies to the king’s weary men at Mahanaim. Later David invited him to live at the royal court, but Barzillai, then 80, modestly declined and suggested that Chimham go instead.",
+    "ta": "அப்சலோமிடமிருந்து தாவீது தப்பி ஓடியபோது, கீலேயாத்தைச் சேர்ந்த பர்சிலாய் மற்றவர்களோடு சேர்ந்து, மக்னாயீமில் களைப்பாக இருந்த ராஜாவின் ஆட்களுக்குப் படுக்கைகளையும் உணவையும் மற்ற பொருள்களையும் கொண்டுவந்தார். பிறகு, அரண்மனையில் தன்னோடு தங்கும்படி தாவீது அவரை அழைத்தார்; ஆனால் 80 வயதான பர்சிலாய் அடக்கத்தோடு மறுத்து, தனக்குப் பதிலாக கிம்காமை அழைத்துப்போகும்படி சொன்னார்."
+   },
+   "lesson": {
+    "en": "Modesty means knowing what we can and cannot take on.",
+    "ta": "நம்மால் எதைச் செய்ய முடியும், எதைச் செய்ய முடியாது என்று தெரிந்து நடப்பதுதான் அடக்கம்."
+   },
+   "ref": {
+    "en": "2 Samuel 17:27-29; 19:31-39",
+    "ta": "2 சாமுவேல் 17:27-29; 19:31-39"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/2007524"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Barzillai",
+    "ta": "காவற்கோபுரம்: பர்சிலாய்"
+   }
+  },
+  {
+   "id": "ahijah",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 11,
+   "chapter": 11,
+   "title": {
+    "en": "Ahijah tears a new garment",
+    "ta": "அகியா புதிய அங்கியைக் கிழிக்கிறார்"
+   },
+   "text": {
+    "en": "The prophet Ahijah of Shiloh tore a new garment into 12 pieces and gave 10 of them to Jeroboam, showing that Solomon’s kingdom would be divided. Years later, after Jeroboam had turned to wickedness, the old and blind Ahijah foretold the end of his house.",
+    "ta": "சீலோவில் இருந்த அகியா தீர்க்கதரிசி ஒரு புதிய அங்கியை 12 துண்டுகளாகக் கிழித்து, அவற்றில் 10 துண்டுகளை யெரொபெயாமிடம் கொடுத்தார்; சாலொமோனின் ராஜ்யம் இரண்டாகப் பிரியும் என்பதை அது காட்டியது. பல வருஷங்களுக்குப் பிறகு, யெரொபெயாம் கெட்ட வழியில் போனபோது, வயதாகிக் கண் பார்வை இழந்திருந்த அகியா அவனுடைய வம்சம் முடிவுக்கு வரும் என்று முன்னறிவித்தார்."
+   },
+   "lesson": {
+    "en": "Jehovah’s promises to us depend on our staying faithful to him.",
+    "ta": "யெகோவாவுக்கு நாம் உண்மையாக இருந்தால்தான் அவருடைய வாக்குறுதிகளை அனுபவிக்க முடியும்."
+   },
+   "ref": {
+    "en": "1 Kings 11:29-39; 14:2-18",
+    "ta": "1 ராஜாக்கள் 11:29-39; 14:2-18"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Ahijah/"
+   },
+   "srcTitle": {
+    "en": "Insight: Ahijah",
+    "ta": "Insight: அகியா"
+   }
+  },
+  {
+   "id": "pledged_cloak",
+   "cat": "law",
+   "scene": "desert",
+   "book": 2,
+   "chapter": 22,
+   "title": {
+    "en": "The cloak given back by night",
+    "ta": "இரவுக்குள் திருப்பிக் கொடுக்கப்பட்ட மேலங்கி"
+   },
+   "text": {
+    "en": "If a poor man gave his outer garment as security for a loan, the lender had to return it so he could cover himself at night. A lender could not go into the man’s house to take a pledge, and a widow’s garment was never to be taken at all.",
+    "ta": "ஏழை ஒருவர் கடனுக்கு அடமானமாகத் தன் மேலங்கியைக் கொடுத்திருந்தால், இரவில் அவர் அதைப் போர்த்திக்கொள்வதற்காகக் கடன் கொடுத்தவர் அதைத் திருப்பிக் கொடுக்க வேண்டியிருந்தது. அடமானப் பொருளை எடுப்பதற்காகக் கடன் வாங்கியவரின் வீட்டுக்குள் நுழையக் கூடாது; விதவையின் உடையை அடமானமாக வாங்கவே கூடாது."
+   },
+   "lesson": {
+    "en": "Jehovah wants us to respect the needs and dignity of people who are struggling.",
+    "ta": "கஷ்டப்படுகிறவர்களின் தேவைகளையும் சுயமரியாதையையும் நாம் மதிக்க வேண்டும் என்று யெகோவா விரும்புகிறார்."
+   },
+   "ref": {
+    "en": "Exodus 22:26, 27 · Deuteronomy 24:10-13, 17",
+    "ta": "யாத்திராகமம் 22:26, 27 · உபாகமம் 24:10-13, 17"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Pledge/"
+   },
+   "srcTitle": {
+    "en": "Insight: Pledge",
+    "ta": "Insight: அடமானம்"
+   }
+  },
+  {
+   "id": "barren_fig_tree",
+   "cat": "parable",
+   "scene": "field",
+   "book": 42,
+   "chapter": 13,
+   "title": {
+    "en": "The fig tree with no figs",
+    "ta": "கனி கொடுக்காத அத்தி மரம்"
+   },
+   "text": {
+    "en": "For three years a man found no figs on a tree in his vineyard and wanted it cut down, but the vinedresser asked for one more year to dig around it and fertilize it. By then Jesus had spent about three years trying to build faith among the Jews, yet few had responded.",
+    "ta": "ஒருவர் தன் திராட்சைத் தோட்டத்தில் இருந்த அத்தி மரத்தில் மூன்று வருஷமாக ஒரு கனியும் கிடைக்காததால் அதை வெட்டிப்போட நினைத்தார்; ஆனால் தோட்டக்காரர், அதைச் சுற்றிக் கொத்தி உரம் போட இன்னும் ஒரு வருஷம் கொடுக்கும்படி கேட்டார். அந்தச் சமயத்துக்குள், யூதர்களிடம் விசுவாசத்தை வளர்க்க இயேசு சுமார் மூன்று வருஷங்கள் முயற்சி செய்திருந்தார்; ஆனாலும் கொஞ்சம் பேர்தான் அதை ஏற்றுக்கொண்டார்கள்."
+   },
+   "lesson": {
+    "en": "Jehovah is patient, but we shouldn’t waste the time he gives us to bear good fruit.",
+    "ta": "யெகோவா பொறுமையானவர்; ஆனால் நல்ல கனி கொடுப்பதற்காக அவர் தரும் நேரத்தை நாம் வீணாக்கக் கூடாது."
+   },
+   "ref": {
+    "en": "Luke 13:6-9",
+    "ta": "லூக்கா 13:6-9"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070657"
+   },
+   "srcTitle": {
+    "en": "Study note: Luke 13:7",
+    "ta": "ஆய்வுக் குறிப்பு: லூக்கா 13:7"
+   }
+  },
+  {
+   "id": "great_catch",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 42,
+   "chapter": 5,
+   "title": {
+    "en": "Nets too full to hold",
+    "ta": "கிழியும் அளவுக்கு நிறைந்த வலைகள்"
+   },
+   "text": {
+    "en": "After a whole night of catching nothing, Peter let down his nets again just because Jesus told him to. So many fish came in that the nets began to tear and two boats nearly sank. Jesus told Peter he would now be catching men, and four fishermen left their work to follow him.",
+    "ta": "இராத்திரி முழுக்க ஒன்றும் கிடைக்காத பிறகும், இயேசு சொன்னதால் பேதுரு மறுபடியும் வலைகளைப் போட்டார். வலைகள் கிழிய ஆரம்பிக்கும் அளவுக்கு மீன்கள் சிக்கின; இரண்டு படகுகளும் மூழ்கும் நிலைக்கு வந்தன. இனி நீ மனிதர்களைப் பிடிப்பாய் என்று இயேசு பேதுருவிடம் சொன்னார்; நான்கு மீனவர்களும் தங்கள் தொழிலை விட்டுவிட்டு அவரைப் பின்பற்றினார்கள்."
+   },
+   "lesson": {
+    "en": "Obeying Jesus brings blessings, even when it seems pointless at first.",
+    "ta": "ஆரம்பத்தில் பலன் இருக்காது போலத் தோன்றினாலும், இயேசுவுக்குக் கீழ்ப்படிவது ஆசீர்வாதங்களைக் கொண்டுவரும்."
+   },
+   "ref": {
+    "en": "Luke 5:1-11",
+    "ta": "லூக்கா 5:1-11"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/The-Greatest-Man-Who-Ever-Lived/Four-Disciples-Are-Called/"
+   },
+   "srcTitle": {
+    "en": "Greatest Man: Four disciples called",
+    "ta": "மிகப் பெரிய மனிதர்: நான்கு சீஷர்கள்"
+   }
+  },
+  {
+   "id": "betrayed_by_friend",
+   "cat": "prophecy",
+   "scene": "city",
+   "book": 43,
+   "chapter": 13,
+   "title": {
+    "en": "Betrayed by a friend",
+    "ta": "நண்பனே காட்டிக்கொடுத்தான்"
+   },
+   "text": {
+    "en": "In a psalm, David spoke of a trusted companion who ate his bread and then turned against him. At supper with his apostles, Jesus applied those words to Judas. Back then, harming someone you had shared a meal with was seen as the worst kind of betrayal.",
+    "ta": "தன்னோடு சாப்பிட்ட நம்பிக்கையான ஒருவன் தனக்கு எதிராகத் திரும்பியதைப் பற்றி தாவீது ஒரு சங்கீதத்தில் சொன்னார். அப்போஸ்தலர்களோடு சாப்பிட்டுக்கொண்டிருந்தபோது, இயேசு அந்த வார்த்தைகளை யூதாஸுக்குப் பொருத்தினார். அந்தக் காலத்தில், ஒருவரோடு சேர்ந்து சாப்பிட்ட பிறகு அவருக்குத் தீங்கு செய்வது மிக மோசமான துரோகமாகக் கருதப்பட்டது."
+   },
+   "lesson": {
+    "en": "Be a loyal friend; betrayal wounds deeply.",
+    "ta": "உண்மையுள்ள நண்பராக இருங்கள்; துரோகம் ஆழமாகக் காயப்படுத்தும்."
+   },
+   "ref": {
+    "en": "Psalm 41:9 · John 13:18",
+    "ta": "சங்கீதம் 41:9 · யோவான் 13:18"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070147/26740"
+   },
+   "srcTitle": {
+    "en": "Study note: John 13:18",
+    "ta": "ஆய்வுக் குறிப்பு: யோவான் 13:18"
+   }
+  },
+  {
+   "id": "forgive_77",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 40,
+   "chapter": 18,
+   "title": {
+    "en": "Seventy-seven times",
+    "ta": "77 தடவை"
+   },
+   "text": {
+    "en": "Peter asked whether forgiving his brother seven times was enough. Jesus said up to 77 times. That number recalls Lamech’s boast of taking revenge 77 times, and Jesus may have been contrasting that spirit with the mercy his followers should show.",
+    "ta": "தன் சகோதரனை ஏழு தடவை மன்னித்தால் போதுமா என்று பேதுரு கேட்டார். 77 தடவை வரை என்று இயேசு பதில் சொன்னார். 77 தடவை பழிவாங்குவேன் என்று லாமேக்கு பெருமையடித்ததை இந்த எண் ஞாபகப்படுத்துகிறது; பழிவாங்கும் அந்த மனப்பான்மைக்கும் தம் சீஷர்கள் காட்ட வேண்டிய இரக்கத்துக்கும் உள்ள வித்தியாசத்தை இயேசு காட்டியிருக்கலாம்."
+   },
+   "lesson": {
+    "en": "Don’t keep count when you forgive.",
+    "ta": "மன்னிக்கும்போது கணக்கு வைக்காதீர்கள்."
+   },
+   "ref": {
+    "en": "Matthew 18:21, 22 · Genesis 4:24",
+    "ta": "மத்தேயு 18:21, 22 · ஆதியாகமம் 4:24"
+   },
+   "added": "2026-11-03",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1969448"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Questions From Readers",
+    "ta": "காவற்கோபுரம்: வாசகர் கேள்வி"
    }
   }
  ]
