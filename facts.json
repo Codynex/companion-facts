@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "removed": [],
  "facts": [
   {
@@ -1340,8 +1340,8 @@
     "ta": "சாந்தமான பதில்"
    },
    "text": {
-    "en": "Proverbs says a mild answer turns away rage, but a harsh word stirs up anger.",
-    "ta": "சாந்தமான பதில் கோபத்தைத் தணிக்கும், கடுமையான வார்த்தை கோபத்தைக் கிளறும் என்று நீதிமொழிகள் சொல்கிறது."
+    "en": "Proverbs says a mild answer turns away rage, but a hurtful word stirs up anger. When someone is angry, the cause may have little to do with us, so a calm reply can settle things where a sharp one would only make them worse.",
+    "ta": "சாந்தமான பதில் கோபத்தைத் தணிக்கும், புண்படுத்தும் வார்த்தை கோபத்தைக் கிளறும் என்று நீதிமொழிகள் சொல்கிறது. ஒருவர் கோபப்படுவதற்கான காரணம் நாமாக இல்லாமலும் இருக்கலாம்; அதனால், கடுமையான பதில் நிலைமையை மோசமாக்கும் இடத்தில் அமைதியான பதில் அதைச் சரிசெய்யும்."
    },
    "lesson": {
     "en": "How we answer can calm a fight or start one.",
@@ -1351,7 +1351,14 @@
     "en": "Proverbs 15:1",
     "ta": "நீதிமொழிகள் 15:1"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/w20060701/Anyone-Regarding-Reproof-Is-Shrewd/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Proverbs 15",
+    "ta": "காவற்கோபுரம்: நீதிமொழிகள் 15"
+   }
   },
   {
    "id": "iron_sharpens",
@@ -1364,8 +1371,8 @@
     "ta": "இரும்பை இரும்பு கூர்மையாக்கும்"
    },
    "text": {
-    "en": "Just as iron sharpens iron, one friend can help another become better.",
-    "ta": "இரும்பை இரும்பு கூர்மையாக்குவதுபோல், ஒரு நண்பன் இன்னொருவனை மேம்படுத்துகிறான்."
+    "en": "Just as iron sharpens iron, friends can sharpen one another. Working side by side with fellow believers, such as in the ministry, lets us learn from their good qualities and draws us closer to them and to Jehovah.",
+    "ta": "இரும்பை இரும்பு கூர்மையாக்குவதுபோல், நண்பர்கள் ஒருவரையொருவர் கூர்மையாக்கலாம். ஊழியம் போன்றவற்றில் சக விசுவாசிகளோடு சேர்ந்து உழைக்கும்போது, அவர்களுடைய நல்ல குணங்களிலிருந்து கற்றுக்கொள்கிறோம்; அவர்களிடமும் யெகோவாவிடமும் நெருங்கி வருகிறோம்."
    },
    "lesson": {
     "en": "Choose friends who help you grow spiritually.",
@@ -1375,7 +1382,14 @@
     "en": "Proverbs 27:17",
     "ta": "நீதிமொழிகள் 27:17"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/h/r1/lp-e/2021/8/20"
+   },
+   "srcTitle": {
+    "en": "Daily text: Proverbs 27:17",
+    "ta": "தினவசனம்: நீதிமொழிகள் 27:17"
+   }
   },
   {
    "id": "love_is_patient",
@@ -1388,8 +1402,8 @@
     "ta": "அன்பு எப்படிப்பட்டது"
    },
    "text": {
-    "en": "Paul described love as patient and kind — not jealous, not bragging, and not keeping account of wrongs.",
-    "ta": "அன்பு பொறுமையும் கருணையும் உள்ளது — பொறாமைப்படாது, பெருமையடிக்காது, தீங்குகளைக் கணக்கு வைக்காது என்று பவுல் விவரித்தார்."
+    "en": "Paul described love as patient and kind, not jealous and not bragging. Love also does not keep account of the injury — it does not keep a mental record of hurtful words or deeds, just as Jehovah does not hold our offenses against us.",
+    "ta": "அன்பு பொறுமையும் கருணையும் உள்ளது, பொறாமைப்படாது, பெருமையடிக்காது என்று பவுல் விவரித்தார். அன்பு தீங்குகளைக் கணக்கு வைக்காது — யெகோவா நம் தவறுகளைக் கணக்கில் வைக்காதது போலவே, புண்படுத்திய வார்த்தைகளையோ செயல்களையோ மனதில் பதிவு செய்து வைக்காது."
    },
    "lesson": {
     "en": "Love shows in everyday actions, not just feelings.",
@@ -1399,7 +1413,14 @@
     "en": "1 Corinthians 13:4-7",
     "ta": "1 கொரிந்தியர் 13:4-7"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/bible/study-bible/books/1-corinthians/13/"
+   },
+   "srcTitle": {
+    "en": "Study notes: 1 Corinthians 13",
+    "ta": "ஆராய்ச்சிக் குறிப்புகள்: 1 கொரிந்தியர் 13"
+   }
   },
   {
    "id": "humble_lifted",
@@ -1484,18 +1505,25 @@
     "ta": "இடைவிடாமல் ஜெபம் செய்யுங்கள்"
    },
    "text": {
-    "en": "Paul told Christians to pray constantly — to keep talking to Jehovah throughout the day, about everything.",
-    "ta": "இடைவிடாமல் ஜெபம் செய்யும்படி — நாள் முழுவதும் எல்லாவற்றைப் பற்றியும் யெகோவாவிடம் பேசிக்கொண்டே இருக்கும்படி — பவுல் கிறிஸ்தவர்களிடம் சொன்னார்."
+    "en": "Paul told Christians to pray constantly. That includes praying at ordinary moments, such as before a meal, even when eating in public — quietly, not to be seen by others, as Jesus taught.",
+    "ta": "இடைவிடாமல் ஜெபம் செய்யும்படி பவுல் கிறிஸ்தவர்களிடம் சொன்னார். சாப்பிடுவதற்கு முன்பு போன்ற சாதாரண சமயங்களிலும், பொது இடத்தில் சாப்பிடும்போதுகூட, ஜெபம் செய்யலாம் — இயேசு கற்றுக்கொடுத்தபடி, மற்றவர்கள் பார்க்க வேண்டும் என்பதற்காக அல்ல, அமைதியாக."
    },
    "lesson": {
     "en": "Short prayers through the day keep us close to Jehovah.",
     "ta": "நாள் முழுவதும் செய்யும் சின்னச் சின்ன ஜெபங்கள் நம்மை யெகோவாவுக்கு நெருக்கமாக வைக்கும்."
    },
    "ref": {
-    "en": "1 Thessalonians 5:17",
-    "ta": "1 தெசலோனிக்கேயர் 5:17"
+    "en": "1 Thessalonians 5:17 · Matthew 6:5, 6",
+    "ta": "1 தெசலோனிக்கேயர் 5:17 · மத்தேயு 6:5, 6"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1990521"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Because He Prayed",
+    "ta": "காவற்கோபுரம்: ஜெபம் செய்ததால்"
+   }
   },
   {
    "id": "firstfruits",
@@ -1508,8 +1536,8 @@
     "ta": "முதலானதும் சிறந்ததும்"
    },
    "text": {
-    "en": "Israelites brought the first and best of their harvest to Jehovah and thanked him for the land he had given them.",
-    "ta": "இஸ்ரவேலர் தங்கள் அறுவடையில் முதலானதையும் சிறந்ததையும் யெகோவாவிடம் கொண்டுவந்து, அவர் கொடுத்த தேசத்துக்காக நன்றி சொன்னார்கள்."
+    "en": "Israelites carried the first of their harvest in a basket to the sanctuary. There they recounted how Jehovah had brought the nation out of Egypt and into a fruitful land. The Law set no amount, but the best portions were to be given.",
+    "ta": "இஸ்ரவேலர் தங்கள் அறுவடையின் முதல் விளைச்சலைக் கூடையில் வைத்து வழிபாட்டு இடத்துக்குக் கொண்டுபோனார்கள். அங்கே, யெகோவா தங்கள் தேசத்தை எகிப்திலிருந்து விடுவித்து, செழிப்பான தேசத்துக்குக் கொண்டுவந்ததைச் சொன்னார்கள். எவ்வளவு கொடுக்க வேண்டும் என்று திருச்சட்டம் சொல்லவில்லை, ஆனால் சிறந்ததையே கொடுக்க வேண்டியிருந்தது."
    },
    "lesson": {
     "en": "Jehovah deserves our best, not our leftovers.",
@@ -1519,7 +1547,14 @@
     "en": "Deuteronomy 26:1-11",
     "ta": "உபாகமம் 26:1-11"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Firstfruits/"
+   },
+   "srcTitle": {
+    "en": "Insight: Firstfruits",
+    "ta": "Insight: முதல் விளைச்சல்"
+   }
   },
   {
    "id": "debt_release",
@@ -1528,22 +1563,29 @@
    "book": 5,
    "chapter": 15,
    "title": {
-    "en": "Debts cancelled",
-    "ta": "கடன் ரத்து"
+    "en": "A release to Jehovah",
+    "ta": "யெகோவாவுக்காக விடுதலை"
    },
    "text": {
-    "en": "Every seventh year, debts owed by fellow Israelites were cancelled, so no one stayed buried in debt.",
-    "ta": "ஒவ்வொரு ஏழாம் வருஷமும் சக இஸ்ரவேலர் தர வேண்டிய கடன்கள் ரத்து செய்யப்பட்டன; அதனால் யாரும் கடனில் மூழ்கிக் கிடக்கவில்லை."
+    "en": "In the Sabbath year, every seventh year, a lender was not to press a fellow Hebrew to pay back a loan. It was called a release to Jehovah. Since fields were left unworked that year, the release eased the pressure on those in debt.",
+    "ta": "ஏழாம் வருஷமான ஓய்வு வருஷத்தில், கடன் கொடுத்தவர் சக எபிரெயரிடம் கடனைத் திருப்பிக் கேட்டு நெருக்கக் கூடாது. அது யெகோவாவுக்காகக் கொடுக்கப்படும் விடுதலை என்று சொல்லப்பட்டது. அந்த வருஷம் வயல்களில் பயிர் செய்யப்படாததால், கடன்பட்டவர்களுக்கு இது பாரத்தைக் குறைத்தது."
    },
    "lesson": {
-    "en": "Jehovah wants his people to be generous and give others a fresh start.",
-    "ta": "தம் மக்கள் தாராளமாக இருந்து, மற்றவர்களுக்குப் புதிய தொடக்கம் கொடுக்க வேண்டும் என்று யெகோவா விரும்புகிறார்."
+    "en": "Jehovah wants us to be considerate and generous with those who struggle.",
+    "ta": "கஷ்டப்படுகிறவர்களிடம் நாம் கரிசனையோடும் தாராளமாகவும் நடக்க வேண்டும் என்று யெகோவா விரும்புகிறார்."
    },
    "ref": {
-    "en": "Deuteronomy 15:1, 2, 7, 8",
-    "ta": "உபாகமம் 15:1, 2, 7, 8"
+    "en": "Deuteronomy 15:1-3",
+    "ta": "உபாகமம் 15:1-3"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Sabbath-Year/"
+   },
+   "srcTitle": {
+    "en": "Insight: Sabbath Year",
+    "ta": "Insight: ஓய்வு வருஷம்"
+   }
   },
   {
    "id": "honest_scales",
@@ -1580,18 +1622,25 @@
     "ta": "சூரியன் மறைவதற்கு முன் கூலி"
    },
    "text": {
-    "en": "An employer had to pay a hired worker’s wages the same day, before sunset, because the worker depended on it.",
-    "ta": "கூலிக்காரனுக்கு அவனுடைய கூலியை அன்றைக்கே, சூரியன் மறைவதற்கு முன்பே கொடுக்க வேண்டியிருந்தது; ஏனென்றால் அவன் அதை நம்பியிருந்தான்."
+    "en": "The Law required that a hired worker be paid at the end of each workday, before sunset, because he was counting on that pay. The Scriptures strongly condemn anyone who cheats workers out of their wages.",
+    "ta": "கூலிக்காரனுக்கு ஒவ்வொரு நாளும் வேலை முடிந்ததும், சூரியன் மறைவதற்கு முன்பே, கூலி கொடுக்க வேண்டும் என்று திருச்சட்டம் சொன்னது; ஏனென்றால் அவன் அந்தக் கூலியை நம்பியிருந்தான். வேலையாட்களின் கூலியை ஏமாற்றுகிறவர்களை வேதவசனங்கள் கடுமையாகக் கண்டிக்கின்றன."
    },
    "lesson": {
     "en": "Jehovah cares about fair treatment of workers.",
     "ta": "வேலையாட்கள் நியாயமாக நடத்தப்பட வேண்டும் என்று யெகோவா அக்கறைப்படுகிறார்."
    },
    "ref": {
-    "en": "Deuteronomy 24:14, 15",
-    "ta": "உபாகமம் 24:14, 15"
+    "en": "Deuteronomy 24:14, 15 · Leviticus 19:13 · James 5:4",
+    "ta": "உபாகமம் 24:14, 15 · லேவியராகமம் 19:13 · யாக்கோபு 5:4"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Hire-Wages/"
+   },
+   "srcTitle": {
+    "en": "Insight: Hire, Wages",
+    "ta": "Insight: கூலி"
+   }
   },
   {
    "id": "amos",
@@ -2893,6 +2942,223 @@
    "srcTitle": {
     "en": "Watchtower: Questions From Readers",
     "ta": "காவற்கோபுரம்: வாசகர் கேள்வி"
+   }
+  },
+  {
+   "id": "ittai",
+   "cat": "character",
+   "scene": "desert",
+   "book": 10,
+   "chapter": 15,
+   "title": {
+    "en": "Ittai stays with David",
+    "ta": "தாவீதோடு நிலைத்திருந்த இத்தாயி"
+   },
+   "text": {
+    "en": "When Absalom rebelled and David fled Jerusalem, Ittai, a foreign warrior from Gath, came along with 600 men. David urged him to go back, but Ittai said he would stay with the king whether it meant life or death. Later David put him in charge of a third of the army.",
+    "ta": "அப்சலோம் கலகம் செய்ததால் தாவீது எருசலேமைவிட்டு ஓடியபோது, காத் ஊரைச் சேர்ந்த வெளிநாட்டுப் போர்வீரனான இத்தாயி 600 பேரோடு கூடவே வந்தார். திரும்பிப் போகும்படி தாவீது சொன்னார்; ஆனால், வாழ்வோ சாவோ ராஜாவோடுதான் இருப்பேன் என்று இத்தாயி சொன்னார். பிற்பாடு, படையில் மூன்றில் ஒரு பகுதிக்கு தாவீது அவரைத் தலைவராக்கினார்."
+   },
+   "lesson": {
+    "en": "Loyalty shows most when staying is hard.",
+    "ta": "நிலைத்திருப்பது கஷ்டமாக இருக்கும்போதுதான் உண்மைப்பற்று நன்றாகத் தெரிகிறது."
+   },
+   "ref": {
+    "en": "2 Samuel 15:18-22; 18:2",
+    "ta": "2 சாமுவேல் 15:18-22; 18:2"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Ittai/"
+   },
+   "srcTitle": {
+    "en": "Insight: Ittai",
+    "ta": "Insight: இத்தாயி"
+   }
+  },
+  {
+   "id": "oded",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 14,
+   "chapter": 28,
+   "title": {
+    "en": "Oded sends the captives home",
+    "ta": "கைதிகளை வீட்டுக்கு அனுப்பிய ஓதேத்"
+   },
+   "text": {
+    "en": "In King Ahaz’s day, Israel’s army returned to Samaria with about 200,000 captives from Judah. The prophet Oded met them and warned that Jehovah was angry at their plan to enslave their own brothers. Some leaders backed him, and the captives were clothed, fed and taken back home.",
+    "ta": "ஆகாஸ் ராஜாவின் காலத்தில், இஸ்ரவேல் படை யூதாவிலிருந்து சுமார் 2,00,000 பேரைக் கைதிகளாகச் சமாரியாவுக்குக் கொண்டுவந்தது. தீர்க்கதரிசியான ஓதேத் அவர்களைச் சந்தித்து, சொந்தச் சகோதரர்களை அடிமைகளாக்க நினைப்பதால் யெகோவா கோபமாக இருக்கிறார் என்று எச்சரித்தார். சில தலைவர்கள் அவருக்கு ஆதரவு கொடுத்தார்கள்; கைதிகளுக்கு உடையும் உணவும் கொடுக்கப்பட்டு, அவர்கள் வீட்டுக்குத் திருப்பி அனுப்பப்பட்டார்கள்."
+   },
+   "lesson": {
+    "en": "Speaking up for what is right can turn others away from a wrong course.",
+    "ta": "சரியானதைப் பற்றி தைரியமாகப் பேசினால், தவறான வழியிலிருந்து மற்றவர்களைத் திருப்ப முடியும்."
+   },
+   "ref": {
+    "en": "2 Chronicles 28:5-15",
+    "ta": "2 நாளாகமம் 28:5-15"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Oded/"
+   },
+   "srcTitle": {
+    "en": "Insight: Oded",
+    "ta": "Insight: ஓதேத்"
+   }
+  },
+  {
+   "id": "nazirite",
+   "cat": "law",
+   "scene": "desert",
+   "book": 4,
+   "chapter": 6,
+   "title": {
+    "en": "The Nazirite vow",
+    "ta": "நசரேய விரதம்"
+   },
+   "text": {
+    "en": "A man or woman in Israel could vow to live as a Nazirite for a time. During the vow they avoided wine and anything from the grapevine, let their hair grow, and stayed away from dead bodies. Some, like Samson and John the Baptizer, were Nazirites from birth.",
+    "ta": "இஸ்ரவேலில் ஒரு ஆணோ பெண்ணோ, சில காலத்துக்கு நசரேயராக வாழ விரதம் எடுக்கலாம். அந்தச் சமயத்தில், திராட்சமதுவையும் திராட்சைச் செடியிலிருந்து வரும் எதையும் தவிர்த்தார்கள், முடியை வெட்டாமல் வளரவிட்டார்கள், பிணத்தைத் தொடாமல் இருந்தார்கள். சிம்சோன், யோவான் ஸ்நானகர் போன்ற சிலர் பிறப்பிலிருந்தே நசரேயர்களாக இருந்தார்கள்."
+   },
+   "lesson": {
+    "en": "Giving something up for Jehovah is a way to show how much we love him.",
+    "ta": "யெகோவாவுக்காக எதையாவது விட்டுக்கொடுப்பது, அவர்மேல் நமக்கு இருக்கும் அன்பைக் காட்டும் ஒரு வழி."
+   },
+   "ref": {
+    "en": "Numbers 6:1-8 · Judges 13:5 · Luke 1:15",
+    "ta": "எண்ணாகமம் 6:1-8 · நியாயாதிபதிகள் 13:5 · லூக்கா 1:15"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Nazirite/"
+   },
+   "srcTitle": {
+    "en": "Insight: Nazirite",
+    "ta": "Insight: நசரேயர்"
+   }
+  },
+  {
+   "id": "two_sons",
+   "cat": "parable",
+   "scene": "field",
+   "book": 40,
+   "chapter": 21,
+   "title": {
+    "en": "Two sons and a vineyard",
+    "ta": "இரண்டு மகன்களும் திராட்சைத் தோட்டமும்"
+   },
+   "text": {
+    "en": "A father asked his two sons to work in his vineyard. The first said no but later felt regret and went; the second said yes but never went. Jesus applied it to the religious leaders, who claimed to serve God but did not, while repentant tax collectors and prostitutes believed John and changed.",
+    "ta": "ஒரு அப்பா தன் இரண்டு மகன்களிடம் திராட்சைத் தோட்டத்தில் வேலை செய்யச் சொன்னார். முதல் மகன் மாட்டேன் என்றான், ஆனால் பிறகு மனம் மாறிப் போனான்; இரண்டாம் மகன் போகிறேன் என்றான், ஆனால் போகவே இல்லை. கடவுளுக்குச் சேவை செய்வதாகச் சொல்லியும் செய்யாத மதத் தலைவர்களுக்கு இயேசு இதைப் பொருத்தினார்; வரி வசூலிப்பவர்களும் விபச்சாரிகளுமோ யோவானை நம்பி, மனம் திருந்தினார்கள்."
+   },
+   "lesson": {
+    "en": "What we do matters more than what we say we will do.",
+    "ta": "செய்வோம் என்று சொல்வதைவிட, செய்வதுதான் முக்கியம்."
+   },
+   "ref": {
+    "en": "Matthew 21:28-32",
+    "ta": "மத்தேயு 21:28-32"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/pc/r1/lp-e/1204372/830/0"
+   },
+   "srcTitle": {
+    "en": "Jesus—The Way: Chapter 106",
+    "ta": "இயேசுவே வழி: அதிகாரம் 106"
+   }
+  },
+  {
+   "id": "aeneas",
+   "cat": "miracle",
+   "scene": "city",
+   "book": 44,
+   "chapter": 9,
+   "title": {
+    "en": "Aeneas gets up",
+    "ta": "எழுந்து நின்ற ஐனேயா"
+   },
+   "text": {
+    "en": "In the town of Lydda, Peter met Aeneas, a man who had been paralyzed and confined to bed for eight years. Peter told him that Jesus Christ was healing him, and he got up at once. Many who saw him in Lydda and the Plain of Sharon turned to the Lord.",
+    "ta": "லித்தா என்ற ஊரில், எட்டு வருஷமாகப் படுத்த படுக்கையாக இருந்த ஐனேயா என்ற பக்கவாத நோயாளியைப் பேதுரு சந்தித்தார். இயேசு கிறிஸ்து உன்னைக் குணமாக்குகிறார் என்று பேதுரு சொன்னதும், அவர் உடனே எழுந்தார். லித்தாவிலும் சாரோன் சமவெளியிலும் அவரைப் பார்த்த பலர் எஜமானிடம் திரும்பினார்கள்."
+   },
+   "lesson": {
+    "en": "Giving credit to Jesus and Jehovah draws others to the truth.",
+    "ta": "புகழை இயேசுவுக்கும் யெகோவாவுக்கும் கொடுக்கும்போது மற்றவர்கள் சத்தியத்தின் பக்கம் வருகிறார்கள்."
+   },
+   "ref": {
+    "en": "Acts 9:32-35",
+    "ta": "அப்போஸ்தலர் 9:32-35"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Aeneas/"
+   },
+   "srcTitle": {
+    "en": "Insight: Aeneas",
+    "ta": "Insight: ஐனேயா"
+   }
+  },
+  {
+   "id": "immanuel",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 23,
+   "chapter": 7,
+   "title": {
+    "en": "A sign called Immanuel",
+    "ta": "இம்மானுவேல் என்ற அடையாளம்"
+   },
+   "text": {
+    "en": "When the kings of Israel and Syria schemed against King Ahaz, Jehovah gave Judah a sign through Isaiah: a child called Immanuel, meaning “With Us Is God.” Matthew applied the prophecy to Jesus, born to the virgin Mary by holy spirit. For Jesus, Immanuel was a title, not his personal name.",
+    "ta": "இஸ்ரவேல் ராஜாவும் சீரியா ராஜாவும் ஆகாஸ் ராஜாவுக்கு எதிராகச் சதி செய்தபோது, யெகோவா ஏசாயா மூலம் யூதாவுக்கு ஒரு அடையாளம் கொடுத்தார்: “கடவுள் நம்மோடு இருக்கிறார்” என்று அர்த்தம் தரும் இம்மானுவேல் என்ற பிள்ளை. கன்னிப்பெண்ணான மரியாளுக்குக் கடவுளுடைய சக்தியால் பிறந்த இயேசுவுக்கு மத்தேயு இந்தத் தீர்க்கதரிசனத்தைப் பொருத்தினார். இயேசுவுக்கு இம்மானுவேல் என்பது ஒரு பட்டப்பெயர், சொந்தப் பெயர் அல்ல."
+   },
+   "lesson": {
+    "en": "Jehovah’s promises reassure his people even in frightening times.",
+    "ta": "பயமுறுத்தும் சமயங்களிலும் யெகோவாவின் வாக்குறுதிகள் அவருடைய மக்களுக்குத் தைரியம் தருகின்றன."
+   },
+   "ref": {
+    "en": "Isaiah 7:1-16 · Matthew 1:22, 23",
+    "ta": "ஏசாயா 7:1-16 · மத்தேயு 1:22, 23"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Immanuel/"
+   },
+   "srcTitle": {
+    "en": "Insight: Immanuel",
+    "ta": "Insight: இம்மானுவேல்"
+   }
+  },
+  {
+   "id": "yes_means_yes",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 40,
+   "chapter": 5,
+   "title": {
+    "en": "Let your yes mean yes",
+    "ta": "ஆம் என்றால் ஆம்"
+   },
+   "text": {
+    "en": "Jesus told his followers to let their “Yes” mean yes and their “No” mean no. He was speaking against people who swore oaths they never meant to keep. Our most important yes is our dedication to Jehovah, but keeping smaller promises matters too.",
+    "ta": "உங்கள் “ஆம்” ஆம் என்றும் “இல்லை” இல்லை என்றும் இருக்கட்டும் என்று இயேசு தம் சீஷர்களிடம் சொன்னார். நிறைவேற்ற எண்ணமே இல்லாமல் ஆணையிட்டவர்களைப் பற்றித்தான் அவர் அப்படிச் சொன்னார். யெகோவாவுக்கு நம்மை ஒப்புக்கொடுத்ததுதான் நாம் சொன்ன மிக முக்கியமான “ஆம்”; ஆனாலும், சின்னச் சின்ன வாக்குறுதிகளைக் காப்பாற்றுவதும் முக்கியம்."
+   },
+   "lesson": {
+    "en": "Think before you promise, then do what you said.",
+    "ta": "வாக்குக் கொடுப்பதற்கு முன் யோசியுங்கள்; கொடுத்த பின் அதைச் செய்யுங்கள்."
+   },
+   "ref": {
+    "en": "Matthew 5:37",
+    "ta": "மத்தேயு 5:37"
+   },
+   "added": "2026-11-04",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/ws20121015/let-your-yes-mean-yes/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Let Your Yes Mean Yes",
+    "ta": "காவற்கோபுரம்: ஆம் என்றால் ஆம்"
    }
   }
  ]
