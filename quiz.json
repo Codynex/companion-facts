@@ -299,6 +299,156 @@
       "ref": "2 Chronicles 20:21, 22",
       "src": "https://wol.jw.org/en/wol/b/r1/lp-e/nwt/14/20",
       "added": "2026-11-04"
+    },
+    {
+      "id": "q_ehud",
+      "mode": "who",
+      "q": {
+        "en": "Which left-handed judge struck down Eglon, the king of Moab who had oppressed Israel?",
+        "ta": "இஸ்ரவேலரை ஒடுக்கிய மோவாப் ராஜா எக்லோனை வீழ்த்திய இடதுகைப் பழக்கமுள்ள நியாயாதிபதி யார்?"
+      },
+      "options": [
+        {
+          "en": "Othniel",
+          "ta": "ஒத்னியேல்"
+        },
+        {
+          "en": "Shamgar",
+          "ta": "சம்கார்"
+        },
+        {
+          "en": "Gideon",
+          "ta": "கிதியோன்"
+        },
+        {
+          "en": "Ehud",
+          "ta": "ஏகூத்"
+        }
+      ],
+      "answer": 3,
+      "ref": "Judges 3:12-25",
+      "src": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Eglon/",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "q_zacchaeus",
+      "mode": "who",
+      "q": {
+        "en": "Which chief tax collector in Jericho climbed a tree to see Jesus?",
+        "ta": "இயேசுவைப் பார்க்க மரத்தில் ஏறிய எரிகோவின் வரி வசூலிப்பவர்களின் தலைவர் யார்?"
+      },
+      "options": [
+        {
+          "en": "Matthew",
+          "ta": "மத்தேயு"
+        },
+        {
+          "en": "Zacchaeus",
+          "ta": "சகேயு"
+        },
+        {
+          "en": "Nicodemus",
+          "ta": "நிக்கொதேமு"
+        },
+        {
+          "en": "Bartimaeus",
+          "ta": "பர்திமேயு"
+        }
+      ],
+      "answer": 1,
+      "ref": "Luke 19:1-10",
+      "src": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Zacchaeus/",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "q_book_malta",
+      "mode": "book",
+      "q": {
+        "en": "Which Bible book tells about Paul’s shipwreck on the island of Malta?",
+        "ta": "மால்டா தீவில் பவுல் கப்பல் விபத்தில் சிக்கியதைப் பற்றி எந்த பைபிள் புத்தகம் சொல்கிறது?"
+      },
+      "options": [
+        {
+          "en": "Romans",
+          "ta": "ரோமர்"
+        },
+        {
+          "en": "2 Corinthians",
+          "ta": "2 கொரிந்தியர்"
+        },
+        {
+          "en": "Acts",
+          "ta": "அப்போஸ்தலர்"
+        },
+        {
+          "en": "Philippians",
+          "ta": "பிலிப்பியர்"
+        }
+      ],
+      "answer": 2,
+      "ref": "Acts 27:41–28:1",
+      "src": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070148/27992",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "q_ark_eight",
+      "mode": "basics",
+      "q": {
+        "en": "How many people were carried safely through the Flood in the ark?",
+        "ta": "பேழையில் எத்தனை பேர் பெருவெள்ளத்திலிருந்து பாதுகாப்பாகக் காப்பாற்றப்பட்டார்கள்?"
+      },
+      "options": [
+        {
+          "en": "Eight",
+          "ta": "எட்டு"
+        },
+        {
+          "en": "Six",
+          "ta": "ஆறு"
+        },
+        {
+          "en": "Ten",
+          "ta": "பத்து"
+        },
+        {
+          "en": "Twelve",
+          "ta": "பன்னிரண்டு"
+        }
+      ],
+      "answer": 0,
+      "ref": "1 Peter 3:20",
+      "src": "https://wol.jw.org/en/wol/dx/r1/lp-e/1001070164/30536",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "q_patmos",
+      "mode": "basics",
+      "q": {
+        "en": "On which island was the apostle John when he received the Revelation?",
+        "ta": "வெளிப்படுத்துதலைப் பெற்றபோது அப்போஸ்தலன் யோவான் எந்தத் தீவில் இருந்தார்?"
+      },
+      "options": [
+        {
+          "en": "Cyprus",
+          "ta": "சீப்புரு"
+        },
+        {
+          "en": "Crete",
+          "ta": "கிரேத்தா"
+        },
+        {
+          "en": "Patmos",
+          "ta": "பத்மு"
+        },
+        {
+          "en": "Malta",
+          "ta": "மால்டா"
+        }
+      ],
+      "answer": 2,
+      "ref": "Revelation 1:9",
+      "src": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Patmos/",
+      "added": "2026-11-05"
     }
   ],
   "removed": []

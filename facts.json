@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "removed": [],
  "facts": [
   {
@@ -1285,8 +1285,8 @@
     "ta": "துன்பப்பட்ட ஊழியர்"
    },
    "text": {
-    "en": "About 700 years in advance, Isaiah described the Messiah being despised, staying silent before his accusers and being buried with the rich.",
-    "ta": "சுமார் 700 வருஷங்களுக்கு முன்பே, மேசியா அவமதிக்கப்படுவார், குற்றம் சாட்டியவர்கள் முன் மௌனமாக இருப்பார், பணக்காரரோடு அடக்கம் செய்யப்படுவார் என்று ஏசாயா விவரித்தார்."
+    "en": "More than 700 years in advance, Isaiah wrote that the Messiah would be despised, would stay silent before his accusers, would die among the wicked and be buried with the rich. Jesus was executed between two criminals and laid in the new tomb of wealthy Joseph of Arimathea.",
+    "ta": "700-க்கும் அதிகமான வருஷங்களுக்கு முன்பே, மேசியா அவமதிக்கப்படுவார், குற்றம் சாட்டியவர்கள் முன் மௌனமாக இருப்பார், பொல்லாதவர்களோடு சாவார், பணக்காரரோடு அடக்கம் செய்யப்படுவார் என்று ஏசாயா எழுதினார். இயேசு இரண்டு குற்றவாளிகளுக்கு நடுவே கொல்லப்பட்டார்; பணக்காரரான அரிமத்தியா ஊர் யோசேப்புவின் புதிய கல்லறையில் வைக்கப்பட்டார்."
    },
    "lesson": {
     "en": "Jesus’ sacrifice was part of God’s purpose long before it happened.",
@@ -1296,7 +1296,14 @@
     "en": "Isaiah 53:3-9",
     "ta": "ஏசாயா 53:3-9"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102001034"
+   },
+   "srcTitle": {
+    "en": "Isaiah’s Prophecy: Messianic Servant",
+    "ta": "ஏசாயா தீர்க்கதரிசனம்: மேசியா ஊழியர்"
+   }
   },
   {
    "id": "nineveh_fall",
@@ -1433,8 +1440,8 @@
     "ta": "உங்களைத் தாழ்த்துங்கள்"
    },
    "text": {
-    "en": "James wrote that if we humble ourselves before Jehovah, he will lift us up.",
-    "ta": "யெகோவாவுக்கு முன் நம்மைத் தாழ்த்தினால், அவர் நம்மை உயர்த்துவார் என்று யாக்கோபு எழுதினார்."
+    "en": "James wrote that Jehovah opposes the proud but shows undeserved kindness to the humble, and that if we humble ourselves before him, he will lift us up. Jesus taught the same and showed it by washing his apostles’ feet.",
+    "ta": "யெகோவா பெருமையுள்ளவர்களை எதிர்க்கிறார், மனத்தாழ்மையுள்ளவர்களுக்கோ அளவற்ற கருணை காட்டுகிறார்; அவருக்கு முன் நம்மைத் தாழ்த்தினால் அவர் நம்மை உயர்த்துவார் என்று யாக்கோபு எழுதினார். இயேசுவும் இதையே கற்பித்தார்; தம் அப்போஸ்தலர்களின் கால்களைக் கழுவி அதைச் செய்தும் காட்டினார்."
    },
    "lesson": {
     "en": "Humility brings Jehovah’s favor; pride pushes it away.",
@@ -1444,7 +1451,14 @@
     "en": "James 4:6, 10",
     "ta": "யாக்கோபு 4:6, 10"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1991527"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Clothed With Humility",
+    "ta": "காவற்கோபுரம்: மனத்தாழ்மையை உடுத்துங்கள்"
+   }
   },
   {
    "id": "work_to_share",
@@ -1457,8 +1471,8 @@
     "ta": "பகிர்ந்துகொள்ள உழையுங்கள்"
    },
    "text": {
-    "en": "Paul encouraged Christians to work hard with their own hands so that they would have something to share with those in need.",
-    "ta": "தேவையிலிருப்பவர்களோடு பகிர்ந்துகொள்ள ஏதாவது இருக்கும்படி சொந்தக் கைகளால் கடினமாக உழைக்கும்படி பவுல் கிறிஸ்தவர்களை உற்சாகப்படுத்தினார்."
+    "en": "Paul told anyone who had been stealing to stop and instead work hard with his own hands, so that he would have something to share with those in need. Being poor never makes stealing right.",
+    "ta": "திருடிக்கொண்டிருந்தவர் இனி திருடாமல், தேவையிலிருப்பவர்களோடு பகிர்ந்துகொள்ள ஏதாவது இருக்கும்படி சொந்தக் கைகளால் கடினமாக உழைக்க வேண்டும் என்று பவுல் சொன்னார். ஏழையாக இருப்பது திருடுவதை ஒருபோதும் சரியாக்காது."
    },
    "lesson": {
     "en": "Honest work is a way to care for others too.",
@@ -1468,7 +1482,14 @@
     "en": "Ephesians 4:28",
     "ta": "எபேசியர் 4:28"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/magazines/w20100515/Do-Not-Grieve-Jehovahs-Holy-Spirit/"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Do Not Grieve the Spirit",
+    "ta": "காவற்கோபுரம்: கடவுளுடைய சக்தியைத் துக்கப்படுத்தாதீர்கள்"
+   }
   },
   {
    "id": "gracious_words",
@@ -1481,8 +1502,8 @@
     "ta": "உப்பால் சுவையூட்டப்பட்ட பேச்சு"
    },
    "text": {
-    "en": "Paul advised that our words should always be gracious, as if seasoned with salt, so that we know how to answer each person.",
-    "ta": "ஒவ்வொருவருக்கும் எப்படிப் பதில் சொல்ல வேண்டும் என்று தெரியும்படி, நம் பேச்சு உப்பால் சுவையூட்டப்பட்டதுபோல் எப்போதும் இனிமையாக இருக்க வேண்டும் என்று பவுல் ஆலோசனை சொன்னார்."
+    "en": "Paul advised that our words should always be gracious, as if seasoned with salt, so that we know how to answer each person. Just as salt makes food taste better, kind words make our message pleasant to accept, and that is for everyone, not only for special occasions.",
+    "ta": "ஒவ்வொருவருக்கும் எப்படிப் பதில் சொல்ல வேண்டும் என்று தெரியும்படி, நம் பேச்சு உப்பால் சுவையூட்டப்பட்டதுபோல் எப்போதும் இனிமையாக இருக்க வேண்டும் என்று பவுல் ஆலோசனை சொன்னார். உப்பு உணவைச் சுவையாக்குவதுபோல், அன்பான வார்த்தைகள் நம் செய்தியை ஏற்றுக்கொள்ள எளிதாக்குகின்றன; இது சில சந்தர்ப்பங்களுக்கு மட்டுமல்ல, எல்லாருக்கும்."
    },
    "lesson": {
     "en": "Kind, thoughtful words open hearts.",
@@ -1492,7 +1513,14 @@
     "en": "Colossians 4:6",
     "ta": "கொலோசெயர் 4:6"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070782"
+   },
+   "srcTitle": {
+    "en": "Study note: Colossians 4:6",
+    "ta": "ஆய்வுக் குறிப்பு: கொலோசெயர் 4:6"
+   }
   },
   {
    "id": "pray_constantly",
@@ -1598,18 +1626,25 @@
     "ta": "நேர்மையான தராசு"
    },
    "text": {
-    "en": "The Law required honest weights and measures in every sale.",
-    "ta": "ஒவ்வொரு வியாபாரத்திலும் நேர்மையான எடைக்கற்களையும் அளவுகளையும் பயன்படுத்த வேண்டும் என்று திருச்சட்டம் சொன்னது."
+    "en": "The Law required honest weights and measures in every sale. A cheating scale was detestable to Jehovah, yet some Israelites kept two sets of weights, one for buying and another for selling.",
+    "ta": "ஒவ்வொரு வியாபாரத்திலும் நேர்மையான எடைக்கற்களையும் அளவுகளையும் பயன்படுத்த வேண்டும் என்று திருச்சட்டம் சொன்னது. ஏமாற்றும் தராசை யெகோவா அருவருத்தார்; ஆனாலும், சில இஸ்ரவேலர்கள் வாங்குவதற்கு ஒன்று, விற்பதற்கு ஒன்று என்று இரண்டு விதமான எடைக்கற்களை வைத்திருந்தார்கள்."
    },
    "lesson": {
     "en": "Honesty in business matters to Jehovah.",
     "ta": "வியாபாரத்தில் நேர்மை யெகோவாவுக்கு முக்கியம்."
    },
    "ref": {
-    "en": "Leviticus 19:35, 36",
-    "ta": "லேவியராகமம் 19:35, 36"
+    "en": "Leviticus 19:35, 36 · Proverbs 11:1; 20:23",
+    "ta": "லேவியராகமம் 19:35, 36 · நீதிமொழிகள் 11:1; 20:23"
    },
-   "added": "2026-10-28"
+   "added": "2026-10-28",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Scales/"
+   },
+   "srcTitle": {
+    "en": "Insight: Scales",
+    "ta": "Insight: தராசு"
+   }
   },
   {
    "id": "same_day_wages",
@@ -3159,6 +3194,285 @@
    "srcTitle": {
     "en": "Watchtower: Let Your Yes Mean Yes",
     "ta": "காவற்கோபுரம்: ஆம் என்றால் ஆம்"
+   }
+  },
+  {
+   "id": "jethro",
+   "cat": "character",
+   "scene": "desert",
+   "book": 2,
+   "chapter": 18,
+   "title": {
+    "en": "Jethro’s wise advice",
+    "ta": "எத்திரோவின் ஞானமான ஆலோசனை"
+   },
+   "text": {
+    "en": "Moses’ father-in-law Jethro, a priest of Midian, visited Israel’s camp and praised Jehovah for rescuing his people. He then saw Moses settling disputes from morning till evening and warned that it would wear everyone out. He suggested capable, trustworthy men to handle simpler cases, and Moses listened.",
+    "ta": "மீதியானின் குருவான எத்திரோ, மோசேயின் மாமனார். அவர் இஸ்ரவேலரின் முகாமுக்கு வந்து, தம் மக்களைக் காப்பாற்றியதற்காக யெகோவாவைப் புகழ்ந்தார். காலை முதல் மாலை வரை மோசே வழக்குகளைத் தீர்த்து வைப்பதைப் பார்த்தபோது, இது எல்லாரையும் சோர்வடையச் செய்யும் என்று எச்சரித்தார். சின்ன வழக்குகளைக் கவனிக்க திறமையும் நம்பகத்தன்மையும் உள்ள ஆண்களை நியமிக்கச் சொன்னார்; மோசே அதைக் கேட்டு நடந்தார்."
+   },
+   "lesson": {
+    "en": "Sharing the load, and listening to good advice, helps everyone.",
+    "ta": "வேலையைப் பகிர்ந்துகொள்வதும் நல்ல ஆலோசனையைக் கேட்பதும் எல்லாருக்கும் நன்மை தரும்."
+   },
+   "ref": {
+    "en": "Exodus 18:1-27",
+    "ta": "யாத்திராகமம் 18:1-27"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Jethro/"
+   },
+   "srcTitle": {
+    "en": "Insight: Jethro",
+    "ta": "Insight: எத்திரோ"
+   }
+  },
+  {
+   "id": "gad_prophet",
+   "cat": "prophet",
+   "scene": "city",
+   "book": 10,
+   "chapter": 24,
+   "title": {
+    "en": "Gad, David’s visionary",
+    "ta": "தாவீதின் தரிசனக்காரர் காத்"
+   },
+   "text": {
+    "en": "The prophet Gad told David, while he was hiding from Saul, to go back to Judah. Years later, after David took a census he should not have taken, Jehovah sent Gad to give him a choice of punishments and then to tell him to build an altar on Araunah’s threshing floor. Gad also helped arrange the music for worship.",
+    "ta": "சவுலிடமிருந்து தாவீது ஒளிந்திருந்தபோது, யூதா தேசத்துக்குத் திரும்பிப் போகும்படி காத் தீர்க்கதரிசி சொன்னார். பல வருஷங்களுக்குப் பிறகு, தாவீது செய்யக்கூடாத மக்கள்தொகைக் கணக்கெடுப்பைச் செய்தபோது, தண்டனைகளில் ஒன்றைத் தேர்ந்தெடுக்கச் சொல்லவும், அர்வனாவின் களத்தில் பலிபீடம் கட்டச் சொல்லவும் யெகோவா காத்தை அனுப்பினார். வழிபாட்டுக்கான இசையை ஏற்பாடு செய்யவும் காத் உதவினார்."
+   },
+   "lesson": {
+    "en": "A true friend tells us what Jehovah says, even when it is hard to hear.",
+    "ta": "கேட்கக் கஷ்டமாக இருந்தாலும் யெகோவா சொல்வதைச் சொல்பவர்தான் உண்மையான நண்பர்."
+   },
+   "ref": {
+    "en": "1 Samuel 22:5; 2 Samuel 24:10-19; 2 Chronicles 29:25",
+    "ta": "1 சாமுவேல் 22:5; 2 சாமுவேல் 24:10-19; 2 நாளாகமம் 29:25"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Gad/"
+   },
+   "srcTitle": {
+    "en": "Insight: Gad",
+    "ta": "Insight: காத்"
+   }
+  },
+  {
+   "id": "newlywed_year",
+   "cat": "law",
+   "scene": "field",
+   "book": 5,
+   "chapter": 24,
+   "title": {
+    "en": "A year at home",
+    "ta": "வீட்டில் ஒரு வருஷம்"
+   },
+   "text": {
+    "en": "Under the Law, a man who had just married was not sent to war or given other public duties for a year. He stayed home to make his wife happy. The arrangement protected both husband and wife and gave them time to start a family.",
+    "ta": "திருச்சட்டத்தின்படி, புதிதாகக் கல்யாணம் செய்த ஒருவர் ஒரு வருஷத்துக்குப் போருக்கு அனுப்பப்படவில்லை, வேறு பொதுப் பொறுப்புகளும் கொடுக்கப்படவில்லை. அவர் வீட்டிலேயே இருந்து தன் மனைவியைச் சந்தோஷப்படுத்தினார். இந்த ஏற்பாடு கணவன், மனைவி இருவரையும் பாதுகாத்தது; குடும்பத்தைத் தொடங்க அவர்களுக்கு நேரமும் கொடுத்தது."
+   },
+   "lesson": {
+    "en": "Jehovah cares about a strong start for every marriage.",
+    "ta": "ஒவ்வொரு திருமணமும் நல்லபடியாகத் தொடங்க வேண்டும் என்று யெகோவா அக்கறைப்படுகிறார்."
+   },
+   "ref": {
+    "en": "Deuteronomy 24:5; 20:7",
+    "ta": "உபாகமம் 24:5; 20:7"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1200004621"
+   },
+   "srcTitle": {
+    "en": "Insight: Woman",
+    "ta": "Insight: பெண்"
+   }
+  },
+  {
+   "id": "wheat_weeds",
+   "cat": "parable",
+   "scene": "field",
+   "book": 40,
+   "chapter": 13,
+   "title": {
+    "en": "Wheat and weeds",
+    "ta": "கோதுமையும் களைகளும்"
+   },
+   "text": {
+    "en": "Jesus told of a man who sowed good seed, but while people slept an enemy sowed weeds in the same field. The owner let both grow until harvest, when the weeds would be gathered out. Jesus is the sower, the seed his anointed disciples, and the enemy the Devil; at the harvest, angels separate the true from the imitation.",
+    "ta": "ஒருவர் நல்ல விதையை விதைத்தார்; ஆனால், ஆட்கள் தூங்கிக்கொண்டிருந்தபோது எதிரி வந்து அதே வயலில் களைகளை விதைத்தான் என்று இயேசு சொன்னார். அறுவடை வரை இரண்டையும் வளர விடும்படி நிலத்தின் சொந்தக்காரர் சொன்னார்; அப்போது களைகள் தனியாகப் பிரிக்கப்படும். விதைப்பவர் இயேசு, விதை அவருடைய பரலோக நம்பிக்கையுள்ள சீஷர்கள், எதிரி பிசாசு; அறுவடையின்போது தேவதூதர்கள் உண்மையானவர்களைப் போலியானவர்களிடமிருந்து பிரிக்கிறார்கள்."
+   },
+   "lesson": {
+    "en": "Jehovah knows who truly serves him; we can wait for his timing.",
+    "ta": "தமக்கு உண்மையாகச் சேவை செய்கிறவர்கள் யார் என்று யெகோவாவுக்குத் தெரியும்; அவருடைய நேரத்துக்காக நாம் காத்திருக்கலாம்."
+   },
+   "ref": {
+    "en": "Matthew 13:24-30, 36-43",
+    "ta": "மத்தேயு 13:24-30, 36-43"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/202018044"
+   },
+   "srcTitle": {
+    "en": "Workbook: Wheat and Weeds",
+    "ta": "பணிப்புத்தகம்: கோதுமையும் களைகளும்"
+   }
+  },
+  {
+   "id": "walking_on_water",
+   "cat": "miracle",
+   "scene": "sea",
+   "book": 40,
+   "chapter": 14,
+   "title": {
+    "en": "Peter steps onto the water",
+    "ta": "தண்ணீர் மேல் நடந்த பேதுரு"
+   },
+   "text": {
+    "en": "During a storm on the Sea of Galilee, the apostles saw Jesus walking toward their boat on the water. Peter asked to come to him and began walking too, but when he looked at the storm, fear took over and he started to sink. Jesus caught his hand, the wind stopped, and the apostles said he was God’s Son.",
+    "ta": "கலிலேயா கடலில் புயல் அடித்தபோது, இயேசு தண்ணீர் மேல் நடந்து தங்கள் படகை நோக்கி வருவதை அப்போஸ்தலர்கள் பார்த்தார்கள். தன்னையும் வரச் சொல்லும்படி பேதுரு கேட்டு, அவரும் நடக்க ஆரம்பித்தார். ஆனால், புயலைப் பார்த்ததும் பயந்து மூழ்க ஆரம்பித்தார். இயேசு அவருடைய கையைப் பிடித்தார்; காற்று நின்றது; அவர் கடவுளுடைய மகன் என்று அப்போஸ்தலர்கள் சொன்னார்கள்."
+   },
+   "lesson": {
+    "en": "Keep your eyes on Jesus, not on the storm.",
+    "ta": "புயலை அல்ல, இயேசுவைப் பாருங்கள்."
+   },
+   "ref": {
+    "en": "Matthew 14:22-33",
+    "ta": "மத்தேயு 14:22-33"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1102016094"
+   },
+   "srcTitle": {
+    "en": "Bible Lessons: Jesus Walks on Water",
+    "ta": "பைபிள் பாடங்கள்: தண்ணீர் மேல் நடந்த இயேசு"
+   }
+  },
+  {
+   "id": "sour_wine",
+   "cat": "prophecy",
+   "scene": "stars",
+   "book": 40,
+   "chapter": 27,
+   "title": {
+    "en": "Sour wine to drink",
+    "ta": "குடிக்கப் புளிப்பான திராட்சமது"
+   },
+   "text": {
+    "en": "A psalm foretold that the Messiah would be given bitter gall and sour wine. At his execution, Jesus was first offered wine mixed with gall and refused it, evidently to keep his mind clear. Later, someone soaked a sponge in sour wine, the cheap drink of soldiers, and held it up to him on a reed.",
+    "ta": "மேசியாவுக்குக் கசப்பான பொருளும் புளிப்பான திராட்சமதுவும் கொடுக்கப்படும் என்று ஒரு சங்கீதம் முன்னறிவித்தது. இயேசுவைக் கொல்லும்போது, முதலில் கசப்பு கலந்த திராட்சமது அவருக்குக் கொடுக்கப்பட்டது; தெளிவான மனதோடு இருப்பதற்காக அவர் அதைக் குடிக்க மறுத்தார். பிறகு, போர்வீரர்கள் குடித்த மலிவான புளிப்பான திராட்சமதுவில் ஒருவர் கடற்பஞ்சை நனைத்து, ஒரு கோலில் வைத்து அவரிடம் நீட்டினார்."
+   },
+   "lesson": {
+    "en": "Even small details of Jehovah’s prophecies come true.",
+    "ta": "யெகோவாவின் தீர்க்கதரிசனங்களில் இருக்கும் சின்னச் சின்ன விவரங்களும் நிறைவேறுகின்றன."
+   },
+   "ref": {
+    "en": "Psalm 69:21 · Matthew 27:34, 48",
+    "ta": "சங்கீதம் 69:21 · மத்தேயு 27:34, 48"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/1001070627"
+   },
+   "srcTitle": {
+    "en": "Study note: Matthew 27:48",
+    "ta": "ஆய்வுக் குறிப்பு: மத்தேயு 27:48"
+   }
+  },
+  {
+   "id": "weep_with_others",
+   "cat": "principle",
+   "scene": "dawn",
+   "book": 45,
+   "chapter": 12,
+   "title": {
+    "en": "Weep with those who weep",
+    "ta": "அழுகிறவர்களோடு அழுங்கள்"
+   },
+   "text": {
+    "en": "Paul urged Christians to rejoice with those who rejoice and weep with those who weep. Empathy means feeling someone’s pain as if it were ours. Jesus wept with Mary and Martha even though he knew he would raise Lazarus.",
+    "ta": "சந்தோஷப்படுகிறவர்களோடு சந்தோஷப்படவும், அழுகிறவர்களோடு அழவும் பவுல் கிறிஸ்தவர்களை உற்சாகப்படுத்தினார். மற்றவருடைய வேதனையை நம்முடைய வேதனையாக உணர்வதுதான் பரிவு. லாசருவை உயிரோடு எழுப்பப்போவது தெரிந்திருந்தும், இயேசு மரியாளோடும் மார்த்தாளோடும் சேர்ந்து அழுதார்."
+   },
+   "lesson": {
+    "en": "Listening and staying close can comfort more than many words.",
+    "ta": "நிறைய வார்த்தைகளைவிட, கூடவே இருந்து காதுகொடுத்துக் கேட்பது அதிக ஆறுதல் தரும்."
+   },
+   "ref": {
+    "en": "Romans 12:15 · John 11:33-36",
+    "ta": "ரோமர் 12:15 · யோவான் 11:33-36"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://wol.jw.org/en/wol/d/r1/lp-e/402017483"
+   },
+   "srcTitle": {
+    "en": "Watchtower: Weep With Those Who Weep",
+    "ta": "காவற்கோபுரம்: அழுகிறவர்களோடு அழுங்கள்"
+   }
+  },
+  {
+   "id": "abigail",
+   "cat": "character",
+   "scene": "field",
+   "book": 9,
+   "chapter": 25,
+   "title": {
+    "en": "Abigail",
+    "ta": "அபிகாயில்"
+   },
+   "text": {
+    "en": "Abigail, a sensible woman, was married to Nabal, a harsh man who insulted David’s men. When David set out to strike Nabal’s household, Abigail quickly brought food and begged him not to shed blood. David thanked Jehovah for her good sense, and after Nabal died, he married her.",
+    "ta": "அபிகாயில் விவேகமுள்ள பெண்; அவளுடைய கணவன் நாபால் கடுமையானவன், தாவீதின் ஆட்களை அவமானப்படுத்தினான். நாபாலின் வீட்டாரைத் தாக்க தாவீது புறப்பட்டபோது, அபிகாயில் சீக்கிரமாக உணவைக் கொண்டுபோய், இரத்தம் சிந்த வேண்டாம் என்று அவரிடம் கெஞ்சினாள். அவளுடைய விவேகத்துக்காக தாவீது யெகோவாவுக்கு நன்றி சொன்னார்; நாபால் இறந்த பிறகு அவளைக் கல்யாணம் செய்தார்."
+   },
+   "lesson": {
+    "en": "Quick, humble action can stop a wrong before it happens.",
+    "ta": "சீக்கிரமாகவும் மனத்தாழ்மையோடும் செயல்பட்டால், ஒரு தவறு நடப்பதற்கு முன்பே அதைத் தடுக்கலாம்."
+   },
+   "ref": {
+    "en": "1 Samuel 25:2-42",
+    "ta": "1 சாமுவேல் 25:2-42"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abigail/"
+   },
+   "srcTitle": {
+    "en": "Insight: Abigail",
+    "ta": "Insight: அபிகாயில்"
+   }
+  },
+  {
+   "id": "abraham",
+   "cat": "character",
+   "scene": "desert",
+   "book": 1,
+   "chapter": 22,
+   "title": {
+    "en": "Abraham, Jehovah’s friend",
+    "ta": "யெகோவாவின் நண்பர் ஆபிரகாம்"
+   },
+   "text": {
+    "en": "At 75, Abraham left Haran for Canaan, trusting Jehovah’s promise without knowing what lay ahead. Later he was ready to offer his son Isaac, believing God could even raise him from the dead, and Jehovah stopped him and provided a ram. Because his faith showed in what he did, he was called Jehovah’s friend.",
+    "ta": "75 வயதில், எதிர்காலத்தில் என்ன நடக்கும் என்று தெரியாவிட்டாலும் யெகோவாவின் வாக்குறுதியை நம்பி, ஆபிரகாம் ஆரான் நகரத்தை விட்டு கானானுக்குப் போனார். பிறகு, கடவுள் ஈசாக்கை மரணத்திலிருந்தும் எழுப்ப முடியும் என்று நம்பி, தன் மகனைப் பலி கொடுக்கத் தயாராக இருந்தார்; யெகோவா அவரைத் தடுத்து ஒரு செம்மறியாட்டுக் கடாவைக் கொடுத்தார். அவருடைய விசுவாசம் செயலில் தெரிந்ததால், அவர் யெகோவாவின் நண்பர் என்று அழைக்கப்பட்டார்."
+   },
+   "lesson": {
+    "en": "Faith that shows in our actions draws us close to Jehovah.",
+    "ta": "செயலில் தெரியும் விசுவாசம் நம்மை யெகோவாவிடம் நெருங்க வைக்கிறது."
+   },
+   "ref": {
+    "en": "Genesis 12:1-4; 22:1-18 · James 2:21-23",
+    "ta": "ஆதியாகமம் 12:1-4; 22:1-18 · யாக்கோபு 2:21-23"
+   },
+   "added": "2026-11-05",
+   "src": {
+    "en": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abraham/"
+   },
+   "srcTitle": {
+    "en": "Insight: Abraham",
+    "ta": "Insight: ஆபிரகாம்"
    }
   }
  ]
