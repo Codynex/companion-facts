@@ -3,6 +3,7 @@
 Daily Bible fact cards (English and Tamil) for my personal study companion app.
 
 - `facts.json` — the feed the app downloads. New cards are added every day.
+- `quiz.json` — quiz questions the app downloads. New questions are added every day.
 - `built_in_ids.txt` — ids of the cards built into the app (a feed entry with the same id replaces one).
 - `scripts/validate.py` — checks the feed before each update.
 

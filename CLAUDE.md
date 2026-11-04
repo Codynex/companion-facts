@@ -21,8 +21,10 @@ Each run:
    Then **source 7 older cards**: pick cards without `"src"` (feed cards first, then ids in `built_in_ids.txt`),
    research each the same way, add `"src"`/`"srcTitle"` and correct anything the page contradicts. For a built-in id,
    add a full entry with that id to `facts.json`, written fresh from the page, keeping its original `"added"` date or today's if it had none.
-3. Run `python3 scripts/validate.py`; fix anything it reports.
-4. Commit to `main` with a message like `Add 7 facts, source 7, fix 1 (2026-10-29)` and push.
+3. **Add 5 new quiz questions** to `quiz.json` (see "Writing a quiz question" below), researched the same way.
+   Issues titled `Fix: q_<id>` are quiz questions: fix them in `quiz.json` or add the id to its `"removed"` list.
+4. Run `python3 scripts/validate.py` and `python3 scripts/validate_quiz.py`; fix anything they report.
+5. Commit to `main` with a message like `Add 7 facts, 5 quiz, source 7, fix 1 (2026-10-29)` and push.
 
 ## Writing a card
 
@@ -41,6 +43,25 @@ Each run:
   "srcTitle": {"en": "Insight: Rahab", "ta": "Insight: ராகாப்"}             // short button label
 }
 ```
+
+## Writing a quiz question
+
+```json
+{
+  "id": "q_bereans",                 // q_ + lowercase_with_underscores, never reused
+  "mode": "basics",                  // who (a person) | book (which Bible book) | basics (events, numbers, places, teachings)
+  "q": {"en": "...", "ta": "..."},
+  "options": [{"en": "...", "ta": "..."}, {"en": "...", "ta": "..."}, {"en": "...", "ta": "..."}, {"en": "...", "ta": "..."}],
+  "answer": 2,                       // index 0-3 of the right option; vary the position
+  "ref": "Acts 17:10, 11",           // where the answer is in the Bible
+  "src": "https://wol.jw.org/...",   // the wol.jw.org / jw.org page you checked (a wol Bible chapter is fine)
+  "added": "2026-11-04"
+}
+```
+
+- Exactly 4 options, one clearly right; wrong options plausible (same kind of thing: people, books, numbers).
+- Mix the three modes and both Testaments; prefer things not already asked (check every id and question in `quiz.json`).
+- Own words, same accuracy and Tamil rules as the cards.
 
 ## Researching on jw.org
 
